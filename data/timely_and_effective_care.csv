@@ -1,0 +1,1001 @@
+timely_and_effective_care_id,provider_id,condition,measure_id,measure_name,score,sample,footnote,measure_start_date,measure_end_date
+N1000,1014,Heart Attack or Chest Pain,AMI_10,Statin at Discharge,98,594,,10/1/12,9/30/13
+N10000,1019,Blood Clot Prevention and Treatment,VTE_4,Unfractionated heparin with dosages/platelet count monitoring,100,22,2 - Data submitted were based on a sample of cases/patients.,1/1/13,9/30/13
+N100000,1021,Stroke Care,STK_4,Thrombolytic Therapy,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100001,3012,Stroke Care,STK_5,Antithrombotic Therapy by End of Hospital Day 2 ,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100002,3013,Stroke Care,STK_6,Discharged on Statin Medication,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100003,3033,Stroke Care,STK_8,Stroke Education,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100004,4009,Blood Clot Prevention and Treatment,VTE_1,Venous thromboembolism prophylaxis,42,69,2 - Data submitted were based on a sample of cases/patients.,1/1/13,9/30/13
+N100005,4010,Blood Clot Prevention and Treatment,VTE_2,ICU venous thromboembolism prophylaxis,NULL,NULL,"1 - The number of cases/patients is too few to report., 2 - Data submitted were based on a sample of cases/patients.",1/1/13,9/30/13
+N100006,5025,Blood Clot Prevention and Treatment,VTE_3,Anticoagulation overlap therapy,NULL,NULL,"1 - The number of cases/patients is too few to report., 2 - Data submitted were based on a sample of cases/patients.",1/1/13,9/30/13
+N100007,5027,Blood Clot Prevention and Treatment,VTE_4,Unfractionated heparin with dosages/platelet count monitoring,NULL,NULL,"1 - The number of cases/patients is too few to report., 2 - Data submitted were based on a sample of cases/patients.",1/1/13,9/30/13
+N100008,5030,Blood Clot Prevention and Treatment,VTE_5,Warfarin therapy discharge instructions,NULL,NULL,"1 - The number of cases/patients is too few to report., 2 - Data submitted were based on a sample of cases/patients.",1/1/13,9/30/13
+N100009,5031,Blood Clot Prevention and Treatment,VTE_6,Incidence of potentially preventable VTE,NULL,NULL,"1 - The number of cases/patients is too few to report., 2 - Data submitted were based on a sample of cases/patients.",1/1/13,9/30/13
+N10001,5114,Blood Clot Prevention and Treatment,VTE_5,Warfarin therapy discharge instructions,50,60,2 - Data submitted were based on a sample of cases/patients.,1/1/13,9/30/13
+N100010,5127,Heart Attack or Chest Pain,AMI_10,Statin at Discharge,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100011,5128,Heart Attack or Chest Pain,AMI_2,Aspirin prescribed at discharge,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100012,5130,Heart Attack or Chest Pain,AMI_7a,Heart attack patients given drugs to break up blood clots within 30 minutes of arrival,NULL,0,7 - No cases met the criteria for this measure.,10/1/12,9/30/13
+N100013,6005,Heart Attack or Chest Pain,AMI_8a,Primary PCI Received Within 90 Minutes of Hospital Arrival,NULL,0,7 - No cases met the criteria for this measure.,10/1/12,9/30/13
+N100014,6007,Emergency Department,ED_1b,ED1,246,114,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100015,7003,Emergency Department,ED_2b,ED2,55,105,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100016,8002,Heart Failure,HF_1,Discharge instructions,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100017,9002,Heart Failure,HF_2,Evaluation of LVS Function,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100018,100001,Heart Failure,HF_3,ACEI or ARB for LVSD,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100019,100002,Preventive Care,IMM_1a,Immunization for pneumonia,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N10002,100006,Blood Clot Prevention and Treatment,VTE_6,Incidence of potentially preventable VTE,9,11,2 - Data submitted were based on a sample of cases/patients.,1/1/13,9/30/13
+N100020,100007,Preventive Care,IMM_2,Immunization for influenza,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,3/31/13
+N100021,100008,Heart Attack or Chest Pain,OP_1,Median Time to Fibrinolysis,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100022,100009,Emergency Department,OP_18b,OP 18,103,986,,10/1/12,9/30/13
+N100023,10001,Heart Attack or Chest Pain,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100024,100012,Emergency Department,OP_20,Door to diagnostic eval,28,579,,10/1/12,9/30/13
+N100025,100014,Emergency Department,OP_21,Median time to pain med,59,28,,10/1/12,9/30/13
+N100026,100017,Emergency Department,OP_22,Left before being seen,NULL,NULL,5 - Results are not available for this reporting period.,1/1/12,12/31/12
+N100027,100018,Emergency Department,OP_23,Head CT results,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100028,100019,Heart Attack or Chest Pain,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100029,100022,Heart Attack or Chest Pain,OP_4,Aspirin at Arrival,96,27,,10/1/12,9/30/13
+N10003,100023,Heart Attack or Chest Pain,AMI_10,Statin at Discharge,NULL,0,"3 - Results are based on a shorter time period than required., 7 - No cases met the criteria for this measure.",10/1/12,9/30/13
+N100030,100025,Heart Attack or Chest Pain,OP_5,Median Time to ECG,12,27,,10/1/12,9/30/13
+N100031,100026,Surgical Care Improvement Project,OP_6,Prophylactic Antibiotic Initiated Within One Hour Prior to Surgical Incision,98,42,,10/1/12,9/30/13
+N100032,100028,Surgical Care Improvement Project,OP_7,Prophylactic Antibiotic Selection for Surgical Patients,91,70,,10/1/12,9/30/13
+N100033,100029,Pregnancy and Delivery Care,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100034,100030,Pneumonia,PN_3b,Blood Cultures Performed in the Emergency Department Prior to Initial Antibiotic Received in Hospital,98,56,,10/1/12,9/30/13
+N100035,100032,Pneumonia,PN_6,Initial antibiotic selection for CAP in immunocompetent patient,91,34,,10/1/12,9/30/13
+N100036,100034,Surgical Care Improvement Project,SCIP_CARD_2,Surgery Patients on a Beta Blocker Prior to Arrival Who Received a Beta Blocker During the Perioperative Period,100,40,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100037,100035,Surgical Care Improvement Project,SCIP_INF_1,Prophylactic antibiotic received within 1 hour prior to surgical incision,98,167,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100038,100038,Surgical Care Improvement Project,SCIP_INF_10,Surgery Patients with Perioperative Temperature Management,100,201,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100039,100039,Surgical Care Improvement Project,SCIP_INF_2,Prophylactic Antibiotic Selection for Surgical Patients,99,167,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N10004,100040,Heart Attack or Chest Pain,AMI_2,Aspirin prescribed at discharge,NULL,NULL,"1 - The number of cases/patients is too few to report., 3 - Results are based on a shorter time period than required.",10/1/12,9/30/13
+N100040,100043,Surgical Care Improvement Project,SCIP_INF_3,Prophylactic antibiotics discontinued within 24 hours after surgery end time,98,167,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100041,100044,Surgical Care Improvement Project,SCIP_INF_4,Cardiac Surgery Patients With Controlled 6 A.M. Postoperative Blood Glucose,NULL,0,"2 - Data submitted were based on a sample of cases/patients., 7 - No cases met the criteria for this measure.",10/1/12,9/30/13
+N100042,100045,Surgical Care Improvement Project,SCIP_INF_9,Postoperative Urinary Catheter Removal,100,41,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100043,100046,Surgical Care Improvement Project,SCIP_VTE_2,Surgery Patients Who Received Appropriate Venous Thromboembolism Prophylaxis Within 24 Hours Prior to Surgery to 24 Hours After Surgery,96,133,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100044,100047,Stroke Care,STK_1,Venous Thromboembolism (VTE) Prophylaxis,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100045,100048,Stroke Care,STK_10,Assessed for Rehabilitation,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100046,100049,Stroke Care,STK_2,Discharged on Antithrombotic Therapy,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100047,10005,Stroke Care,STK_3,Anticoagulation Therapy for Atrial Fibrillation/Flutter,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100048,100050,Stroke Care,STK_4,Thrombolytic Therapy,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100049,100051,Stroke Care,STK_5,Antithrombotic Therapy by End of Hospital Day 2 ,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N10005,100052,Heart Attack or Chest Pain,AMI_7a,Heart attack patients given drugs to break up blood clots within 30 minutes of arrival,NULL,0,"3 - Results are based on a shorter time period than required., 7 - No cases met the criteria for this measure.",10/1/12,9/30/13
+N100050,100053,Stroke Care,STK_6,Discharged on Statin Medication,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100051,100054,Stroke Care,STK_8,Stroke Education,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100052,100055,Blood Clot Prevention and Treatment,VTE_1,Venous thromboembolism prophylaxis,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100053,100057,Blood Clot Prevention and Treatment,VTE_2,ICU venous thromboembolism prophylaxis,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100054,10006,Blood Clot Prevention and Treatment,VTE_3,Anticoagulation overlap therapy,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100055,100062,Blood Clot Prevention and Treatment,VTE_4,Unfractionated heparin with dosages/platelet count monitoring,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100056,100063,Blood Clot Prevention and Treatment,VTE_5,Warfarin therapy discharge instructions,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100057,100067,Blood Clot Prevention and Treatment,VTE_6,Incidence of potentially preventable VTE,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100058,100068,Heart Attack or Chest Pain,AMI_10,Statin at Discharge,NULL,0,"3 - Results are based on a shorter time period than required., 7 - No cases met the criteria for this measure.",10/1/12,9/30/13
+N100059,100069,Heart Attack or Chest Pain,AMI_2,Aspirin prescribed at discharge,NULL,NULL,"1 - The number of cases/patients is too few to report., 3 - Results are based on a shorter time period than required.",10/1/12,9/30/13
+N10006,10007,Heart Attack or Chest Pain,AMI_8a,Primary PCI Received Within 90 Minutes of Hospital Arrival,NULL,0,"3 - Results are based on a shorter time period than required., 7 - No cases met the criteria for this measure.",10/1/12,9/30/13
+N100060,100070,Heart Attack or Chest Pain,AMI_7a,Heart attack patients given drugs to break up blood clots within 30 minutes of arrival,NULL,0,"3 - Results are based on a shorter time period than required., 7 - No cases met the criteria for this measure.",10/1/12,9/30/13
+N100061,100071,Heart Attack or Chest Pain,AMI_8a,Primary PCI Received Within 90 Minutes of Hospital Arrival,NULL,0,"3 - Results are based on a shorter time period than required., 7 - No cases met the criteria for this measure.",10/1/12,9/30/13
+N100062,100072,Emergency Department,ED_1b,ED1,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100063,100073,Emergency Department,ED_2b,ED2,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100064,100075,Heart Failure,HF_1,Discharge instructions,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100065,100076,Heart Failure,HF_2,Evaluation of LVS Function,100,13,,10/1/12,9/30/13
+N100066,100077,Heart Failure,HF_3,ACEI or ARB for LVSD,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100067,100079,Preventive Care,IMM_1a,Immunization for pneumonia,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100068,10008,Preventive Care,IMM_2,Immunization for influenza,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,3/31/13
+N100069,100080,Heart Attack or Chest Pain,OP_1,Median Time to Fibrinolysis,NULL,0,"3 - Results are based on a shorter time period than required., 7 - No cases met the criteria for this measure.",10/1/12,9/30/13
+N10007,100081,Emergency Department,ED_1b,ED1,145,319,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100070,100084,Emergency Department,OP_18b,OP 18,124,328,,10/1/12,9/30/13
+N100071,100086,Heart Attack or Chest Pain,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,NULL,0,"3 - Results are based on a shorter time period than required., 7 - No cases met the criteria for this measure.",10/1/12,9/30/13
+N100072,100087,Emergency Department,OP_20,Door to diagnostic eval,27,377,,10/1/12,9/30/13
+N100073,100088,Emergency Department,OP_21,Median time to pain med,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100074,100090,Emergency Department,OP_22,Left before being seen,NULL,NULL,5 - Results are not available for this reporting period.,1/1/12,12/31/12
+N100075,100092,Emergency Department,OP_23,Head CT results,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100076,100093,Heart Attack or Chest Pain,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,NULL,0,"3 - Results are based on a shorter time period than required., 7 - No cases met the criteria for this measure.",10/1/12,9/30/13
+N100077,100099,Heart Attack or Chest Pain,OP_4,Aspirin at Arrival,NULL,NULL,"1 - The number of cases/patients is too few to report., 3 - Results are based on a shorter time period than required.",10/1/12,9/30/13
+N100078,10009,Heart Attack or Chest Pain,OP_5,Median Time to ECG,NULL,NULL,"1 - The number of cases/patients is too few to report., 3 - Results are based on a shorter time period than required.",10/1/12,9/30/13
+N100079,100102,Surgical Care Improvement Project,OP_6,Prophylactic Antibiotic Initiated Within One Hour Prior to Surgical Incision,NULL,NULL,"1 - The number of cases/patients is too few to report., 3 - Results are based on a shorter time period than required.",10/1/12,9/30/13
+N10008,100105,Emergency Department,ED_2b,ED2,55,293,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100080,100106,Surgical Care Improvement Project,OP_7,Prophylactic Antibiotic Selection for Surgical Patients,NULL,NULL,"1 - The number of cases/patients is too few to report., 3 - Results are based on a shorter time period than required.",10/1/12,9/30/13
+N100081,100107,Pregnancy and Delivery Care,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100082,100109,Pneumonia,PN_3b,Blood Cultures Performed in the Emergency Department Prior to Initial Antibiotic Received in Hospital,100,28,,10/1/12,9/30/13
+N100083,10011,Pneumonia,PN_6,Initial antibiotic selection for CAP in immunocompetent patient,100,19,,10/1/12,9/30/13
+N100084,100110,Surgical Care Improvement Project,SCIP_CARD_2,Surgery Patients on a Beta Blocker Prior to Arrival Who Received a Beta Blocker During the Perioperative Period,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100085,100113,Surgical Care Improvement Project,SCIP_INF_1,Prophylactic antibiotic received within 1 hour prior to surgical incision,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100086,100117,Surgical Care Improvement Project,SCIP_INF_10,Surgery Patients with Perioperative Temperature Management,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100087,100118,Surgical Care Improvement Project,SCIP_INF_2,Prophylactic Antibiotic Selection for Surgical Patients,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100088,10012,Surgical Care Improvement Project,SCIP_INF_3,Prophylactic antibiotics discontinued within 24 hours after surgery end time,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100089,100121,Surgical Care Improvement Project,SCIP_INF_4,Cardiac Surgery Patients With Controlled 6 A.M. Postoperative Blood Glucose,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N10009,100122,Heart Failure,HF_1,Discharge instructions,100,37,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100090,100124,Surgical Care Improvement Project,SCIP_INF_9,Postoperative Urinary Catheter Removal,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100091,100125,Surgical Care Improvement Project,SCIP_VTE_2,Surgery Patients Who Received Appropriate Venous Thromboembolism Prophylaxis Within 24 Hours Prior to Surgery to 24 Hours After Surgery,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100092,100126,Stroke Care,STK_1,Venous Thromboembolism (VTE) Prophylaxis,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100093,100127,Stroke Care,STK_10,Assessed for Rehabilitation,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100094,100128,Stroke Care,STK_2,Discharged on Antithrombotic Therapy,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100095,100130,Stroke Care,STK_3,Anticoagulation Therapy for Atrial Fibrillation/Flutter,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100096,100131,Stroke Care,STK_4,Thrombolytic Therapy,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100097,100132,Stroke Care,STK_5,Antithrombotic Therapy by End of Hospital Day 2 ,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100098,100134,Stroke Care,STK_6,Discharged on Statin Medication,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100099,100135,Stroke Care,STK_8,Stroke Education,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N1001,100137,Heart Attack or Chest Pain,AMI_2,Aspirin prescribed at discharge,100,601,,10/1/12,9/30/13
+N10010,100140,Heart Failure,HF_2,Evaluation of LVS Function,93,57,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100100,100142,Blood Clot Prevention and Treatment,VTE_1,Venous thromboembolism prophylaxis,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100101,100150,Blood Clot Prevention and Treatment,VTE_2,ICU venous thromboembolism prophylaxis,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100102,100151,Blood Clot Prevention and Treatment,VTE_3,Anticoagulation overlap therapy,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100103,100154,Blood Clot Prevention and Treatment,VTE_4,Unfractionated heparin with dosages/platelet count monitoring,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100104,100156,Blood Clot Prevention and Treatment,VTE_5,Warfarin therapy discharge instructions,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100105,100157,Blood Clot Prevention and Treatment,VTE_6,Incidence of potentially preventable VTE,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100106,10016,Heart Attack or Chest Pain,AMI_10,Statin at Discharge,NULL,NULL,"1 - The number of cases/patients is too few to report., 3 - Results are based on a shorter time period than required.",10/1/12,9/30/13
+N100107,100161,Heart Attack or Chest Pain,AMI_2,Aspirin prescribed at discharge,NULL,NULL,"1 - The number of cases/patients is too few to report., 3 - Results are based on a shorter time period than required.",10/1/12,9/30/13
+N100108,100166,Heart Attack or Chest Pain,AMI_7a,Heart attack patients given drugs to break up blood clots within 30 minutes of arrival,NULL,0,"3 - Results are based on a shorter time period than required., 7 - No cases met the criteria for this measure.",10/1/12,9/30/13
+N100109,100167,Heart Attack or Chest Pain,AMI_8a,Primary PCI Received Within 90 Minutes of Hospital Arrival,NULL,0,"3 - Results are based on a shorter time period than required., 7 - No cases met the criteria for this measure.",10/1/12,9/30/13
+N10011,100168,Heart Failure,HF_3,ACEI or ARB for LVSD,NULL,NULL,"1 - The number of cases/patients is too few to report., 2 - Data submitted were based on a sample of cases/patients.",10/1/12,9/30/13
+N100110,100173,Emergency Department,ED_1b,ED1,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100111,100175,Emergency Department,ED_2b,ED2,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100112,100176,Heart Failure,HF_1,Discharge instructions,82,11,,10/1/12,9/30/13
+N100113,100177,Heart Failure,HF_2,Evaluation of LVS Function,100,16,,10/1/12,9/30/13
+N100114,100179,Heart Failure,HF_3,ACEI or ARB for LVSD,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100115,10018,Preventive Care,IMM_1a,Immunization for pneumonia,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100116,100180,Preventive Care,IMM_2,Immunization for influenza,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,3/31/13
+N100117,100181,Heart Attack or Chest Pain,OP_1,Median Time to Fibrinolysis,NULL,0,7 - No cases met the criteria for this measure.,10/1/12,9/30/13
+N100118,100183,Emergency Department,OP_18b,OP 18,93,396,,10/1/12,9/30/13
+N100119,100187,Heart Attack or Chest Pain,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,NULL,0,7 - No cases met the criteria for this measure.,10/1/12,9/30/13
+N10012,100189,Preventive Care,IMM_1a,Immunization for pneumonia,89,331,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100120,10019,Emergency Department,OP_20,Door to diagnostic eval,11,328,,10/1/12,9/30/13
+N100121,100191,Emergency Department,OP_21,Median time to pain med,51,41,3 - Results are based on a shorter time period than required.,10/1/12,9/30/13
+N100122,100200,Emergency Department,OP_22,Left before being seen,NULL,NULL,5 - Results are not available for this reporting period.,1/1/12,12/31/12
+N100123,100204,Emergency Department,OP_23,Head CT results,NULL,NULL,"1 - The number of cases/patients is too few to report., 3 - Results are based on a shorter time period than required.",10/1/12,9/30/13
+N100124,100206,Heart Attack or Chest Pain,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,42,14,,10/1/12,9/30/13
+N100125,100209,Heart Attack or Chest Pain,OP_4,Aspirin at Arrival,94,106,,10/1/12,9/30/13
+N100126,10021,Heart Attack or Chest Pain,OP_5,Median Time to ECG,5,110,,10/1/12,9/30/13
+N100127,100211,Surgical Care Improvement Project,OP_6,Prophylactic Antibiotic Initiated Within One Hour Prior to Surgical Incision,NULL,NULL,"1 - The number of cases/patients is too few to report., 3 - Results are based on a shorter time period than required.",10/1/12,9/30/13
+N100128,100212,Surgical Care Improvement Project,OP_7,Prophylactic Antibiotic Selection for Surgical Patients,NULL,NULL,"1 - The number of cases/patients is too few to report., 3 - Results are based on a shorter time period than required.",10/1/12,9/30/13
+N100129,100213,Pregnancy and Delivery Care,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N10013,100217,Preventive Care,IMM_2,Immunization for influenza,84,293,2 - Data submitted were based on a sample of cases/patients.,10/1/12,3/31/13
+N100130,10022,Pneumonia,PN_3b,Blood Cultures Performed in the Emergency Department Prior to Initial Antibiotic Received in Hospital,97,90,,10/1/12,9/30/13
+N100131,100220,Pneumonia,PN_6,Initial antibiotic selection for CAP in immunocompetent patient,98,53,,10/1/12,9/30/13
+N100132,100223,Surgical Care Improvement Project,SCIP_CARD_2,Surgery Patients on a Beta Blocker Prior to Arrival Who Received a Beta Blocker During the Perioperative Period,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100133,100224,Surgical Care Improvement Project,SCIP_INF_1,Prophylactic antibiotic received within 1 hour prior to surgical incision,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100134,100226,Surgical Care Improvement Project,SCIP_INF_10,Surgery Patients with Perioperative Temperature Management,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100135,100228,Surgical Care Improvement Project,SCIP_INF_2,Prophylactic Antibiotic Selection for Surgical Patients,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100136,10023,Surgical Care Improvement Project,SCIP_INF_3,Prophylactic antibiotics discontinued within 24 hours after surgery end time,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100137,100230,Surgical Care Improvement Project,SCIP_INF_4,Cardiac Surgery Patients With Controlled 6 A.M. Postoperative Blood Glucose,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100138,100231,Surgical Care Improvement Project,SCIP_INF_9,Postoperative Urinary Catheter Removal,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100139,100232,Surgical Care Improvement Project,SCIP_VTE_2,Surgery Patients Who Received Appropriate Venous Thromboembolism Prophylaxis Within 24 Hours Prior to Surgery to 24 Hours After Surgery,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N10014,100234,Heart Attack or Chest Pain,OP_1,Median Time to Fibrinolysis,NULL,NULL,"1 - The number of cases/patients is too few to report., 3 - Results are based on a shorter time period than required.",10/1/12,9/30/13
+N100140,100236,Stroke Care,STK_1,Venous Thromboembolism (VTE) Prophylaxis,100,11,,1/1/13,9/30/13
+N100141,100238,Stroke Care,STK_10,Assessed for Rehabilitation,NULL,NULL,1 - The number of cases/patients is too few to report.,1/1/13,9/30/13
+N100142,100239,Stroke Care,STK_2,Discharged on Antithrombotic Therapy,NULL,NULL,1 - The number of cases/patients is too few to report.,1/1/13,9/30/13
+N100143,10024,Stroke Care,STK_3,Anticoagulation Therapy for Atrial Fibrillation/Flutter,NULL,NULL,1 - The number of cases/patients is too few to report.,1/1/13,9/30/13
+N100144,100240,Stroke Care,STK_4,Thrombolytic Therapy,NULL,0,7 - No cases met the criteria for this measure.,1/1/13,9/30/13
+N100145,100242,Stroke Care,STK_5,Antithrombotic Therapy by End of Hospital Day 2 ,100,12,,1/1/13,9/30/13
+N100146,100243,Stroke Care,STK_6,Discharged on Statin Medication,NULL,NULL,1 - The number of cases/patients is too few to report.,1/1/13,9/30/13
+N100147,100244,Stroke Care,STK_8,Stroke Education,NULL,NULL,1 - The number of cases/patients is too few to report.,1/1/13,9/30/13
+N100148,100246,Blood Clot Prevention and Treatment,VTE_1,Venous thromboembolism prophylaxis,88,90,2 - Data submitted were based on a sample of cases/patients.,1/1/13,9/30/13
+N100149,100248,Blood Clot Prevention and Treatment,VTE_2,ICU venous thromboembolism prophylaxis,100,26,2 - Data submitted were based on a sample of cases/patients.,1/1/13,9/30/13
+N10015,100249,Emergency Department,OP_18b,OP 18,97,958,,10/1/12,9/30/13
+N100150,10025,Blood Clot Prevention and Treatment,VTE_3,Anticoagulation overlap therapy,NULL,NULL,"1 - The number of cases/patients is too few to report., 2 - Data submitted were based on a sample of cases/patients.",1/1/13,9/30/13
+N100151,100252,Blood Clot Prevention and Treatment,VTE_4,Unfractionated heparin with dosages/platelet count monitoring,NULL,NULL,"1 - The number of cases/patients is too few to report., 2 - Data submitted were based on a sample of cases/patients.",1/1/13,9/30/13
+N100152,100253,Blood Clot Prevention and Treatment,VTE_5,Warfarin therapy discharge instructions,NULL,NULL,"1 - The number of cases/patients is too few to report., 2 - Data submitted were based on a sample of cases/patients.",1/1/13,9/30/13
+N100153,100254,Blood Clot Prevention and Treatment,VTE_6,Incidence of potentially preventable VTE,NULL,0,"2 - Data submitted were based on a sample of cases/patients., 7 - No cases met the criteria for this measure.",1/1/13,9/30/13
+N100154,100255,Heart Attack or Chest Pain,AMI_10,Statin at Discharge,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100155,100256,Heart Attack or Chest Pain,AMI_2,Aspirin prescribed at discharge,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100156,100258,Heart Attack or Chest Pain,AMI_7a,Heart attack patients given drugs to break up blood clots within 30 minutes of arrival,NULL,0,7 - No cases met the criteria for this measure.,10/1/12,9/30/13
+N100157,100259,Heart Attack or Chest Pain,AMI_8a,Primary PCI Received Within 90 Minutes of Hospital Arrival,NULL,0,7 - No cases met the criteria for this measure.,10/1/12,9/30/13
+N100158,100260,Emergency Department,ED_1b,ED1,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100159,100264,Emergency Department,ED_2b,ED2,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N10016,100265,Heart Attack or Chest Pain,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,NULL,NULL,"1 - The number of cases/patients is too few to report., 3 - Results are based on a shorter time period than required.",10/1/12,9/30/13
+N100160,100266,Heart Failure,HF_1,Discharge instructions,100,19,,10/1/12,9/30/13
+N100161,100267,Heart Failure,HF_2,Evaluation of LVS Function,95,20,,10/1/12,9/30/13
+N100162,100268,Heart Failure,HF_3,ACEI or ARB for LVSD,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100163,100269,Preventive Care,IMM_1a,Immunization for pneumonia,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100164,100271,Preventive Care,IMM_2,Immunization for influenza,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,3/31/13
+N100165,100275,Heart Attack or Chest Pain,OP_1,Median Time to Fibrinolysis,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100166,100276,Emergency Department,OP_18b,OP 18,99,421,,10/1/12,9/30/13
+N100167,100277,Heart Attack or Chest Pain,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100168,100281,Emergency Department,OP_20,Door to diagnostic eval,28,459,,10/1/12,9/30/13
+N100169,100284,Emergency Department,OP_21,Median time to pain med,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N10017,100285,Emergency Department,OP_20,Door to diagnostic eval,24,1046,,10/1/12,9/30/13
+N100170,100286,Emergency Department,OP_22,Left before being seen,NULL,NULL,5 - Results are not available for this reporting period.,1/1/12,12/31/12
+N100171,100287,Emergency Department,OP_23,Head CT results,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100172,100288,Heart Attack or Chest Pain,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100173,100289,Heart Attack or Chest Pain,OP_4,Aspirin at Arrival,98,60,,10/1/12,9/30/13
+N100174,10029,Heart Attack or Chest Pain,OP_5,Median Time to ECG,5,65,,10/1/12,9/30/13
+N100175,100290,Surgical Care Improvement Project,OP_6,Prophylactic Antibiotic Initiated Within One Hour Prior to Surgical Incision,89,47,,10/1/12,9/30/13
+N100176,100291,Surgical Care Improvement Project,OP_7,Prophylactic Antibiotic Selection for Surgical Patients,100,46,,10/1/12,9/30/13
+N100177,100292,Pregnancy and Delivery Care,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100178,100296,Pneumonia,PN_3b,Blood Cultures Performed in the Emergency Department Prior to Initial Antibiotic Received in Hospital,82,28,,10/1/12,9/30/13
+N100179,100299,Pneumonia,PN_6,Initial antibiotic selection for CAP in immunocompetent patient,78,23,,10/1/12,9/30/13
+N10018,100302,Emergency Department,OP_21,Median time to pain med,80,25,,10/1/12,9/30/13
+N100180,100307,Surgical Care Improvement Project,SCIP_CARD_2,Surgery Patients on a Beta Blocker Prior to Arrival Who Received a Beta Blocker During the Perioperative Period,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100181,100313,Surgical Care Improvement Project,SCIP_INF_1,Prophylactic antibiotic received within 1 hour prior to surgical incision,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100182,100314,Surgical Care Improvement Project,SCIP_INF_10,Surgery Patients with Perioperative Temperature Management,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100183,100315,Surgical Care Improvement Project,SCIP_INF_2,Prophylactic Antibiotic Selection for Surgical Patients,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100184,100316,Surgical Care Improvement Project,SCIP_INF_3,Prophylactic antibiotics discontinued within 24 hours after surgery end time,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100185,100319,Surgical Care Improvement Project,SCIP_INF_4,Cardiac Surgery Patients With Controlled 6 A.M. Postoperative Blood Glucose,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100186,10032,Surgical Care Improvement Project,SCIP_INF_9,Postoperative Urinary Catheter Removal,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100187,10033,Surgical Care Improvement Project,SCIP_VTE_2,Surgery Patients Who Received Appropriate Venous Thromboembolism Prophylaxis Within 24 Hours Prior to Surgery to 24 Hours After Surgery,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100188,10034,Stroke Care,STK_1,Venous Thromboembolism (VTE) Prophylaxis,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100189,10035,Stroke Care,STK_10,Assessed for Rehabilitation,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N10019,10036,Emergency Department,OP_22,Left before being seen,2,4773,,1/1/12,12/31/12
+N100190,10038,Stroke Care,STK_2,Discharged on Antithrombotic Therapy,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100191,10039,Stroke Care,STK_3,Anticoagulation Therapy for Atrial Fibrillation/Flutter,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100192,10040,Stroke Care,STK_4,Thrombolytic Therapy,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100193,10044,Stroke Care,STK_5,Antithrombotic Therapy by End of Hospital Day 2 ,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100194,10045,Stroke Care,STK_6,Discharged on Statin Medication,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100195,10046,Stroke Care,STK_8,Stroke Education,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100196,10047,Blood Clot Prevention and Treatment,VTE_1,Venous thromboembolism prophylaxis,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100197,10049,Blood Clot Prevention and Treatment,VTE_2,ICU venous thromboembolism prophylaxis,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100198,10051,Blood Clot Prevention and Treatment,VTE_3,Anticoagulation overlap therapy,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100199,10052,Blood Clot Prevention and Treatment,VTE_4,Unfractionated heparin with dosages/platelet count monitoring,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N1002,10054,Heart Attack or Chest Pain,AMI_7a,Heart attack patients given drugs to break up blood clots within 30 minutes of arrival,NULL,0,7 - No cases met the criteria for this measure.,10/1/12,9/30/13
+N10020,10055,Emergency Department,OP_23,Head CT results,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100200,10056,Blood Clot Prevention and Treatment,VTE_5,Warfarin therapy discharge instructions,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100201,10057,Blood Clot Prevention and Treatment,VTE_6,Incidence of potentially preventable VTE,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100202,10058,Heart Attack or Chest Pain,AMI_10,Statin at Discharge,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100203,10059,Heart Attack or Chest Pain,AMI_2,Aspirin prescribed at discharge,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100204,10061,Heart Attack or Chest Pain,AMI_7a,Heart attack patients given drugs to break up blood clots within 30 minutes of arrival,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100205,10062,Heart Attack or Chest Pain,AMI_8a,Primary PCI Received Within 90 Minutes of Hospital Arrival,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100206,10063,Emergency Department,ED_1b,ED1,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100207,10064,Emergency Department,ED_2b,ED2,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100208,10065,Heart Failure,HF_1,Discharge instructions,96,57,,10/1/12,9/30/13
+N100209,10065,Heart Failure,HF_2,Evaluation of LVS Function,100,75,,10/1/12,9/30/13
+N10021,10066,Heart Attack or Chest Pain,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,NULL,0,"3 - Results are based on a shorter time period than required., 7 - No cases met the criteria for this measure.",10/1/12,9/30/13
+N100210,10069,Heart Failure,HF_3,ACEI or ARB for LVSD,100,12,,10/1/12,9/30/13
+N100211,10073,Preventive Care,IMM_1a,Immunization for pneumonia,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100212,10078,Preventive Care,IMM_2,Immunization for influenza,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,3/31/13
+N100213,10079,Heart Attack or Chest Pain,OP_1,Median Time to Fibrinolysis,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100214,10083,Emergency Department,OP_18b,OP 18,139,404,,10/1/12,9/30/13
+N100215,10085,Heart Attack or Chest Pain,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100216,10086,Emergency Department,OP_20,Door to diagnostic eval,33,369,,10/1/12,9/30/13
+N100217,10087,Emergency Department,OP_21,Median time to pain med,66,73,,10/1/12,9/30/13
+N100218,10089,Emergency Department,OP_22,Left before being seen,NULL,NULL,5 - Results are not available for this reporting period.,1/1/12,12/31/12
+N100219,10090,Emergency Department,OP_23,Head CT results,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N10022,10091,Heart Attack or Chest Pain,OP_4,Aspirin at Arrival,86,42,,10/1/12,9/30/13
+N100220,10092,Heart Attack or Chest Pain,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100221,10095,Heart Attack or Chest Pain,OP_4,Aspirin at Arrival,100,144,,10/1/12,9/30/13
+N100222,10097,Heart Attack or Chest Pain,OP_5,Median Time to ECG,10,154,,10/1/12,9/30/13
+N100223,10099,Surgical Care Improvement Project,OP_6,Prophylactic Antibiotic Initiated Within One Hour Prior to Surgical Incision,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100224,10100,Surgical Care Improvement Project,OP_7,Prophylactic Antibiotic Selection for Surgical Patients,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100225,10101,Pregnancy and Delivery Care,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",NULL,0,"3 - Results are based on a shorter time period than required., 7 - No cases met the criteria for this measure.",1/1/13,9/30/13
+N100226,10102,Pneumonia,PN_3b,Blood Cultures Performed in the Emergency Department Prior to Initial Antibiotic Received in Hospital,97,38,,10/1/12,9/30/13
+N100227,10103,Pneumonia,PN_6,Initial antibiotic selection for CAP in immunocompetent patient,100,23,,10/1/12,9/30/13
+N100228,10104,Surgical Care Improvement Project,SCIP_CARD_2,Surgery Patients on a Beta Blocker Prior to Arrival Who Received a Beta Blocker During the Perioperative Period,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100229,10108,Surgical Care Improvement Project,SCIP_INF_1,Prophylactic antibiotic received within 1 hour prior to surgical incision,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N10023,10109,Heart Attack or Chest Pain,OP_5,Median Time to ECG,11,37,,10/1/12,9/30/13
+N100230,10110,Surgical Care Improvement Project,SCIP_INF_10,Surgery Patients with Perioperative Temperature Management,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100231,10112,Surgical Care Improvement Project,SCIP_INF_2,Prophylactic Antibiotic Selection for Surgical Patients,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100232,10113,Surgical Care Improvement Project,SCIP_INF_3,Prophylactic antibiotics discontinued within 24 hours after surgery end time,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100233,10114,Surgical Care Improvement Project,SCIP_INF_4,Cardiac Surgery Patients With Controlled 6 A.M. Postoperative Blood Glucose,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100234,10118,Surgical Care Improvement Project,SCIP_INF_9,Postoperative Urinary Catheter Removal,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100235,10120,Surgical Care Improvement Project,SCIP_VTE_2,Surgery Patients Who Received Appropriate Venous Thromboembolism Prophylaxis Within 24 Hours Prior to Surgery to 24 Hours After Surgery,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100236,10125,Stroke Care,STK_1,Venous Thromboembolism (VTE) Prophylaxis,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100237,10126,Stroke Care,STK_10,Assessed for Rehabilitation,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100238,10128,Stroke Care,STK_2,Discharged on Antithrombotic Therapy,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100239,10129,Stroke Care,STK_3,Anticoagulation Therapy for Atrial Fibrillation/Flutter,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N10024,10130,Surgical Care Improvement Project,OP_6,Prophylactic Antibiotic Initiated Within One Hour Prior to Surgical Incision,NULL,NULL,"1 - The number of cases/patients is too few to report., 3 - Results are based on a shorter time period than required.",10/1/12,9/30/13
+N100240,101300,Stroke Care,STK_4,Thrombolytic Therapy,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100241,101301,Stroke Care,STK_5,Antithrombotic Therapy by End of Hospital Day 2 ,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100242,101302,Stroke Care,STK_6,Discharged on Statin Medication,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100243,101303,Stroke Care,STK_8,Stroke Education,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100244,101304,Blood Clot Prevention and Treatment,VTE_1,Venous thromboembolism prophylaxis,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100245,101305,Blood Clot Prevention and Treatment,VTE_2,ICU venous thromboembolism prophylaxis,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100246,101307,Blood Clot Prevention and Treatment,VTE_3,Anticoagulation overlap therapy,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100247,101308,Blood Clot Prevention and Treatment,VTE_4,Unfractionated heparin with dosages/platelet count monitoring,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100248,101309,Blood Clot Prevention and Treatment,VTE_5,Warfarin therapy discharge instructions,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100249,10131,Blood Clot Prevention and Treatment,VTE_6,Incidence of potentially preventable VTE,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N10025,101310,Surgical Care Improvement Project,OP_7,Prophylactic Antibiotic Selection for Surgical Patients,NULL,0,"3 - Results are based on a shorter time period than required., 7 - No cases met the criteria for this measure.",10/1/12,9/30/13
+N100250,101311,Heart Attack or Chest Pain,AMI_10,Statin at Discharge,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100251,101312,Heart Attack or Chest Pain,AMI_2,Aspirin prescribed at discharge,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100252,101313,Heart Attack or Chest Pain,AMI_7a,Heart attack patients given drugs to break up blood clots within 30 minutes of arrival,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100253,10138,Heart Attack or Chest Pain,AMI_8a,Primary PCI Received Within 90 Minutes of Hospital Arrival,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100254,10139,Emergency Department,ED_1b,ED1,230,544,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100255,10144,Emergency Department,ED_2b,ED2,45,542,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100256,10146,Heart Failure,HF_1,Discharge instructions,100,34,,10/1/12,9/30/13
+N100257,10148,Heart Failure,HF_2,Evaluation of LVS Function,98,49,,10/1/12,9/30/13
+N100258,10149,Heart Failure,HF_3,ACEI or ARB for LVSD,100,14,,10/1/12,9/30/13
+N100259,10150,Preventive Care,IMM_1a,Immunization for pneumonia,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N10026,10157,Pregnancy and Delivery Care,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",NULL,0,7 - No cases met the criteria for this measure.,1/1/13,9/30/13
+N100260,10158,Preventive Care,IMM_2,Immunization for influenza,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,3/31/13
+N100261,10164,Heart Attack or Chest Pain,OP_1,Median Time to Fibrinolysis,NULL,0,7 - No cases met the criteria for this measure.,10/1/12,9/30/13
+N100262,10168,Emergency Department,OP_18b,OP 18,114,445,,10/1/12,9/30/13
+N100263,10169,Heart Attack or Chest Pain,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,NULL,0,7 - No cases met the criteria for this measure.,10/1/12,9/30/13
+N100264,110001,Emergency Department,OP_20,Door to diagnostic eval,39,472,,10/1/12,9/30/13
+N100265,110002,Emergency Department,OP_21,Median time to pain med,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100266,110003,Emergency Department,OP_22,Left before being seen,NULL,NULL,5 - Results are not available for this reporting period.,1/1/12,12/31/12
+N100267,110004,Emergency Department,OP_23,Head CT results,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100268,110005,Heart Attack or Chest Pain,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100269,110006,Heart Attack or Chest Pain,OP_4,Aspirin at Arrival,100,29,,10/1/12,9/30/13
+N10027,110007,Pneumonia,PN_3b,Blood Cultures Performed in the Emergency Department Prior to Initial Antibiotic Received in Hospital,NULL,NULL,"1 - The number of cases/patients is too few to report., 2 - Data submitted were based on a sample of cases/patients.",10/1/12,9/30/13
+N100270,110008,Heart Attack or Chest Pain,OP_5,Median Time to ECG,6,30,,10/1/12,9/30/13
+N100271,110010,Surgical Care Improvement Project,OP_6,Prophylactic Antibiotic Initiated Within One Hour Prior to Surgical Incision,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100272,110011,Surgical Care Improvement Project,OP_7,Prophylactic Antibiotic Selection for Surgical Patients,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100273,110015,Pregnancy and Delivery Care,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100274,110016,Pneumonia,PN_3b,Blood Cultures Performed in the Emergency Department Prior to Initial Antibiotic Received in Hospital,97,34,,10/1/12,9/30/13
+N100275,110018,Pneumonia,PN_6,Initial antibiotic selection for CAP in immunocompetent patient,100,24,,10/1/12,9/30/13
+N100276,110023,Surgical Care Improvement Project,SCIP_CARD_2,Surgery Patients on a Beta Blocker Prior to Arrival Who Received a Beta Blocker During the Perioperative Period,100,27,,10/1/12,9/30/13
+N100277,110024,Surgical Care Improvement Project,SCIP_INF_1,Prophylactic antibiotic received within 1 hour prior to surgical incision,100,39,,10/1/12,9/30/13
+N100278,110025,Surgical Care Improvement Project,SCIP_INF_10,Surgery Patients with Perioperative Temperature Management,100,55,,10/1/12,9/30/13
+N100279,110026,Surgical Care Improvement Project,SCIP_INF_2,Prophylactic Antibiotic Selection for Surgical Patients,97,39,,10/1/12,9/30/13
+N10028,110027,Pneumonia,PN_6,Initial antibiotic selection for CAP in immunocompetent patient,96,46,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100280,110028,Surgical Care Improvement Project,SCIP_INF_3,Prophylactic antibiotics discontinued within 24 hours after surgery end time,92,39,,10/1/12,9/30/13
+N100281,110029,Surgical Care Improvement Project,SCIP_INF_4,Cardiac Surgery Patients With Controlled 6 A.M. Postoperative Blood Glucose,NULL,0,7 - No cases met the criteria for this measure.,10/1/12,9/30/13
+N100282,110030,Surgical Care Improvement Project,SCIP_INF_9,Postoperative Urinary Catheter Removal,98,42,,10/1/12,9/30/13
+N100283,110031,Surgical Care Improvement Project,SCIP_VTE_2,Surgery Patients Who Received Appropriate Venous Thromboembolism Prophylaxis Within 24 Hours Prior to Surgery to 24 Hours After Surgery,100,46,,10/1/12,9/30/13
+N100284,110032,Stroke Care,STK_1,Venous Thromboembolism (VTE) Prophylaxis,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100285,110034,Stroke Care,STK_10,Assessed for Rehabilitation,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100286,110035,Stroke Care,STK_2,Discharged on Antithrombotic Therapy,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100287,110036,Stroke Care,STK_3,Anticoagulation Therapy for Atrial Fibrillation/Flutter,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100288,110038,Stroke Care,STK_4,Thrombolytic Therapy,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100289,110039,Stroke Care,STK_5,Antithrombotic Therapy by End of Hospital Day 2 ,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N10029,110040,Surgical Care Improvement Project,SCIP_CARD_2,Surgery Patients on a Beta Blocker Prior to Arrival Who Received a Beta Blocker During the Perioperative Period,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100290,110041,Stroke Care,STK_6,Discharged on Statin Medication,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100291,110042,Stroke Care,STK_8,Stroke Education,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100292,110043,Blood Clot Prevention and Treatment,VTE_1,Venous thromboembolism prophylaxis,75,306,2 - Data submitted were based on a sample of cases/patients.,1/1/13,9/30/13
+N100293,110044,Blood Clot Prevention and Treatment,VTE_2,ICU venous thromboembolism prophylaxis,NULL,NULL,"1 - The number of cases/patients is too few to report., 2 - Data submitted were based on a sample of cases/patients.",1/1/13,9/30/13
+N100294,110045,Blood Clot Prevention and Treatment,VTE_3,Anticoagulation overlap therapy,100,14,2 - Data submitted were based on a sample of cases/patients.,1/1/13,9/30/13
+N100295,110046,Blood Clot Prevention and Treatment,VTE_4,Unfractionated heparin with dosages/platelet count monitoring,NULL,NULL,"1 - The number of cases/patients is too few to report., 2 - Data submitted were based on a sample of cases/patients.",1/1/13,9/30/13
+N100296,110050,Blood Clot Prevention and Treatment,VTE_5,Warfarin therapy discharge instructions,NULL,NULL,"1 - The number of cases/patients is too few to report., 2 - Data submitted were based on a sample of cases/patients.",1/1/13,9/30/13
+N100297,110051,Blood Clot Prevention and Treatment,VTE_6,Incidence of potentially preventable VTE,NULL,0,"2 - Data submitted were based on a sample of cases/patients., 7 - No cases met the criteria for this measure.",1/1/13,9/30/13
+N100298,110054,Heart Attack or Chest Pain,AMI_10,Statin at Discharge,NULL,NULL,"1 - The number of cases/patients is too few to report., 3 - Results are based on a shorter time period than required.",10/1/12,9/30/13
+N100299,110064,Heart Attack or Chest Pain,AMI_2,Aspirin prescribed at discharge,NULL,NULL,"1 - The number of cases/patients is too few to report., 3 - Results are based on a shorter time period than required.",10/1/12,9/30/13
+N1003,110069,Heart Attack or Chest Pain,AMI_8a,Primary PCI Received Within 90 Minutes of Hospital Arrival,91,35,,10/1/12,9/30/13
+N10030,110071,Surgical Care Improvement Project,SCIP_INF_1,Prophylactic antibiotic received within 1 hour prior to surgical incision,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100300,110073,Heart Attack or Chest Pain,AMI_7a,Heart attack patients given drugs to break up blood clots within 30 minutes of arrival,NULL,0,"3 - Results are based on a shorter time period than required., 7 - No cases met the criteria for this measure.",10/1/12,9/30/13
+N100301,110074,Heart Attack or Chest Pain,AMI_8a,Primary PCI Received Within 90 Minutes of Hospital Arrival,NULL,0,"3 - Results are based on a shorter time period than required., 7 - No cases met the criteria for this measure.",10/1/12,9/30/13
+N100302,110075,Emergency Department,ED_1b,ED1,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100303,110076,Emergency Department,ED_2b,ED2,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100304,110078,Heart Failure,HF_1,Discharge instructions,100,29,,10/1/12,9/30/13
+N100305,110079,Heart Failure,HF_2,Evaluation of LVS Function,100,37,,10/1/12,9/30/13
+N100306,110082,Heart Failure,HF_3,ACEI or ARB for LVSD,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100307,110083,Preventive Care,IMM_1a,Immunization for pneumonia,83,213,"2 - Data submitted were based on a sample of cases/patients., 3 - Results are based on a shorter time period than required.",10/1/12,9/30/13
+N100308,110086,Preventive Care,IMM_2,Immunization for influenza,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,3/31/13
+N100309,110087,Heart Attack or Chest Pain,OP_1,Median Time to Fibrinolysis,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N10031,110089,Surgical Care Improvement Project,SCIP_INF_10,Surgery Patients with Perioperative Temperature Management,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100310,110091,Emergency Department,OP_18b,OP 18,157,412,,10/1/12,9/30/13
+N100311,110092,Heart Attack or Chest Pain,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100312,110095,Emergency Department,OP_20,Door to diagnostic eval,39,430,,10/1/12,9/30/13
+N100313,110100,Emergency Department,OP_21,Median time to pain med,59,52,3 - Results are based on a shorter time period than required.,10/1/12,9/30/13
+N100314,110101,Emergency Department,OP_22,Left before being seen,NULL,NULL,5 - Results are not available for this reporting period.,1/1/12,12/31/12
+N100315,110104,Emergency Department,OP_23,Head CT results,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100316,110105,Heart Attack or Chest Pain,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100317,110107,Heart Attack or Chest Pain,OP_4,Aspirin at Arrival,100,39,,10/1/12,9/30/13
+N100318,110109,Heart Attack or Chest Pain,OP_5,Median Time to ECG,8,39,,10/1/12,9/30/13
+N100319,110111,Surgical Care Improvement Project,OP_6,Prophylactic Antibiotic Initiated Within One Hour Prior to Surgical Incision,100,19,,10/1/12,9/30/13
+N10032,110113,Surgical Care Improvement Project,SCIP_INF_2,Prophylactic Antibiotic Selection for Surgical Patients,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100320,110115,Surgical Care Improvement Project,OP_7,Prophylactic Antibiotic Selection for Surgical Patients,100,19,,10/1/12,9/30/13
+N100321,110121,Pregnancy and Delivery Care,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100322,110122,Pneumonia,PN_3b,Blood Cultures Performed in the Emergency Department Prior to Initial Antibiotic Received in Hospital,100,66,,10/1/12,9/30/13
+N100323,110124,Pneumonia,PN_6,Initial antibiotic selection for CAP in immunocompetent patient,100,23,,10/1/12,9/30/13
+N100324,110125,Surgical Care Improvement Project,SCIP_CARD_2,Surgery Patients on a Beta Blocker Prior to Arrival Who Received a Beta Blocker During the Perioperative Period,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100325,110128,Surgical Care Improvement Project,SCIP_INF_1,Prophylactic antibiotic received within 1 hour prior to surgical incision,94,36,,10/1/12,9/30/13
+N100326,110129,Surgical Care Improvement Project,SCIP_INF_10,Surgery Patients with Perioperative Temperature Management,100,49,,10/1/12,9/30/13
+N100327,110130,Surgical Care Improvement Project,SCIP_INF_2,Prophylactic Antibiotic Selection for Surgical Patients,97,36,,10/1/12,9/30/13
+N100328,110132,Surgical Care Improvement Project,SCIP_INF_3,Prophylactic antibiotics discontinued within 24 hours after surgery end time,94,36,,10/1/12,9/30/13
+N100329,110135,Surgical Care Improvement Project,SCIP_INF_4,Cardiac Surgery Patients With Controlled 6 A.M. Postoperative Blood Glucose,NULL,0,7 - No cases met the criteria for this measure.,10/1/12,9/30/13
+N10033,110142,Surgical Care Improvement Project,SCIP_INF_3,Prophylactic antibiotics discontinued within 24 hours after surgery end time,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100330,110143,Surgical Care Improvement Project,SCIP_INF_9,Postoperative Urinary Catheter Removal,92,13,,10/1/12,9/30/13
+N100331,110146,Surgical Care Improvement Project,SCIP_VTE_2,Surgery Patients Who Received Appropriate Venous Thromboembolism Prophylaxis Within 24 Hours Prior to Surgery to 24 Hours After Surgery,100,47,,10/1/12,9/30/13
+N100332,110150,Stroke Care,STK_1,Venous Thromboembolism (VTE) Prophylaxis,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100333,110153,Stroke Care,STK_10,Assessed for Rehabilitation,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100334,110161,Stroke Care,STK_2,Discharged on Antithrombotic Therapy,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100335,110164,Stroke Care,STK_3,Anticoagulation Therapy for Atrial Fibrillation/Flutter,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100336,110165,Stroke Care,STK_4,Thrombolytic Therapy,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100337,110168,Stroke Care,STK_5,Antithrombotic Therapy by End of Hospital Day 2 ,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100338,110177,Stroke Care,STK_6,Discharged on Statin Medication,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100339,110183,Stroke Care,STK_8,Stroke Education,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N10034,110184,Surgical Care Improvement Project,SCIP_INF_4,Cardiac Surgery Patients With Controlled 6 A.M. Postoperative Blood Glucose,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100340,110186,Blood Clot Prevention and Treatment,VTE_1,Venous thromboembolism prophylaxis,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100341,110187,Blood Clot Prevention and Treatment,VTE_2,ICU venous thromboembolism prophylaxis,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100342,110189,Blood Clot Prevention and Treatment,VTE_3,Anticoagulation overlap therapy,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100343,110190,Blood Clot Prevention and Treatment,VTE_4,Unfractionated heparin with dosages/platelet count monitoring,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100344,110191,Blood Clot Prevention and Treatment,VTE_5,Warfarin therapy discharge instructions,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100345,110192,Blood Clot Prevention and Treatment,VTE_6,Incidence of potentially preventable VTE,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100346,110194,Heart Attack or Chest Pain,AMI_10,Statin at Discharge,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100347,110198,Heart Attack or Chest Pain,AMI_2,Aspirin prescribed at discharge,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100348,110200,Heart Attack or Chest Pain,AMI_7a,Heart attack patients given drugs to break up blood clots within 30 minutes of arrival,NULL,0,7 - No cases met the criteria for this measure.,10/1/12,9/30/13
+N100349,110201,Heart Attack or Chest Pain,AMI_8a,Primary PCI Received Within 90 Minutes of Hospital Arrival,NULL,0,7 - No cases met the criteria for this measure.,10/1/12,9/30/13
+N10035,110203,Surgical Care Improvement Project,SCIP_INF_9,Postoperative Urinary Catheter Removal,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100350,110205,Emergency Department,ED_1b,ED1,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100351,110209,Emergency Department,ED_2b,ED2,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100352,110215,Heart Failure,HF_1,Discharge instructions,97,31,,10/1/12,9/30/13
+N100353,110225,Heart Failure,HF_2,Evaluation of LVS Function,100,36,,10/1/12,9/30/13
+N100354,110226,Heart Failure,HF_3,ACEI or ARB for LVSD,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100355,110229,Preventive Care,IMM_1a,Immunization for pneumonia,92,263,,10/1/12,9/30/13
+N100356,110230,Preventive Care,IMM_2,Immunization for influenza,92,165,,10/1/12,3/31/13
+N100357,110233,Heart Attack or Chest Pain,OP_1,Median Time to Fibrinolysis,NULL,0,7 - No cases met the criteria for this measure.,10/1/12,9/30/13
+N100358,110234,Emergency Department,OP_18b,OP 18,128,361,,10/1/12,9/30/13
+N100359,11029,Heart Attack or Chest Pain,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,NULL,0,7 - No cases met the criteria for this measure.,10/1/12,9/30/13
+N10036,11030,Surgical Care Improvement Project,SCIP_VTE_2,Surgery Patients Who Received Appropriate Venous Thromboembolism Prophylaxis Within 24 Hours Prior to Surgery to 24 Hours After Surgery,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100360,11031,Emergency Department,OP_20,Door to diagnostic eval,28,444,,10/1/12,9/30/13
+N100361,111300,Emergency Department,OP_21,Median time to pain med,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100362,111302,Emergency Department,OP_22,Left before being seen,NULL,NULL,5 - Results are not available for this reporting period.,1/1/12,12/31/12
+N100363,111303,Emergency Department,OP_23,Head CT results,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100364,111304,Heart Attack or Chest Pain,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100365,111305,Heart Attack or Chest Pain,OP_4,Aspirin at Arrival,93,58,,10/1/12,9/30/13
+N100366,111306,Heart Attack or Chest Pain,OP_5,Median Time to ECG,11,60,,10/1/12,9/30/13
+N100367,111308,Surgical Care Improvement Project,OP_6,Prophylactic Antibiotic Initiated Within One Hour Prior to Surgical Incision,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100368,111310,Surgical Care Improvement Project,OP_7,Prophylactic Antibiotic Selection for Surgical Patients,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100369,111313,Pregnancy and Delivery Care,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N10037,111314,Stroke Care,STK_1,Venous Thromboembolism (VTE) Prophylaxis,78,18,2 - Data submitted were based on a sample of cases/patients.,1/1/13,9/30/13
+N100370,111316,Pneumonia,PN_3b,Blood Cultures Performed in the Emergency Department Prior to Initial Antibiotic Received in Hospital,97,68,,10/1/12,9/30/13
+N100371,111318,Pneumonia,PN_6,Initial antibiotic selection for CAP in immunocompetent patient,100,56,,10/1/12,9/30/13
+N100372,111319,Surgical Care Improvement Project,SCIP_CARD_2,Surgery Patients on a Beta Blocker Prior to Arrival Who Received a Beta Blocker During the Perioperative Period,94,35,,10/1/12,9/30/13
+N100373,111320,Surgical Care Improvement Project,SCIP_INF_1,Prophylactic antibiotic received within 1 hour prior to surgical incision,97,129,,10/1/12,9/30/13
+N100374,111321,Surgical Care Improvement Project,SCIP_INF_10,Surgery Patients with Perioperative Temperature Management,100,162,,10/1/12,9/30/13
+N100375,111324,Surgical Care Improvement Project,SCIP_INF_2,Prophylactic Antibiotic Selection for Surgical Patients,98,129,,10/1/12,9/30/13
+N100376,111325,Surgical Care Improvement Project,SCIP_INF_3,Prophylactic antibiotics discontinued within 24 hours after surgery end time,95,126,,10/1/12,9/30/13
+N100377,111326,Surgical Care Improvement Project,SCIP_INF_4,Cardiac Surgery Patients With Controlled 6 A.M. Postoperative Blood Glucose,NULL,0,7 - No cases met the criteria for this measure.,10/1/12,9/30/13
+N100378,111327,Surgical Care Improvement Project,SCIP_INF_9,Postoperative Urinary Catheter Removal,98,45,,10/1/12,9/30/13
+N100379,111328,Surgical Care Improvement Project,SCIP_VTE_2,Surgery Patients Who Received Appropriate Venous Thromboembolism Prophylaxis Within 24 Hours Prior to Surgery to 24 Hours After Surgery,99,146,,10/1/12,9/30/13
+N10038,111329,Stroke Care,STK_10,Assessed for Rehabilitation,75,20,2 - Data submitted were based on a sample of cases/patients.,1/1/13,9/30/13
+N100380,111330,Stroke Care,STK_1,Venous Thromboembolism (VTE) Prophylaxis,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100381,111331,Stroke Care,STK_10,Assessed for Rehabilitation,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100382,111332,Stroke Care,STK_2,Discharged on Antithrombotic Therapy,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100383,111333,Stroke Care,STK_3,Anticoagulation Therapy for Atrial Fibrillation/Flutter,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100384,111334,Stroke Care,STK_4,Thrombolytic Therapy,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100385,111335,Stroke Care,STK_5,Antithrombotic Therapy by End of Hospital Day 2 ,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100386,111336,Stroke Care,STK_6,Discharged on Statin Medication,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100387,11300,Stroke Care,STK_8,Stroke Education,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100388,11302,Blood Clot Prevention and Treatment,VTE_1,Venous thromboembolism prophylaxis,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100389,11304,Blood Clot Prevention and Treatment,VTE_2,ICU venous thromboembolism prophylaxis,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N10039,120001,Stroke Care,STK_2,Discharged on Antithrombotic Therapy,85,13,2 - Data submitted were based on a sample of cases/patients.,1/1/13,9/30/13
+N100390,120002,Blood Clot Prevention and Treatment,VTE_3,Anticoagulation overlap therapy,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100391,120004,Blood Clot Prevention and Treatment,VTE_4,Unfractionated heparin with dosages/platelet count monitoring,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100392,120005,Blood Clot Prevention and Treatment,VTE_5,Warfarin therapy discharge instructions,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100393,120006,Blood Clot Prevention and Treatment,VTE_6,Incidence of potentially preventable VTE,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100394,120007,Heart Attack or Chest Pain,AMI_10,Statin at Discharge,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100395,120011,Heart Attack or Chest Pain,AMI_2,Aspirin prescribed at discharge,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100396,120014,Heart Attack or Chest Pain,AMI_7a,Heart attack patients given drugs to break up blood clots within 30 minutes of arrival,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100397,120019,Heart Attack or Chest Pain,AMI_8a,Primary PCI Received Within 90 Minutes of Hospital Arrival,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100398,120022,Emergency Department,ED_1b,ED1,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100399,120026,Emergency Department,ED_2b,ED2,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N1004,120028,Emergency Department,ED_1b,ED1,272,530,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N10040,121300,Stroke Care,STK_3,Anticoagulation Therapy for Atrial Fibrillation/Flutter,NULL,NULL,"1 - The number of cases/patients is too few to report., 2 - Data submitted were based on a sample of cases/patients.",1/1/13,9/30/13
+N100400,121301,Heart Failure,HF_1,Discharge instructions,NULL,NULL,"1 - The number of cases/patients is too few to report., 3 - Results are based on a shorter time period than required.",10/1/12,9/30/13
+N100401,121303,Heart Failure,HF_2,Evaluation of LVS Function,NULL,NULL,"1 - The number of cases/patients is too few to report., 3 - Results are based on a shorter time period than required.",10/1/12,9/30/13
+N100402,121304,Heart Failure,HF_3,ACEI or ARB for LVSD,NULL,NULL,"1 - The number of cases/patients is too few to report., 3 - Results are based on a shorter time period than required.",10/1/12,9/30/13
+N100403,121306,Preventive Care,IMM_1a,Immunization for pneumonia,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100404,121308,Preventive Care,IMM_2,Immunization for influenza,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,3/31/13
+N100405,130002,Heart Attack or Chest Pain,OP_1,Median Time to Fibrinolysis,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100406,130003,Emergency Department,OP_18b,OP 18,69,345,,10/1/12,9/30/13
+N100407,130006,Heart Attack or Chest Pain,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100408,130007,Emergency Department,OP_20,Door to diagnostic eval,16,379,,10/1/12,9/30/13
+N100409,130013,Emergency Department,OP_21,Median time to pain med,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N10041,130014,Stroke Care,STK_4,Thrombolytic Therapy,NULL,0,"2 - Data submitted were based on a sample of cases/patients., 7 - No cases met the criteria for this measure.",1/1/13,9/30/13
+N100410,130018,Emergency Department,OP_22,Left before being seen,NULL,NULL,5 - Results are not available for this reporting period.,1/1/12,12/31/12
+N100411,130025,Emergency Department,OP_23,Head CT results,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100412,130028,Heart Attack or Chest Pain,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,NULL,0,7 - No cases met the criteria for this measure.,10/1/12,9/30/13
+N100413,13003,Heart Attack or Chest Pain,OP_4,Aspirin at Arrival,92,51,,10/1/12,9/30/13
+N100414,130049,Heart Attack or Chest Pain,OP_5,Median Time to ECG,9,53,,10/1/12,9/30/13
+N100415,130063,Surgical Care Improvement Project,OP_6,Prophylactic Antibiotic Initiated Within One Hour Prior to Surgical Incision,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100416,130065,Surgical Care Improvement Project,OP_7,Prophylactic Antibiotic Selection for Surgical Patients,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100417,130066,Pregnancy and Delivery Care,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100418,130067,Pneumonia,PN_3b,Blood Cultures Performed in the Emergency Department Prior to Initial Antibiotic Received in Hospital,95,21,,10/1/12,9/30/13
+N100419,131301,Pneumonia,PN_6,Initial antibiotic selection for CAP in immunocompetent patient,73,11,,10/1/12,9/30/13
+N10042,131302,Stroke Care,STK_5,Antithrombotic Therapy by End of Hospital Day 2 ,79,14,2 - Data submitted were based on a sample of cases/patients.,1/1/13,9/30/13
+N100420,131303,Surgical Care Improvement Project,SCIP_CARD_2,Surgery Patients on a Beta Blocker Prior to Arrival Who Received a Beta Blocker During the Perioperative Period,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100421,131304,Surgical Care Improvement Project,SCIP_INF_1,Prophylactic antibiotic received within 1 hour prior to surgical incision,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100422,131305,Surgical Care Improvement Project,SCIP_INF_10,Surgery Patients with Perioperative Temperature Management,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100423,131307,Surgical Care Improvement Project,SCIP_INF_2,Prophylactic Antibiotic Selection for Surgical Patients,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100424,131308,Surgical Care Improvement Project,SCIP_INF_3,Prophylactic antibiotics discontinued within 24 hours after surgery end time,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100425,131309,Surgical Care Improvement Project,SCIP_INF_4,Cardiac Surgery Patients With Controlled 6 A.M. Postoperative Blood Glucose,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100426,131310,Surgical Care Improvement Project,SCIP_INF_9,Postoperative Urinary Catheter Removal,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100427,131311,Surgical Care Improvement Project,SCIP_VTE_2,Surgery Patients Who Received Appropriate Venous Thromboembolism Prophylaxis Within 24 Hours Prior to Surgery to 24 Hours After Surgery,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100428,131312,Stroke Care,STK_1,Venous Thromboembolism (VTE) Prophylaxis,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100429,131313,Stroke Care,STK_10,Assessed for Rehabilitation,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N10043,131314,Stroke Care,STK_6,Discharged on Statin Medication,NULL,NULL,"1 - The number of cases/patients is too few to report., 2 - Data submitted were based on a sample of cases/patients.",1/1/13,9/30/13
+N100430,131315,Stroke Care,STK_2,Discharged on Antithrombotic Therapy,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100431,131316,Stroke Care,STK_3,Anticoagulation Therapy for Atrial Fibrillation/Flutter,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100432,131317,Stroke Care,STK_4,Thrombolytic Therapy,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100433,131318,Stroke Care,STK_5,Antithrombotic Therapy by End of Hospital Day 2 ,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100434,131319,Stroke Care,STK_6,Discharged on Statin Medication,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100435,131320,Stroke Care,STK_8,Stroke Education,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100436,131321,Blood Clot Prevention and Treatment,VTE_1,Venous thromboembolism prophylaxis,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100437,131322,Blood Clot Prevention and Treatment,VTE_2,ICU venous thromboembolism prophylaxis,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100438,131323,Blood Clot Prevention and Treatment,VTE_3,Anticoagulation overlap therapy,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100439,131324,Blood Clot Prevention and Treatment,VTE_4,Unfractionated heparin with dosages/platelet count monitoring,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N10044,131325,Stroke Care,STK_8,Stroke Education,NULL,NULL,"1 - The number of cases/patients is too few to report., 2 - Data submitted were based on a sample of cases/patients.",1/1/13,9/30/13
+N100440,131326,Blood Clot Prevention and Treatment,VTE_5,Warfarin therapy discharge instructions,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100441,131327,Blood Clot Prevention and Treatment,VTE_6,Incidence of potentially preventable VTE,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100442,131328,Heart Attack or Chest Pain,AMI_10,Statin at Discharge,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100443,13301,Heart Attack or Chest Pain,AMI_2,Aspirin prescribed at discharge,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100444,140001,Heart Attack or Chest Pain,AMI_7a,Heart attack patients given drugs to break up blood clots within 30 minutes of arrival,NULL,0,7 - No cases met the criteria for this measure.,10/1/12,9/30/13
+N100445,140002,Heart Attack or Chest Pain,AMI_8a,Primary PCI Received Within 90 Minutes of Hospital Arrival,NULL,0,7 - No cases met the criteria for this measure.,10/1/12,9/30/13
+N100446,140007,Emergency Department,ED_1b,ED1,200,440,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100447,140008,Emergency Department,ED_2b,ED2,54,335,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100448,140010,Heart Failure,HF_1,Discharge instructions,63,27,,10/1/12,9/30/13
+N100449,140011,Heart Failure,HF_2,Evaluation of LVS Function,74,31,,10/1/12,9/30/13
+N10045,140012,Blood Clot Prevention and Treatment,VTE_1,Venous thromboembolism prophylaxis,90,223,2 - Data submitted were based on a sample of cases/patients.,1/1/13,9/30/13
+N100450,140013,Heart Failure,HF_3,ACEI or ARB for LVSD,69,13,,10/1/12,9/30/13
+N100451,140015,Preventive Care,IMM_1a,Immunization for pneumonia,94,324,"2 - Data submitted were based on a sample of cases/patients., 3 - Results are based on a shorter time period than required.",10/1/12,9/30/13
+N100452,140018,Preventive Care,IMM_2,Immunization for influenza,97,135,"2 - Data submitted were based on a sample of cases/patients., 3 - Results are based on a shorter time period than required.",10/1/12,3/31/13
+N100453,140019,Heart Attack or Chest Pain,OP_1,Median Time to Fibrinolysis,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100454,140026,Emergency Department,OP_18b,OP 18,77,307,,10/1/12,9/30/13
+N100455,140029,Heart Attack or Chest Pain,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100456,140030,Emergency Department,OP_20,Door to diagnostic eval,12,426,,10/1/12,9/30/13
+N100457,140032,Emergency Department,OP_21,Median time to pain med,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100458,140033,Emergency Department,OP_22,Left before being seen,NULL,NULL,5 - Results are not available for this reporting period.,1/1/12,12/31/12
+N100459,140034,Emergency Department,OP_23,Head CT results,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N10046,14003,Blood Clot Prevention and Treatment,VTE_2,ICU venous thromboembolism prophylaxis,NULL,NULL,"1 - The number of cases/patients is too few to report., 2 - Data submitted were based on a sample of cases/patients.",1/1/13,9/30/13
+N100460,140040,Heart Attack or Chest Pain,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100461,140043,Heart Attack or Chest Pain,OP_4,Aspirin at Arrival,98,53,,10/1/12,9/30/13
+N100462,140046,Heart Attack or Chest Pain,OP_5,Median Time to ECG,2,50,,10/1/12,9/30/13
+N100463,140048,Surgical Care Improvement Project,OP_6,Prophylactic Antibiotic Initiated Within One Hour Prior to Surgical Incision,77,30,,10/1/12,9/30/13
+N100464,140049,Surgical Care Improvement Project,OP_7,Prophylactic Antibiotic Selection for Surgical Patients,58,26,,10/1/12,9/30/13
+N100465,14004,Pregnancy and Delivery Care,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100466,140052,Pneumonia,PN_3b,Blood Cultures Performed in the Emergency Department Prior to Initial Antibiotic Received in Hospital,80,46,,10/1/12,9/30/13
+N100467,140053,Pneumonia,PN_6,Initial antibiotic selection for CAP in immunocompetent patient,96,27,,10/1/12,9/30/13
+N100468,140054,Surgical Care Improvement Project,SCIP_CARD_2,Surgery Patients on a Beta Blocker Prior to Arrival Who Received a Beta Blocker During the Perioperative Period,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100469,140058,Surgical Care Improvement Project,SCIP_INF_1,Prophylactic antibiotic received within 1 hour prior to surgical incision,96,23,,10/1/12,9/30/13
+N10047,140059,Blood Clot Prevention and Treatment,VTE_3,Anticoagulation overlap therapy,NULL,NULL,"1 - The number of cases/patients is too few to report., 2 - Data submitted were based on a sample of cases/patients.",1/1/13,9/30/13
+N100470,140062,Surgical Care Improvement Project,SCIP_INF_10,Surgery Patients with Perioperative Temperature Management,97,29,,10/1/12,9/30/13
+N100471,140063,Surgical Care Improvement Project,SCIP_INF_2,Prophylactic Antibiotic Selection for Surgical Patients,96,23,,10/1/12,9/30/13
+N100472,140064,Surgical Care Improvement Project,SCIP_INF_3,Prophylactic antibiotics discontinued within 24 hours after surgery end time,82,22,,10/1/12,9/30/13
+N100473,140065,Surgical Care Improvement Project,SCIP_INF_4,Cardiac Surgery Patients With Controlled 6 A.M. Postoperative Blood Glucose,NULL,0,7 - No cases met the criteria for this measure.,10/1/12,9/30/13
+N100474,140067,Surgical Care Improvement Project,SCIP_INF_9,Postoperative Urinary Catheter Removal,52,25,,10/1/12,9/30/13
+N100475,140068,Surgical Care Improvement Project,SCIP_VTE_2,Surgery Patients Who Received Appropriate Venous Thromboembolism Prophylaxis Within 24 Hours Prior to Surgery to 24 Hours After Surgery,100,26,,10/1/12,9/30/13
+N100476,140077,Stroke Care,STK_1,Venous Thromboembolism (VTE) Prophylaxis,NULL,NULL,1 - The number of cases/patients is too few to report.,1/1/13,9/30/13
+N100477,14007,Stroke Care,STK_10,Assessed for Rehabilitation,NULL,NULL,1 - The number of cases/patients is too few to report.,1/1/13,9/30/13
+N100478,140080,Stroke Care,STK_2,Discharged on Antithrombotic Therapy,NULL,NULL,1 - The number of cases/patients is too few to report.,1/1/13,9/30/13
+N100479,140082,Stroke Care,STK_3,Anticoagulation Therapy for Atrial Fibrillation/Flutter,NULL,NULL,1 - The number of cases/patients is too few to report.,1/1/13,9/30/13
+N10048,140083,Blood Clot Prevention and Treatment,VTE_4,Unfractionated heparin with dosages/platelet count monitoring,NULL,0,"2 - Data submitted were based on a sample of cases/patients., 7 - No cases met the criteria for this measure.",1/1/13,9/30/13
+N100480,140084,Stroke Care,STK_4,Thrombolytic Therapy,NULL,0,7 - No cases met the criteria for this measure.,1/1/13,9/30/13
+N100481,140088,Stroke Care,STK_5,Antithrombotic Therapy by End of Hospital Day 2 ,NULL,NULL,1 - The number of cases/patients is too few to report.,1/1/13,9/30/13
+N100482,140089,Stroke Care,STK_6,Discharged on Statin Medication,NULL,NULL,1 - The number of cases/patients is too few to report.,1/1/13,9/30/13
+N100483,14008,Stroke Care,STK_8,Stroke Education,NULL,NULL,1 - The number of cases/patients is too few to report.,1/1/13,9/30/13
+N100484,140091,Blood Clot Prevention and Treatment,VTE_1,Venous thromboembolism prophylaxis,69,108,2 - Data submitted were based on a sample of cases/patients.,1/1/13,9/30/13
+N100485,140093,Blood Clot Prevention and Treatment,VTE_2,ICU venous thromboembolism prophylaxis,NULL,NULL,"1 - The number of cases/patients is too few to report., 2 - Data submitted were based on a sample of cases/patients.",1/1/13,9/30/13
+N100486,140095,Blood Clot Prevention and Treatment,VTE_3,Anticoagulation overlap therapy,NULL,NULL,"1 - The number of cases/patients is too few to report., 2 - Data submitted were based on a sample of cases/patients.",1/1/13,9/30/13
+N100487,140100,Blood Clot Prevention and Treatment,VTE_4,Unfractionated heparin with dosages/platelet count monitoring,NULL,NULL,"1 - The number of cases/patients is too few to report., 2 - Data submitted were based on a sample of cases/patients.",1/1/13,9/30/13
+N100488,140101,Blood Clot Prevention and Treatment,VTE_5,Warfarin therapy discharge instructions,NULL,NULL,"1 - The number of cases/patients is too few to report., 2 - Data submitted were based on a sample of cases/patients.",1/1/13,9/30/13
+N100489,140103,Blood Clot Prevention and Treatment,VTE_6,Incidence of potentially preventable VTE,NULL,NULL,"1 - The number of cases/patients is too few to report., 2 - Data submitted were based on a sample of cases/patients.",1/1/13,9/30/13
+N10049,140110,Blood Clot Prevention and Treatment,VTE_5,Warfarin therapy discharge instructions,NULL,0,"2 - Data submitted were based on a sample of cases/patients., 7 - No cases met the criteria for this measure.",1/1/13,9/30/13
+N100490,140113,Heart Attack or Chest Pain,AMI_10,Statin at Discharge,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100491,140114,Heart Attack or Chest Pain,AMI_2,Aspirin prescribed at discharge,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100492,140115,Heart Attack or Chest Pain,AMI_7a,Heart attack patients given drugs to break up blood clots within 30 minutes of arrival,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100493,140116,Heart Attack or Chest Pain,AMI_8a,Primary PCI Received Within 90 Minutes of Hospital Arrival,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100494,140117,Emergency Department,ED_1b,ED1,216,495,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100495,140118,Emergency Department,ED_2b,ED2,57,481,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100496,140119,Heart Failure,HF_1,Discharge instructions,100,17,,10/1/12,9/30/13
+N100497,140120,Heart Failure,HF_2,Evaluation of LVS Function,100,21,,10/1/12,9/30/13
+N100498,140122,Heart Failure,HF_3,ACEI or ARB for LVSD,100,12,,10/1/12,9/30/13
+N100499,140124,Preventive Care,IMM_1a,Immunization for pneumonia,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N1005,140125,Emergency Department,ED_2b,ED2,66,530,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N10050,140127,Blood Clot Prevention and Treatment,VTE_6,Incidence of potentially preventable VTE,NULL,0,"2 - Data submitted were based on a sample of cases/patients., 7 - No cases met the criteria for this measure.",1/1/13,9/30/13
+N100500,140130,Preventive Care,IMM_2,Immunization for influenza,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,3/31/13
+N100501,140133,Heart Attack or Chest Pain,OP_1,Median Time to Fibrinolysis,NULL,0,7 - No cases met the criteria for this measure.,10/1/12,9/30/13
+N100502,140135,Emergency Department,OP_18b,OP 18,96,435,,10/1/12,9/30/13
+N100503,140137,Heart Attack or Chest Pain,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,NULL,0,7 - No cases met the criteria for this measure.,10/1/12,9/30/13
+N100504,140143,Emergency Department,OP_20,Door to diagnostic eval,17,483,,10/1/12,9/30/13
+N100505,140145,Emergency Department,OP_21,Median time to pain med,32,49,3 - Results are based on a shorter time period than required.,10/1/12,9/30/13
+N100506,140147,Emergency Department,OP_22,Left before being seen,NULL,NULL,5 - Results are not available for this reporting period.,1/1/12,12/31/12
+N100507,140148,Emergency Department,OP_23,Head CT results,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100508,140150,Heart Attack or Chest Pain,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100509,140155,Heart Attack or Chest Pain,OP_4,Aspirin at Arrival,100,23,,10/1/12,9/30/13
+N10051,140158,Heart Attack or Chest Pain,AMI_10,Statin at Discharge,100,139,,10/1/12,9/30/13
+N100510,140160,Heart Attack or Chest Pain,OP_5,Median Time to ECG,6,24,,10/1/12,9/30/13
+N100511,140161,Surgical Care Improvement Project,OP_6,Prophylactic Antibiotic Initiated Within One Hour Prior to Surgical Incision,NULL,0,"3 - Results are based on a shorter time period than required., 7 - No cases met the criteria for this measure.",10/1/12,9/30/13
+N100512,140162,Surgical Care Improvement Project,OP_7,Prophylactic Antibiotic Selection for Surgical Patients,NULL,0,"3 - Results are based on a shorter time period than required., 7 - No cases met the criteria for this measure.",10/1/12,9/30/13
+N100513,140164,Pregnancy and Delivery Care,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100514,140166,Pneumonia,PN_3b,Blood Cultures Performed in the Emergency Department Prior to Initial Antibiotic Received in Hospital,93,42,,10/1/12,9/30/13
+N100515,140167,Pneumonia,PN_6,Initial antibiotic selection for CAP in immunocompetent patient,97,34,,10/1/12,9/30/13
+N100516,140172,Surgical Care Improvement Project,SCIP_CARD_2,Surgery Patients on a Beta Blocker Prior to Arrival Who Received a Beta Blocker During the Perioperative Period,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100517,140174,Surgical Care Improvement Project,SCIP_INF_1,Prophylactic antibiotic received within 1 hour prior to surgical incision,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100518,140176,Surgical Care Improvement Project,SCIP_INF_10,Surgery Patients with Perioperative Temperature Management,100,16,,10/1/12,9/30/13
+N100519,140177,Surgical Care Improvement Project,SCIP_INF_2,Prophylactic Antibiotic Selection for Surgical Patients,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N10052,140179,Heart Attack or Chest Pain,AMI_2,Aspirin prescribed at discharge,100,146,,10/1/12,9/30/13
+N100520,140180,Surgical Care Improvement Project,SCIP_INF_3,Prophylactic antibiotics discontinued within 24 hours after surgery end time,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100521,140181,Surgical Care Improvement Project,SCIP_INF_4,Cardiac Surgery Patients With Controlled 6 A.M. Postoperative Blood Glucose,NULL,0,7 - No cases met the criteria for this measure.,10/1/12,9/30/13
+N100522,140182,Surgical Care Improvement Project,SCIP_INF_9,Postoperative Urinary Catheter Removal,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100523,140184,Surgical Care Improvement Project,SCIP_VTE_2,Surgery Patients Who Received Appropriate Venous Thromboembolism Prophylaxis Within 24 Hours Prior to Surgery to 24 Hours After Surgery,93,14,,10/1/12,9/30/13
+N100524,140185,Stroke Care,STK_1,Venous Thromboembolism (VTE) Prophylaxis,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100525,140186,Stroke Care,STK_10,Assessed for Rehabilitation,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100526,140187,Stroke Care,STK_2,Discharged on Antithrombotic Therapy,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100527,140189,Stroke Care,STK_3,Anticoagulation Therapy for Atrial Fibrillation/Flutter,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100528,140191,Stroke Care,STK_4,Thrombolytic Therapy,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100529,140197,Stroke Care,STK_5,Antithrombotic Therapy by End of Hospital Day 2 ,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N10053,140200,Heart Attack or Chest Pain,AMI_7a,Heart attack patients given drugs to break up blood clots within 30 minutes of arrival,NULL,0,7 - No cases met the criteria for this measure.,10/1/12,9/30/13
+N100530,140202,Stroke Care,STK_6,Discharged on Statin Medication,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100531,140206,Stroke Care,STK_8,Stroke Education,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100532,140208,Blood Clot Prevention and Treatment,VTE_1,Venous thromboembolism prophylaxis,83,161,2 - Data submitted were based on a sample of cases/patients.,1/1/13,9/30/13
+N100533,140209,Blood Clot Prevention and Treatment,VTE_2,ICU venous thromboembolism prophylaxis,NULL,0,"2 - Data submitted were based on a sample of cases/patients., 7 - No cases met the criteria for this measure.",1/1/13,9/30/13
+N100534,140210,Blood Clot Prevention and Treatment,VTE_3,Anticoagulation overlap therapy,NULL,NULL,"1 - The number of cases/patients is too few to report., 2 - Data submitted were based on a sample of cases/patients.",1/1/13,9/30/13
+N100535,140211,Blood Clot Prevention and Treatment,VTE_4,Unfractionated heparin with dosages/platelet count monitoring,NULL,NULL,"1 - The number of cases/patients is too few to report., 2 - Data submitted were based on a sample of cases/patients.",1/1/13,9/30/13
+N100536,140213,Blood Clot Prevention and Treatment,VTE_5,Warfarin therapy discharge instructions,NULL,NULL,"1 - The number of cases/patients is too few to report., 2 - Data submitted were based on a sample of cases/patients.",1/1/13,9/30/13
+N100537,140217,Blood Clot Prevention and Treatment,VTE_6,Incidence of potentially preventable VTE,NULL,0,"2 - Data submitted were based on a sample of cases/patients., 7 - No cases met the criteria for this measure.",1/1/13,9/30/13
+N100538,140223,Heart Attack or Chest Pain,AMI_10,Statin at Discharge,NULL,NULL,"1 - The number of cases/patients is too few to report., 3 - Results are based on a shorter time period than required.",10/1/12,9/30/13
+N100539,140224,Heart Attack or Chest Pain,AMI_2,Aspirin prescribed at discharge,NULL,NULL,"1 - The number of cases/patients is too few to report., 3 - Results are based on a shorter time period than required.",10/1/12,9/30/13
+N10054,140228,Heart Attack or Chest Pain,AMI_8a,Primary PCI Received Within 90 Minutes of Hospital Arrival,100,29,,10/1/12,9/30/13
+N100540,140231,Heart Attack or Chest Pain,AMI_7a,Heart attack patients given drugs to break up blood clots within 30 minutes of arrival,NULL,0,"3 - Results are based on a shorter time period than required., 7 - No cases met the criteria for this measure.",10/1/12,9/30/13
+N100541,140233,Heart Attack or Chest Pain,AMI_8a,Primary PCI Received Within 90 Minutes of Hospital Arrival,NULL,0,"3 - Results are based on a shorter time period than required., 7 - No cases met the criteria for this measure.",10/1/12,9/30/13
+N100542,140234,Emergency Department,ED_1b,ED1,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100543,140239,Emergency Department,ED_2b,ED2,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100544,140240,Heart Failure,HF_1,Discharge instructions,96,24,,10/1/12,9/30/13
+N100545,140242,Heart Failure,HF_2,Evaluation of LVS Function,100,28,,10/1/12,9/30/13
+N100546,140250,Heart Failure,HF_3,ACEI or ARB for LVSD,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100547,140251,Preventive Care,IMM_1a,Immunization for pneumonia,81,462,"2 - Data submitted were based on a sample of cases/patients., 3 - Results are based on a shorter time period than required.",10/1/12,9/30/13
+N100548,140252,Preventive Care,IMM_2,Immunization for influenza,83,248,3 - Results are based on a shorter time period than required.,10/1/12,3/31/13
+N100549,140258,Heart Attack or Chest Pain,OP_1,Median Time to Fibrinolysis,NULL,0,7 - No cases met the criteria for this measure.,10/1/12,9/30/13
+N10055,140275,Emergency Department,ED_1b,ED1,240,484,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100550,140276,Emergency Department,OP_18b,OP 18,115,399,,10/1/12,9/30/13
+N100551,140280,Heart Attack or Chest Pain,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,NULL,0,7 - No cases met the criteria for this measure.,10/1/12,9/30/13
+N100552,140281,Emergency Department,OP_20,Door to diagnostic eval,22,411,,10/1/12,9/30/13
+N100553,140286,Emergency Department,OP_21,Median time to pain med,48,32,3 - Results are based on a shorter time period than required.,10/1/12,9/30/13
+N100554,140288,Emergency Department,OP_22,Left before being seen,NULL,NULL,5 - Results are not available for this reporting period.,1/1/12,12/31/12
+N100555,140289,Emergency Department,OP_23,Head CT results,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100556,140290,Heart Attack or Chest Pain,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,NULL,0,7 - No cases met the criteria for this measure.,10/1/12,9/30/13
+N100557,140291,Heart Attack or Chest Pain,OP_4,Aspirin at Arrival,92,12,,10/1/12,9/30/13
+N100558,140292,Heart Attack or Chest Pain,OP_5,Median Time to ECG,9,12,,10/1/12,9/30/13
+N100559,140294,Surgical Care Improvement Project,OP_6,Prophylactic Antibiotic Initiated Within One Hour Prior to Surgical Incision,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N10056,140300,Emergency Department,ED_2b,ED2,101,483,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100560,140304,Surgical Care Improvement Project,OP_7,Prophylactic Antibiotic Selection for Surgical Patients,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100561,14034,Pregnancy and Delivery Care,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100562,141300,Pneumonia,PN_3b,Blood Cultures Performed in the Emergency Department Prior to Initial Antibiotic Received in Hospital,98,87,,10/1/12,9/30/13
+N100563,141301,Pneumonia,PN_6,Initial antibiotic selection for CAP in immunocompetent patient,100,65,,10/1/12,9/30/13
+N100564,141302,Surgical Care Improvement Project,SCIP_CARD_2,Surgery Patients on a Beta Blocker Prior to Arrival Who Received a Beta Blocker During the Perioperative Period,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100565,141303,Surgical Care Improvement Project,SCIP_INF_1,Prophylactic antibiotic received within 1 hour prior to surgical incision,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100566,141304,Surgical Care Improvement Project,SCIP_INF_10,Surgery Patients with Perioperative Temperature Management,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100567,141305,Surgical Care Improvement Project,SCIP_INF_2,Prophylactic Antibiotic Selection for Surgical Patients,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100568,141306,Surgical Care Improvement Project,SCIP_INF_3,Prophylactic antibiotics discontinued within 24 hours after surgery end time,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100569,141307,Surgical Care Improvement Project,SCIP_INF_4,Cardiac Surgery Patients With Controlled 6 A.M. Postoperative Blood Glucose,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N10057,141309,Heart Failure,HF_1,Discharge instructions,97,222,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100570,141310,Surgical Care Improvement Project,SCIP_INF_9,Postoperative Urinary Catheter Removal,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100571,141311,Surgical Care Improvement Project,SCIP_VTE_2,Surgery Patients Who Received Appropriate Venous Thromboembolism Prophylaxis Within 24 Hours Prior to Surgery to 24 Hours After Surgery,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100572,141312,Stroke Care,STK_1,Venous Thromboembolism (VTE) Prophylaxis,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100573,141313,Stroke Care,STK_10,Assessed for Rehabilitation,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100574,141315,Stroke Care,STK_2,Discharged on Antithrombotic Therapy,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100575,141316,Stroke Care,STK_3,Anticoagulation Therapy for Atrial Fibrillation/Flutter,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100576,141317,Stroke Care,STK_4,Thrombolytic Therapy,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100577,141318,Stroke Care,STK_5,Antithrombotic Therapy by End of Hospital Day 2 ,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100578,141319,Stroke Care,STK_6,Discharged on Statin Medication,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100579,141320,Stroke Care,STK_8,Stroke Education,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N10058,141321,Heart Failure,HF_2,Evaluation of LVS Function,100,289,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100580,141322,Blood Clot Prevention and Treatment,VTE_1,Venous thromboembolism prophylaxis,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100581,141323,Blood Clot Prevention and Treatment,VTE_2,ICU venous thromboembolism prophylaxis,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100582,141324,Blood Clot Prevention and Treatment,VTE_3,Anticoagulation overlap therapy,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100583,141325,Blood Clot Prevention and Treatment,VTE_4,Unfractionated heparin with dosages/platelet count monitoring,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100584,141326,Blood Clot Prevention and Treatment,VTE_5,Warfarin therapy discharge instructions,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100585,141327,Blood Clot Prevention and Treatment,VTE_6,Incidence of potentially preventable VTE,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100586,141328,Heart Attack or Chest Pain,AMI_10,Statin at Discharge,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100587,141329,Heart Attack or Chest Pain,AMI_2,Aspirin prescribed at discharge,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100588,141330,Heart Attack or Chest Pain,AMI_7a,Heart attack patients given drugs to break up blood clots within 30 minutes of arrival,NULL,0,7 - No cases met the criteria for this measure.,10/1/12,9/30/13
+N100589,141331,Heart Attack or Chest Pain,AMI_8a,Primary PCI Received Within 90 Minutes of Hospital Arrival,NULL,0,7 - No cases met the criteria for this measure.,10/1/12,9/30/13
+N10059,141332,Heart Failure,HF_3,ACEI or ARB for LVSD,100,79,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100590,141333,Emergency Department,ED_1b,ED1,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100591,141334,Emergency Department,ED_2b,ED2,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100592,141335,Heart Failure,HF_1,Discharge instructions,100,24,,10/1/12,9/30/13
+N100593,141336,Heart Failure,HF_2,Evaluation of LVS Function,100,36,,10/1/12,9/30/13
+N100594,141337,Heart Failure,HF_3,ACEI or ARB for LVSD,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100595,141338,Preventive Care,IMM_1a,Immunization for pneumonia,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100596,141339,Preventive Care,IMM_2,Immunization for influenza,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,3/31/13
+N100597,141340,Heart Attack or Chest Pain,OP_1,Median Time to Fibrinolysis,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100598,141341,Emergency Department,OP_18b,OP 18,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100599,141342,Heart Attack or Chest Pain,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N1006,141343,Heart Failure,HF_1,Discharge instructions,94,466,,10/1/12,9/30/13
+N10060,141344,Preventive Care,IMM_1a,Immunization for pneumonia,95,698,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100600,141345,Emergency Department,OP_20,Door to diagnostic eval,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100601,141346,Emergency Department,OP_21,Median time to pain med,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100602,141347,Emergency Department,OP_22,Left before being seen,NULL,NULL,5 - Results are not available for this reporting period.,1/1/12,12/31/12
+N100603,141348,Emergency Department,OP_23,Head CT results,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100604,141349,Heart Attack or Chest Pain,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100605,141350,Heart Attack or Chest Pain,OP_4,Aspirin at Arrival,100,50,,10/1/12,9/30/13
+N100606,141351,Heart Attack or Chest Pain,OP_5,Median Time to ECG,7,50,,10/1/12,9/30/13
+N100607,150001,Surgical Care Improvement Project,OP_6,Prophylactic Antibiotic Initiated Within One Hour Prior to Surgical Incision,NULL,NULL,"1 - The number of cases/patients is too few to report., 3 - Results are based on a shorter time period than required.",10/1/12,9/30/13
+N100608,150002,Surgical Care Improvement Project,OP_7,Prophylactic Antibiotic Selection for Surgical Patients,NULL,NULL,"1 - The number of cases/patients is too few to report., 3 - Results are based on a shorter time period than required.",10/1/12,9/30/13
+N100609,150003,Pregnancy and Delivery Care,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N10061,150004,Preventive Care,IMM_2,Immunization for influenza,95,577,2 - Data submitted were based on a sample of cases/patients.,10/1/12,3/31/13
+N100610,150005,Pneumonia,PN_3b,Blood Cultures Performed in the Emergency Department Prior to Initial Antibiotic Received in Hospital,99,98,,10/1/12,9/30/13
+N100611,150006,Pneumonia,PN_6,Initial antibiotic selection for CAP in immunocompetent patient,85,61,,10/1/12,9/30/13
+N100612,150007,Surgical Care Improvement Project,SCIP_CARD_2,Surgery Patients on a Beta Blocker Prior to Arrival Who Received a Beta Blocker During the Perioperative Period,95,21,,10/1/12,9/30/13
+N100613,150008,Surgical Care Improvement Project,SCIP_INF_1,Prophylactic antibiotic received within 1 hour prior to surgical incision,100,56,,10/1/12,9/30/13
+N100614,150009,Surgical Care Improvement Project,SCIP_INF_10,Surgery Patients with Perioperative Temperature Management,100,82,,10/1/12,9/30/13
+N100615,150010,Surgical Care Improvement Project,SCIP_INF_2,Prophylactic Antibiotic Selection for Surgical Patients,100,56,,10/1/12,9/30/13
+N100616,150011,Surgical Care Improvement Project,SCIP_INF_3,Prophylactic antibiotics discontinued within 24 hours after surgery end time,100,54,,10/1/12,9/30/13
+N100617,150012,Surgical Care Improvement Project,SCIP_INF_4,Cardiac Surgery Patients With Controlled 6 A.M. Postoperative Blood Glucose,NULL,0,7 - No cases met the criteria for this measure.,10/1/12,9/30/13
+N100618,150015,Surgical Care Improvement Project,SCIP_INF_9,Postoperative Urinary Catheter Removal,98,46,,10/1/12,9/30/13
+N100619,150017,Surgical Care Improvement Project,SCIP_VTE_2,Surgery Patients Who Received Appropriate Venous Thromboembolism Prophylaxis Within 24 Hours Prior to Surgery to 24 Hours After Surgery,100,23,3 - Results are based on a shorter time period than required.,10/1/12,9/30/13
+N10062,150018,Heart Attack or Chest Pain,OP_1,Median Time to Fibrinolysis,NULL,0,"3 - Results are based on a shorter time period than required., 7 - No cases met the criteria for this measure.",10/1/12,9/30/13
+N100620,150021,Stroke Care,STK_1,Venous Thromboembolism (VTE) Prophylaxis,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100621,150022,Stroke Care,STK_10,Assessed for Rehabilitation,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100622,150023,Stroke Care,STK_2,Discharged on Antithrombotic Therapy,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100623,150024,Stroke Care,STK_3,Anticoagulation Therapy for Atrial Fibrillation/Flutter,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100624,150026,Stroke Care,STK_4,Thrombolytic Therapy,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100625,150030,Stroke Care,STK_5,Antithrombotic Therapy by End of Hospital Day 2 ,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100626,150034,Stroke Care,STK_6,Discharged on Statin Medication,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100627,150035,Stroke Care,STK_8,Stroke Education,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100628,150037,Blood Clot Prevention and Treatment,VTE_1,Venous thromboembolism prophylaxis,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100629,150038,Blood Clot Prevention and Treatment,VTE_2,ICU venous thromboembolism prophylaxis,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N10063,15003,Emergency Department,OP_18b,OP 18,127,473,,10/1/12,9/30/13
+N100630,150042,Blood Clot Prevention and Treatment,VTE_3,Anticoagulation overlap therapy,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100631,150044,Blood Clot Prevention and Treatment,VTE_4,Unfractionated heparin with dosages/platelet count monitoring,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100632,150045,Blood Clot Prevention and Treatment,VTE_5,Warfarin therapy discharge instructions,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100633,150046,Blood Clot Prevention and Treatment,VTE_6,Incidence of potentially preventable VTE,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100634,150047,Heart Attack or Chest Pain,AMI_10,Statin at Discharge,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100635,150048,Heart Attack or Chest Pain,AMI_2,Aspirin prescribed at discharge,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100636,15004,Heart Attack or Chest Pain,AMI_7a,Heart attack patients given drugs to break up blood clots within 30 minutes of arrival,NULL,0,7 - No cases met the criteria for this measure.,10/1/12,9/30/13
+N100637,150051,Heart Attack or Chest Pain,AMI_8a,Primary PCI Received Within 90 Minutes of Hospital Arrival,NULL,0,7 - No cases met the criteria for this measure.,10/1/12,9/30/13
+N100638,150056,Emergency Department,ED_1b,ED1,217,419,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100639,150057,Emergency Department,ED_2b,ED2,77,419,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N10064,150058,Heart Attack or Chest Pain,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,NULL,0,"3 - Results are based on a shorter time period than required., 7 - No cases met the criteria for this measure.",10/1/12,9/30/13
+N100640,150059,Heart Failure,HF_1,Discharge instructions,85,39,,10/1/12,9/30/13
+N100641,150061,Heart Failure,HF_2,Evaluation of LVS Function,100,50,,10/1/12,9/30/13
+N100642,150064,Heart Failure,HF_3,ACEI or ARB for LVSD,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100643,150065,Preventive Care,IMM_1a,Immunization for pneumonia,93,466,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100644,150069,Preventive Care,IMM_2,Immunization for influenza,95,287,2 - Data submitted were based on a sample of cases/patients.,10/1/12,3/31/13
+N100645,150072,Heart Attack or Chest Pain,OP_1,Median Time to Fibrinolysis,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100646,150074,Emergency Department,OP_18b,OP 18,91,321,,10/1/12,9/30/13
+N100647,150075,Heart Attack or Chest Pain,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100648,150076,Emergency Department,OP_20,Door to diagnostic eval,2,384,,10/1/12,9/30/13
+N100649,150082,Emergency Department,OP_21,Median time to pain med,40,60,,10/1/12,9/30/13
+N10065,150084,Emergency Department,OP_20,Door to diagnostic eval,50,545,,10/1/12,9/30/13
+N100650,150086,Emergency Department,OP_22,Left before being seen,NULL,NULL,5 - Results are not available for this reporting period.,1/1/12,12/31/12
+N100651,150088,Emergency Department,OP_23,Head CT results,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100652,150089,Heart Attack or Chest Pain,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,NULL,0,7 - No cases met the criteria for this measure.,10/1/12,9/30/13
+N100653,150090,Heart Attack or Chest Pain,OP_4,Aspirin at Arrival,97,70,,10/1/12,9/30/13
+N100654,150091,Heart Attack or Chest Pain,OP_5,Median Time to ECG,7,74,,10/1/12,9/30/13
+N100655,150097,Surgical Care Improvement Project,OP_6,Prophylactic Antibiotic Initiated Within One Hour Prior to Surgical Incision,85,13,,10/1/12,9/30/13
+N100656,150100,Surgical Care Improvement Project,OP_7,Prophylactic Antibiotic Selection for Surgical Patients,83,12,,10/1/12,9/30/13
+N100657,150101,Pregnancy and Delivery Care,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100658,150102,Pneumonia,PN_3b,Blood Cultures Performed in the Emergency Department Prior to Initial Antibiotic Received in Hospital,100,47,,10/1/12,9/30/13
+N100659,150104,Pneumonia,PN_6,Initial antibiotic selection for CAP in immunocompetent patient,100,32,,10/1/12,9/30/13
+N10066,150109,Emergency Department,OP_21,Median time to pain med,52,184,,10/1/12,9/30/13
+N100660,150112,Surgical Care Improvement Project,SCIP_CARD_2,Surgery Patients on a Beta Blocker Prior to Arrival Who Received a Beta Blocker During the Perioperative Period,100,35,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100661,150113,Surgical Care Improvement Project,SCIP_INF_1,Prophylactic antibiotic received within 1 hour prior to surgical incision,99,72,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100662,150115,Surgical Care Improvement Project,SCIP_INF_10,Surgery Patients with Perioperative Temperature Management,100,101,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100663,150125,Surgical Care Improvement Project,SCIP_INF_2,Prophylactic Antibiotic Selection for Surgical Patients,100,72,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100664,150126,Surgical Care Improvement Project,SCIP_INF_3,Prophylactic antibiotics discontinued within 24 hours after surgery end time,99,68,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100665,150128,Surgical Care Improvement Project,SCIP_INF_4,Cardiac Surgery Patients With Controlled 6 A.M. Postoperative Blood Glucose,NULL,0,"2 - Data submitted were based on a sample of cases/patients., 7 - No cases met the criteria for this measure.",10/1/12,9/30/13
+N100666,150129,Surgical Care Improvement Project,SCIP_INF_9,Postoperative Urinary Catheter Removal,95,81,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100667,150133,Surgical Care Improvement Project,SCIP_VTE_2,Surgery Patients Who Received Appropriate Venous Thromboembolism Prophylaxis Within 24 Hours Prior to Surgery to 24 Hours After Surgery,100,89,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100668,150146,Stroke Care,STK_1,Venous Thromboembolism (VTE) Prophylaxis,93,15,,1/1/13,9/30/13
+N100669,150149,Stroke Care,STK_10,Assessed for Rehabilitation,100,14,,1/1/13,9/30/13
+N10067,150150,Emergency Department,OP_22,Left before being seen,3,50020,,1/1/12,12/31/12
+N100670,150153,Stroke Care,STK_2,Discharged on Antithrombotic Therapy,100,14,,1/1/13,9/30/13
+N100671,150154,Stroke Care,STK_3,Anticoagulation Therapy for Atrial Fibrillation/Flutter,NULL,0,7 - No cases met the criteria for this measure.,1/1/13,9/30/13
+N100672,150157,Stroke Care,STK_4,Thrombolytic Therapy,NULL,0,7 - No cases met the criteria for this measure.,1/1/13,9/30/13
+N100673,150158,Stroke Care,STK_5,Antithrombotic Therapy by End of Hospital Day 2 ,100,14,,1/1/13,9/30/13
+N100674,150160,Stroke Care,STK_6,Discharged on Statin Medication,83,12,,1/1/13,9/30/13
+N100675,150161,Stroke Care,STK_8,Stroke Education,NULL,NULL,1 - The number of cases/patients is too few to report.,1/1/13,9/30/13
+N100676,150162,Blood Clot Prevention and Treatment,VTE_1,Venous thromboembolism prophylaxis,85,71,2 - Data submitted were based on a sample of cases/patients.,1/1/13,9/30/13
+N100677,150163,Blood Clot Prevention and Treatment,VTE_2,ICU venous thromboembolism prophylaxis,84,25,2 - Data submitted were based on a sample of cases/patients.,1/1/13,9/30/13
+N100678,150164,Blood Clot Prevention and Treatment,VTE_3,Anticoagulation overlap therapy,NULL,NULL,"1 - The number of cases/patients is too few to report., 2 - Data submitted were based on a sample of cases/patients.",1/1/13,9/30/13
+N100679,150165,Blood Clot Prevention and Treatment,VTE_4,Unfractionated heparin with dosages/platelet count monitoring,NULL,NULL,"1 - The number of cases/patients is too few to report., 2 - Data submitted were based on a sample of cases/patients.",1/1/13,9/30/13
+N10068,150166,Emergency Department,OP_23,Head CT results,67,24,,10/1/12,9/30/13
+N100680,150167,Blood Clot Prevention and Treatment,VTE_5,Warfarin therapy discharge instructions,NULL,NULL,"1 - The number of cases/patients is too few to report., 2 - Data submitted were based on a sample of cases/patients.",1/1/13,9/30/13
+N100681,150168,Blood Clot Prevention and Treatment,VTE_6,Incidence of potentially preventable VTE,NULL,0,"2 - Data submitted were based on a sample of cases/patients., 7 - No cases met the criteria for this measure.",1/1/13,9/30/13
+N100682,150169,Heart Attack or Chest Pain,AMI_10,Statin at Discharge,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100683,150172,Heart Attack or Chest Pain,AMI_2,Aspirin prescribed at discharge,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100684,150173,Heart Attack or Chest Pain,AMI_7a,Heart attack patients given drugs to break up blood clots within 30 minutes of arrival,NULL,0,7 - No cases met the criteria for this measure.,10/1/12,9/30/13
+N100685,150175,Heart Attack or Chest Pain,AMI_8a,Primary PCI Received Within 90 Minutes of Hospital Arrival,NULL,0,7 - No cases met the criteria for this measure.,10/1/12,9/30/13
+N100686,150176,Emergency Department,ED_1b,ED1,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100687,150177,Emergency Department,ED_2b,ED2,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100688,150179,Heart Failure,HF_1,Discharge instructions,81,36,,10/1/12,9/30/13
+N100689,150180,Heart Failure,HF_2,Evaluation of LVS Function,98,41,,10/1/12,9/30/13
+N10069,150181,Heart Attack or Chest Pain,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,NULL,0,"3 - Results are based on a shorter time period than required., 7 - No cases met the criteria for this measure.",10/1/12,9/30/13
+N100690,150182,Heart Failure,HF_3,ACEI or ARB for LVSD,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100691,151300,Preventive Care,IMM_1a,Immunization for pneumonia,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100692,151301,Preventive Care,IMM_2,Immunization for influenza,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,3/31/13
+N100693,151302,Heart Attack or Chest Pain,OP_1,Median Time to Fibrinolysis,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100694,151303,Emergency Department,OP_18b,OP 18,94,360,,10/1/12,9/30/13
+N100695,151304,Heart Attack or Chest Pain,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100696,151305,Emergency Department,OP_20,Door to diagnostic eval,24,131,,10/1/12,9/30/13
+N100697,151306,Emergency Department,OP_21,Median time to pain med,57,43,3 - Results are based on a shorter time period than required.,10/1/12,9/30/13
+N100698,151307,Emergency Department,OP_22,Left before being seen,NULL,NULL,5 - Results are not available for this reporting period.,1/1/12,12/31/12
+N100699,151308,Emergency Department,OP_23,Head CT results,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N1007,151309,Heart Failure,HF_2,Evaluation of LVS Function,100,556,,10/1/12,9/30/13
+N10070,151310,Heart Attack or Chest Pain,OP_4,Aspirin at Arrival,100,17,,10/1/12,9/30/13
+N100700,151311,Heart Attack or Chest Pain,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100701,151312,Heart Attack or Chest Pain,OP_4,Aspirin at Arrival,100,59,,10/1/12,9/30/13
+N100702,151313,Heart Attack or Chest Pain,OP_5,Median Time to ECG,6,61,,10/1/12,9/30/13
+N100703,151314,Surgical Care Improvement Project,OP_6,Prophylactic Antibiotic Initiated Within One Hour Prior to Surgical Incision,100,16,,10/1/12,9/30/13
+N100704,151315,Surgical Care Improvement Project,OP_7,Prophylactic Antibiotic Selection for Surgical Patients,100,16,,10/1/12,9/30/13
+N100705,151316,Pregnancy and Delivery Care,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100706,151317,Pneumonia,PN_3b,Blood Cultures Performed in the Emergency Department Prior to Initial Antibiotic Received in Hospital,97,75,,10/1/12,9/30/13
+N100707,151318,Pneumonia,PN_6,Initial antibiotic selection for CAP in immunocompetent patient,100,54,,10/1/12,9/30/13
+N100708,151319,Surgical Care Improvement Project,SCIP_CARD_2,Surgery Patients on a Beta Blocker Prior to Arrival Who Received a Beta Blocker During the Perioperative Period,96,27,,10/1/12,9/30/13
+N100709,151320,Surgical Care Improvement Project,SCIP_INF_1,Prophylactic antibiotic received within 1 hour prior to surgical incision,100,74,,10/1/12,9/30/13
+N10071,151322,Heart Attack or Chest Pain,OP_5,Median Time to ECG,3,18,,10/1/12,9/30/13
+N100710,151323,Surgical Care Improvement Project,SCIP_INF_10,Surgery Patients with Perioperative Temperature Management,99,139,,10/1/12,9/30/13
+N100711,151324,Surgical Care Improvement Project,SCIP_INF_2,Prophylactic Antibiotic Selection for Surgical Patients,99,74,,10/1/12,9/30/13
+N100712,151325,Surgical Care Improvement Project,SCIP_INF_3,Prophylactic antibiotics discontinued within 24 hours after surgery end time,99,73,,10/1/12,9/30/13
+N100713,151326,Surgical Care Improvement Project,SCIP_INF_4,Cardiac Surgery Patients With Controlled 6 A.M. Postoperative Blood Glucose,NULL,0,7 - No cases met the criteria for this measure.,10/1/12,9/30/13
+N100714,151327,Surgical Care Improvement Project,SCIP_INF_9,Postoperative Urinary Catheter Removal,100,87,,10/1/12,9/30/13
+N100715,151328,Surgical Care Improvement Project,SCIP_VTE_2,Surgery Patients Who Received Appropriate Venous Thromboembolism Prophylaxis Within 24 Hours Prior to Surgery to 24 Hours After Surgery,92,96,,10/1/12,9/30/13
+N100716,151329,Stroke Care,STK_1,Venous Thromboembolism (VTE) Prophylaxis,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100717,151330,Stroke Care,STK_10,Assessed for Rehabilitation,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100718,151331,Stroke Care,STK_2,Discharged on Antithrombotic Therapy,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100719,151332,Stroke Care,STK_3,Anticoagulation Therapy for Atrial Fibrillation/Flutter,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N10072,151333,Surgical Care Improvement Project,OP_6,Prophylactic Antibiotic Initiated Within One Hour Prior to Surgical Incision,100,376,,10/1/12,9/30/13
+N100720,151334,Stroke Care,STK_4,Thrombolytic Therapy,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100721,151335,Stroke Care,STK_5,Antithrombotic Therapy by End of Hospital Day 2 ,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100722,160001,Stroke Care,STK_6,Discharged on Statin Medication,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100723,160005,Stroke Care,STK_8,Stroke Education,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100724,160008,Blood Clot Prevention and Treatment,VTE_1,Venous thromboembolism prophylaxis,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100725,160013,Blood Clot Prevention and Treatment,VTE_2,ICU venous thromboembolism prophylaxis,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100726,160016,Blood Clot Prevention and Treatment,VTE_3,Anticoagulation overlap therapy,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100727,160024,Blood Clot Prevention and Treatment,VTE_4,Unfractionated heparin with dosages/platelet count monitoring,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100728,160028,Blood Clot Prevention and Treatment,VTE_5,Warfarin therapy discharge instructions,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100729,160029,Blood Clot Prevention and Treatment,VTE_6,Incidence of potentially preventable VTE,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N10073,160030,Surgical Care Improvement Project,OP_7,Prophylactic Antibiotic Selection for Surgical Patients,98,381,,10/1/12,9/30/13
+N100730,160032,Heart Attack or Chest Pain,AMI_10,Statin at Discharge,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100731,160033,Heart Attack or Chest Pain,AMI_2,Aspirin prescribed at discharge,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100732,16003,Heart Attack or Chest Pain,AMI_7a,Heart attack patients given drugs to break up blood clots within 30 minutes of arrival,NULL,0,7 - No cases met the criteria for this measure.,10/1/12,9/30/13
+N100733,160040,Heart Attack or Chest Pain,AMI_8a,Primary PCI Received Within 90 Minutes of Hospital Arrival,NULL,0,7 - No cases met the criteria for this measure.,10/1/12,9/30/13
+N100734,160045,Emergency Department,ED_1b,ED1,234,465,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100735,160047,Emergency Department,ED_2b,ED2,49,426,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100736,16004,Heart Failure,HF_1,Discharge instructions,100,31,,10/1/12,9/30/13
+N100737,160057,Heart Failure,HF_2,Evaluation of LVS Function,100,44,,10/1/12,9/30/13
+N100738,160058,Heart Failure,HF_3,ACEI or ARB for LVSD,100,13,,10/1/12,9/30/13
+N100739,160064,Preventive Care,IMM_1a,Immunization for pneumonia,97,465,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N10074,160067,Pregnancy and Delivery Care,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",0,21,2 - Data submitted were based on a sample of cases/patients.,1/1/13,9/30/13
+N100740,160069,Preventive Care,IMM_2,Immunization for influenza,99,347,2 - Data submitted were based on a sample of cases/patients.,10/1/12,3/31/13
+N100741,160079,Heart Attack or Chest Pain,OP_1,Median Time to Fibrinolysis,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100742,160080,Emergency Department,OP_18b,OP 18,155,399,,10/1/12,9/30/13
+N100743,160082,Heart Attack or Chest Pain,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100744,160083,Emergency Department,OP_20,Door to diagnostic eval,27,426,,10/1/12,9/30/13
+N100745,160089,Emergency Department,OP_21,Median time to pain med,48,98,,10/1/12,9/30/13
+N100746,160101,Emergency Department,OP_22,Left before being seen,NULL,NULL,5 - Results are not available for this reporting period.,1/1/12,12/31/12
+N100747,160104,Emergency Department,OP_23,Head CT results,54,13,,10/1/12,9/30/13
+N100748,160110,Heart Attack or Chest Pain,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100749,160112,Heart Attack or Chest Pain,OP_4,Aspirin at Arrival,98,66,,10/1/12,9/30/13
+N10075,160117,Pneumonia,PN_3b,Blood Cultures Performed in the Emergency Department Prior to Initial Antibiotic Received in Hospital,100,139,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100750,160122,Heart Attack or Chest Pain,OP_5,Median Time to ECG,10,68,,10/1/12,9/30/13
+N100751,160124,Surgical Care Improvement Project,OP_6,Prophylactic Antibiotic Initiated Within One Hour Prior to Surgical Incision,95,41,,10/1/12,9/30/13
+N100752,160146,Surgical Care Improvement Project,OP_7,Prophylactic Antibiotic Selection for Surgical Patients,90,40,,10/1/12,9/30/13
+N100753,160147,Pregnancy and Delivery Care,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100754,160153,Pneumonia,PN_3b,Blood Cultures Performed in the Emergency Department Prior to Initial Antibiotic Received in Hospital,100,79,,10/1/12,9/30/13
+N100755,161300,Pneumonia,PN_6,Initial antibiotic selection for CAP in immunocompetent patient,100,35,,10/1/12,9/30/13
+N100756,161301,Surgical Care Improvement Project,SCIP_CARD_2,Surgery Patients on a Beta Blocker Prior to Arrival Who Received a Beta Blocker During the Perioperative Period,100,19,,10/1/12,9/30/13
+N100757,161302,Surgical Care Improvement Project,SCIP_INF_1,Prophylactic antibiotic received within 1 hour prior to surgical incision,98,51,,10/1/12,9/30/13
+N100758,161303,Surgical Care Improvement Project,SCIP_INF_10,Surgery Patients with Perioperative Temperature Management,100,85,,10/1/12,9/30/13
+N100759,161304,Surgical Care Improvement Project,SCIP_INF_2,Prophylactic Antibiotic Selection for Surgical Patients,100,51,,10/1/12,9/30/13
+N10076,161305,Pneumonia,PN_6,Initial antibiotic selection for CAP in immunocompetent patient,100,83,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100760,161306,Surgical Care Improvement Project,SCIP_INF_3,Prophylactic antibiotics discontinued within 24 hours after surgery end time,98,49,,10/1/12,9/30/13
+N100761,161307,Surgical Care Improvement Project,SCIP_INF_4,Cardiac Surgery Patients With Controlled 6 A.M. Postoperative Blood Glucose,NULL,0,7 - No cases met the criteria for this measure.,10/1/12,9/30/13
+N100762,161308,Surgical Care Improvement Project,SCIP_INF_9,Postoperative Urinary Catheter Removal,100,40,,10/1/12,9/30/13
+N100763,161309,Surgical Care Improvement Project,SCIP_VTE_2,Surgery Patients Who Received Appropriate Venous Thromboembolism Prophylaxis Within 24 Hours Prior to Surgery to 24 Hours After Surgery,100,63,,10/1/12,9/30/13
+N100764,161310,Stroke Care,STK_1,Venous Thromboembolism (VTE) Prophylaxis,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100765,161311,Stroke Care,STK_10,Assessed for Rehabilitation,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100766,161312,Stroke Care,STK_2,Discharged on Antithrombotic Therapy,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100767,161313,Stroke Care,STK_3,Anticoagulation Therapy for Atrial Fibrillation/Flutter,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100768,161314,Stroke Care,STK_4,Thrombolytic Therapy,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100769,161315,Stroke Care,STK_5,Antithrombotic Therapy by End of Hospital Day 2 ,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N10077,161316,Surgical Care Improvement Project,SCIP_CARD_2,Surgery Patients on a Beta Blocker Prior to Arrival Who Received a Beta Blocker During the Perioperative Period,100,131,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100770,161317,Stroke Care,STK_6,Discharged on Statin Medication,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100771,161318,Stroke Care,STK_8,Stroke Education,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100772,161319,Blood Clot Prevention and Treatment,VTE_1,Venous thromboembolism prophylaxis,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100773,161320,Blood Clot Prevention and Treatment,VTE_2,ICU venous thromboembolism prophylaxis,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100774,161321,Blood Clot Prevention and Treatment,VTE_3,Anticoagulation overlap therapy,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100775,161322,Blood Clot Prevention and Treatment,VTE_4,Unfractionated heparin with dosages/platelet count monitoring,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100776,161323,Blood Clot Prevention and Treatment,VTE_5,Warfarin therapy discharge instructions,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100777,161324,Blood Clot Prevention and Treatment,VTE_6,Incidence of potentially preventable VTE,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100778,161325,Heart Attack or Chest Pain,AMI_10,Statin at Discharge,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100779,161326,Heart Attack or Chest Pain,AMI_2,Aspirin prescribed at discharge,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N10078,161327,Surgical Care Improvement Project,SCIP_INF_1,Prophylactic antibiotic received within 1 hour prior to surgical incision,99,214,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100780,161328,Heart Attack or Chest Pain,AMI_7a,Heart attack patients given drugs to break up blood clots within 30 minutes of arrival,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100781,161329,Heart Attack or Chest Pain,AMI_8a,Primary PCI Received Within 90 Minutes of Hospital Arrival,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100782,161330,Children's Asthma,CAC_1,Relievers for Inpatient Asthma,100,372,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100783,161331,Children's Asthma,CAC_2,Systemic Corticosteroids for Inpatient Asthma,100,372,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100784,161332,Children's Asthma,CAC_3,Home Management Plan of Care Document,95,371,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100785,161333,Emergency Department,ED_1b,ED1,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100786,161334,Emergency Department,ED_2b,ED2,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100787,161335,Heart Failure,HF_1,Discharge instructions,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100788,161336,Heart Failure,HF_2,Evaluation of LVS Function,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100789,161337,Heart Failure,HF_3,ACEI or ARB for LVSD,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N10079,161338,Surgical Care Improvement Project,SCIP_INF_10,Surgery Patients with Perioperative Temperature Management,100,326,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100790,161339,Preventive Care,IMM_1a,Immunization for pneumonia,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100791,161340,Preventive Care,IMM_2,Immunization for influenza,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,3/31/13
+N100792,161341,Pregnancy and Delivery Care,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100793,161342,Pneumonia,PN_3b,Blood Cultures Performed in the Emergency Department Prior to Initial Antibiotic Received in Hospital,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100794,161343,Pneumonia,PN_6,Initial antibiotic selection for CAP in immunocompetent patient,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100795,161344,Surgical Care Improvement Project,SCIP_CARD_2,Surgery Patients on a Beta Blocker Prior to Arrival Who Received a Beta Blocker During the Perioperative Period,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100796,161345,Surgical Care Improvement Project,SCIP_INF_1,Prophylactic antibiotic received within 1 hour prior to surgical incision,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100797,161346,Surgical Care Improvement Project,SCIP_INF_10,Surgery Patients with Perioperative Temperature Management,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100798,161347,Surgical Care Improvement Project,SCIP_INF_2,Prophylactic Antibiotic Selection for Surgical Patients,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100799,161348,Surgical Care Improvement Project,SCIP_INF_3,Prophylactic antibiotics discontinued within 24 hours after surgery end time,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N1008,161349,Heart Failure,HF_3,ACEI or ARB for LVSD,96,160,,10/1/12,9/30/13
+N10080,161350,Surgical Care Improvement Project,SCIP_INF_2,Prophylactic Antibiotic Selection for Surgical Patients,100,214,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100800,161351,Surgical Care Improvement Project,SCIP_INF_4,Cardiac Surgery Patients With Controlled 6 A.M. Postoperative Blood Glucose,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100801,161352,Surgical Care Improvement Project,SCIP_INF_9,Postoperative Urinary Catheter Removal,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100802,161353,Surgical Care Improvement Project,SCIP_VTE_2,Surgery Patients Who Received Appropriate Venous Thromboembolism Prophylaxis Within 24 Hours Prior to Surgery to 24 Hours After Surgery,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100803,161354,Stroke Care,STK_1,Venous Thromboembolism (VTE) Prophylaxis,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100804,161355,Stroke Care,STK_10,Assessed for Rehabilitation,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100805,161356,Stroke Care,STK_2,Discharged on Antithrombotic Therapy,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100806,161357,Stroke Care,STK_3,Anticoagulation Therapy for Atrial Fibrillation/Flutter,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100807,161358,Stroke Care,STK_4,Thrombolytic Therapy,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100808,161359,Stroke Care,STK_5,Antithrombotic Therapy by End of Hospital Day 2 ,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100809,161360,Stroke Care,STK_6,Discharged on Statin Medication,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N10081,161361,Surgical Care Improvement Project,SCIP_INF_3,Prophylactic antibiotics discontinued within 24 hours after surgery end time,100,208,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100810,161362,Stroke Care,STK_8,Stroke Education,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100811,161363,Blood Clot Prevention and Treatment,VTE_1,Venous thromboembolism prophylaxis,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100812,161364,Blood Clot Prevention and Treatment,VTE_2,ICU venous thromboembolism prophylaxis,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100813,161365,Blood Clot Prevention and Treatment,VTE_3,Anticoagulation overlap therapy,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100814,161366,Blood Clot Prevention and Treatment,VTE_4,Unfractionated heparin with dosages/platelet count monitoring,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100815,161367,Blood Clot Prevention and Treatment,VTE_5,Warfarin therapy discharge instructions,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100816,161368,Blood Clot Prevention and Treatment,VTE_6,Incidence of potentially preventable VTE,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+N100817,161369,Heart Attack or Chest Pain,AMI_10,Statin at Discharge,98,292,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100818,161370,Heart Attack or Chest Pain,AMI_2,Aspirin prescribed at discharge,99,301,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100819,161371,Heart Attack or Chest Pain,AMI_7a,Heart attack patients given drugs to break up blood clots within 30 minutes of arrival,NULL,0,"2 - Data submitted were based on a sample of cases/patients., 7 - No cases met the criteria for this measure.",10/1/12,9/30/13
+N10082,161372,Surgical Care Improvement Project,SCIP_INF_4,Cardiac Surgery Patients With Controlled 6 A.M. Postoperative Blood Glucose,NULL,0,"2 - Data submitted were based on a sample of cases/patients., 7 - No cases met the criteria for this measure.",10/1/12,9/30/13
+N100820,161373,Heart Attack or Chest Pain,AMI_8a,Primary PCI Received Within 90 Minutes of Hospital Arrival,99,73,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100821,161374,Emergency Department,ED_1b,ED1,220,732,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100822,161375,Emergency Department,ED_2b,ED2,116,732,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100823,161376,Heart Failure,HF_1,Discharge instructions,98,220,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100824,161377,Heart Failure,HF_2,Evaluation of LVS Function,100,289,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100825,161378,Heart Failure,HF_3,ACEI or ARB for LVSD,93,69,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100826,161379,Preventive Care,IMM_1a,Immunization for pneumonia,90,719,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100827,161380,Preventive Care,IMM_2,Immunization for influenza,93,572,2 - Data submitted were based on a sample of cases/patients.,10/1/12,3/31/13
+N100828,161381,Heart Attack or Chest Pain,OP_1,Median Time to Fibrinolysis,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100829,170001,Emergency Department,OP_18b,OP 18,137,368,,10/1/12,9/30/13
+N10083,170006,Surgical Care Improvement Project,SCIP_INF_9,Postoperative Urinary Catheter Removal,100,225,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100830,170009,Heart Attack or Chest Pain,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100831,170010,Emergency Department,OP_20,Door to diagnostic eval,18,408,,10/1/12,9/30/13
+N100832,170012,Emergency Department,OP_21,Median time to pain med,46,146,,10/1/12,9/30/13
+N100833,170013,Emergency Department,OP_22,Left before being seen,3,76640,,1/1/12,12/31/12
+N100834,170014,Emergency Department,OP_23,Head CT results,NULL,NULL,"1 - The number of cases/patients is too few to report., 3 - Results are based on a shorter time period than required.",10/1/12,9/30/13
+N100835,170016,Heart Attack or Chest Pain,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100836,170017,Heart Attack or Chest Pain,OP_4,Aspirin at Arrival,NULL,0,"3 - Results are based on a shorter time period than required., 7 - No cases met the criteria for this measure.",10/1/12,9/30/13
+N100837,170020,Heart Attack or Chest Pain,OP_5,Median Time to ECG,NULL,NULL,"1 - The number of cases/patients is too few to report., 3 - Results are based on a shorter time period than required.",10/1/12,9/30/13
+N100838,170023,Surgical Care Improvement Project,OP_6,Prophylactic Antibiotic Initiated Within One Hour Prior to Surgical Incision,98,328,,10/1/12,9/30/13
+N100839,170027,Surgical Care Improvement Project,OP_7,Prophylactic Antibiotic Selection for Surgical Patients,100,332,,10/1/12,9/30/13
+N10084,170039,Surgical Care Improvement Project,SCIP_VTE_2,Surgery Patients Who Received Appropriate Venous Thromboembolism Prophylaxis Within 24 Hours Prior to Surgery to 24 Hours After Surgery,100,282,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100840,170040,Pregnancy and Delivery Care,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",4,23,2 - Data submitted were based on a sample of cases/patients.,1/1/13,9/30/13
+N100841,170049,Pneumonia,PN_3b,Blood Cultures Performed in the Emergency Department Prior to Initial Antibiotic Received in Hospital,99,105,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100842,170058,Pneumonia,PN_6,Initial antibiotic selection for CAP in immunocompetent patient,93,72,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100843,170068,Surgical Care Improvement Project,SCIP_CARD_2,Surgery Patients on a Beta Blocker Prior to Arrival Who Received a Beta Blocker During the Perioperative Period,97,223,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100844,17006,Surgical Care Improvement Project,SCIP_INF_1,Prophylactic antibiotic received within 1 hour prior to surgical incision,99,412,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100845,170074,Surgical Care Improvement Project,SCIP_INF_10,Surgery Patients with Perioperative Temperature Management,100,451,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100846,170075,Surgical Care Improvement Project,SCIP_INF_2,Prophylactic Antibiotic Selection for Surgical Patients,100,411,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100847,170086,Surgical Care Improvement Project,SCIP_INF_3,Prophylactic antibiotics discontinued within 24 hours after surgery end time,99,410,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100848,17008,Surgical Care Improvement Project,SCIP_INF_4,Cardiac Surgery Patients With Controlled 6 A.M. Postoperative Blood Glucose,94,144,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100849,170094,Surgical Care Improvement Project,SCIP_INF_9,Postoperative Urinary Catheter Removal,96,357,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N10085,170103,Stroke Care,STK_1,Venous Thromboembolism (VTE) Prophylaxis,99,97,,1/1/13,9/30/13
+N100850,170104,Surgical Care Improvement Project,SCIP_VTE_2,Surgery Patients Who Received Appropriate Venous Thromboembolism Prophylaxis Within 24 Hours Prior to Surgery to 24 Hours After Surgery,99,341,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100851,170105,Stroke Care,STK_1,Venous Thromboembolism (VTE) Prophylaxis,97,315,,1/1/13,9/30/13
+N100852,170109,Stroke Care,STK_10,Assessed for Rehabilitation,98,354,,1/1/13,9/30/13
+N100853,170110,Stroke Care,STK_2,Discharged on Antithrombotic Therapy,99,317,,1/1/13,9/30/13
+N100854,170120,Stroke Care,STK_3,Anticoagulation Therapy for Atrial Fibrillation/Flutter,100,65,,1/1/13,9/30/13
+N100855,170122,Stroke Care,STK_4,Thrombolytic Therapy,97,30,,1/1/13,9/30/13
+N100856,170123,Stroke Care,STK_5,Antithrombotic Therapy by End of Hospital Day 2 ,97,233,,1/1/13,9/30/13
+N100857,170133,Stroke Care,STK_6,Discharged on Statin Medication,93,257,,1/1/13,9/30/13
+N100858,170137,Stroke Care,STK_8,Stroke Education,84,186,,1/1/13,9/30/13
+N100859,170142,Blood Clot Prevention and Treatment,VTE_1,Venous thromboembolism prophylaxis,82,269,2 - Data submitted were based on a sample of cases/patients.,1/1/13,9/30/13
+N10086,170145,Stroke Care,STK_10,Assessed for Rehabilitation,99,94,,1/1/13,9/30/13
+N100860,170146,Blood Clot Prevention and Treatment,VTE_2,ICU venous thromboembolism prophylaxis,90,102,2 - Data submitted were based on a sample of cases/patients.,1/1/13,9/30/13
+N100861,170150,Blood Clot Prevention and Treatment,VTE_3,Anticoagulation overlap therapy,99,170,2 - Data submitted were based on a sample of cases/patients.,1/1/13,9/30/13
+N100862,170166,Blood Clot Prevention and Treatment,VTE_4,Unfractionated heparin with dosages/platelet count monitoring,99,148,2 - Data submitted were based on a sample of cases/patients.,1/1/13,9/30/13
+N100863,170175,Blood Clot Prevention and Treatment,VTE_5,Warfarin therapy discharge instructions,66,135,2 - Data submitted were based on a sample of cases/patients.,1/1/13,9/30/13
+N100864,170176,Blood Clot Prevention and Treatment,VTE_6,Incidence of potentially preventable VTE,5,37,2 - Data submitted were based on a sample of cases/patients.,1/1/13,9/30/13
+N100865,170182,Heart Attack or Chest Pain,AMI_10,Statin at Discharge,100,335,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100866,170183,Heart Attack or Chest Pain,AMI_2,Aspirin prescribed at discharge,99,356,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100867,170185,Heart Attack or Chest Pain,AMI_7a,Heart attack patients given drugs to break up blood clots within 30 minutes of arrival,NULL,0,"2 - Data submitted were based on a sample of cases/patients., 7 - No cases met the criteria for this measure.",10/1/12,9/30/13
+N100868,170186,Heart Attack or Chest Pain,AMI_8a,Primary PCI Received Within 90 Minutes of Hospital Arrival,82,11,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100869,170187,Emergency Department,ED_1b,ED1,236,480,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N10087,170188,Stroke Care,STK_2,Discharged on Antithrombotic Therapy,99,92,,1/1/13,9/30/13
+N100870,170190,Emergency Department,ED_2b,ED2,117,466,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100871,170191,Heart Failure,HF_1,Discharge instructions,93,227,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100872,170194,Heart Failure,HF_2,Evaluation of LVS Function,100,285,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100873,170196,Heart Failure,HF_3,ACEI or ARB for LVSD,100,97,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100874,170197,Preventive Care,IMM_1a,Immunization for pneumonia,98,660,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100875,170198,Preventive Care,IMM_2,Immunization for influenza,92,568,2 - Data submitted were based on a sample of cases/patients.,10/1/12,3/31/13
+N100876,170199,Heart Attack or Chest Pain,OP_1,Median Time to Fibrinolysis,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100877,170200,Emergency Department,OP_18b,OP 18,161,329,,10/1/12,9/30/13
+N100878,170203,Heart Attack or Chest Pain,OP_2,Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100879,171300,Emergency Department,OP_20,Door to diagnostic eval,30,116,,10/1/12,9/30/13
+N10088,171301,Stroke Care,STK_3,Anticoagulation Therapy for Atrial Fibrillation/Flutter,100,13,,1/1/13,9/30/13
+N100880,171302,Emergency Department,OP_21,Median time to pain med,51,154,,10/1/12,9/30/13
+N100881,171304,Emergency Department,OP_22,Left before being seen,2,43604,,1/1/12,12/31/12
+N100882,171306,Emergency Department,OP_23,Head CT results,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100883,171307,Heart Attack or Chest Pain,OP_3b,Median Time to Transfer to Another Facility for Acute Coronary Intervention,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+N100884,171308,Heart Attack or Chest Pain,OP_4,Aspirin at Arrival,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100885,171310,Heart Attack or Chest Pain,OP_5,Median Time to ECG,NULL,NULL,1 - The number of cases/patients is too few to report.,10/1/12,9/30/13
+N100886,171312,Surgical Care Improvement Project,OP_6,Prophylactic Antibiotic Initiated Within One Hour Prior to Surgical Incision,99,493,,10/1/12,9/30/13
+N100887,171313,Surgical Care Improvement Project,OP_7,Prophylactic Antibiotic Selection for Surgical Patients,98,493,,10/1/12,9/30/13
+N100888,171314,Pregnancy and Delivery Care,PC_01,"Percent of newborns whose deliveries were scheduled early (1-3 weeks early), when a scheduled delivery was not medically necessary",1,80,,1/1/13,9/30/13
+N100889,171315,Pneumonia,PN_3b,Blood Cultures Performed in the Emergency Department Prior to Initial Antibiotic Received in Hospital,96,85,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N10089,171316,Stroke Care,STK_4,Thrombolytic Therapy,NULL,NULL,1 - The number of cases/patients is too few to report.,1/1/13,9/30/13
+N100890,171317,Pneumonia,PN_6,Initial antibiotic selection for CAP in immunocompetent patient,90,68,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100891,171318,Surgical Care Improvement Project,SCIP_CARD_2,Surgery Patients on a Beta Blocker Prior to Arrival Who Received a Beta Blocker During the Perioperative Period,99,247,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100892,171319,Surgical Care Improvement Project,SCIP_INF_1,Prophylactic antibiotic received within 1 hour prior to surgical incision,98,435,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100893,171320,Surgical Care Improvement Project,SCIP_INF_10,Surgery Patients with Perioperative Temperature Management,100,463,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100894,171321,Surgical Care Improvement Project,SCIP_INF_2,Prophylactic Antibiotic Selection for Surgical Patients,99,432,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100895,171322,Surgical Care Improvement Project,SCIP_INF_3,Prophylactic antibiotics discontinued within 24 hours after surgery end time,97,414,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100896,171323,Surgical Care Improvement Project,SCIP_INF_4,Cardiac Surgery Patients With Controlled 6 A.M. Postoperative Blood Glucose,96,121,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100897,171324,Surgical Care Improvement Project,SCIP_INF_9,Postoperative Urinary Catheter Removal,93,212,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100898,171325,Surgical Care Improvement Project,SCIP_VTE_2,Surgery Patients Who Received Appropriate Venous Thromboembolism Prophylaxis Within 24 Hours Prior to Surgery to 24 Hours After Surgery,97,320,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13
+N100899,171327,Stroke Care,STK_1,Venous Thromboembolism (VTE) Prophylaxis,96,220,,1/1/13,9/30/13
+N1009,171328,Preventive Care,IMM_1a,Immunization for pneumonia,93,817,2 - Data submitted were based on a sample of cases/patients.,10/1/12,9/30/13

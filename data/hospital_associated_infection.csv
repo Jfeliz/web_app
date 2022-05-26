@@ -1,0 +1,1001 @@
+hospital_associated_infection_id,provider_id,measure_name,measure_id,compared_to_national,score,footnote,measure_start_date,measure_end_date
+H1000,1014,CLABSI Lower Confidence Limit,HAI_1_CI_LOWER,No Different than U.S. National Benchmark,0.559,,10/1/12,9/30/13
+H10000,1019,CLABSI Lower Confidence Limit,HAI_1_CI_LOWER,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100000,1021,CLABSI Lower Confidence Limit,HAI_1_CI_LOWER,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100001,3012,CLABSI Upper Confidence Limit,HAI_1_CI_UPPER,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100002,3013,CLABSI Central Line Days,HAI_1_DOPC_DAYS,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100003,3033,CLABSI Predicted Cases,HAI_1_ELIGCASES,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100004,4009,CLABSI Observed Cases,HAI_1_NUMERATOR,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100005,4010,Central line-associated blood stream infections (CLABSI),HAI_1_SIR,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100006,5025,CAUTI Lower Confidence Limit,HAI_2_CI_LOWER,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100007,5027,CAUTI Upper Confidence Limit,HAI_2_CI_UPPER,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100008,5030,CAUTI Urinary Catheter Days,HAI_2_DOPC_DAYS,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100009,5031,CAUTI Predicted Cases,HAI_2_ELIGCASES,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H10001,5114,CLABSI Upper Confidence Limit,HAI_1_CI_UPPER,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100010,5127,CAUTI Observed Cases,HAI_2_NUMERATOR,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100011,5128,Catheter-Associated Urinary Tract Infections (CAUTI),HAI_2_SIR,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100012,5130,SSI: Colon Lower Confidence Limit,HAI_3_CI_LOWER,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100013,6005,SSI: Colon Upper Confidence Limit,HAI_3_CI_UPPER,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100014,6007,"SSI: Colon, Number of Procedures",HAI_3_DOPC_DAYS,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100015,7003,SSI: Colon Predicted Cases,HAI_3_ELIGCASES,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100016,8002,SSI: Colon Observed Cases,HAI_3_NUMERATOR,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100017,9002,Surgical Site Infection from colon surgery (SSI: Colon),HAI_3_SIR,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100018,100001,SSI: Abdominal Lower Confidence Limit,HAI_4_CI_LOWER,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100019,100002,SSI: Abdominal Upper Confidence Limit,HAI_4_CI_UPPER,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H10002,100006,CLABSI Central Line Days,HAI_1_DOPC_DAYS,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100020,100007,"SSI: Abdominal, Number of Procedures",HAI_4_DOPC_DAYS,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100021,100008,SSI: Abdominal Predicted Cases,HAI_4_ELIGCASES,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100022,100009,SSI: Abdominal Observed Cases,HAI_4_NUMERATOR,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100023,10001,Surgical Site Infection from abdominal hysterectomy (SSI: Hysterectomy),HAI_4_SIR,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100024,100012,MRSA Lower Confidence Limit,HAI_5_CI_LOWER,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100025,100014,MRSA Upper Confidence Limit,HAI_5_CI_UPPER,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100026,100017,MRSA Patient Days,HAI_5_DOPC_DAYS,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100027,100018,MRSA Predicted Cases,HAI_5_ELIGCASES,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100028,100019,MRSA Observed Cases,HAI_5_NUMERATOR,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100029,100022,Methicillin-resistant Staphylococcus Aureus (MRSA) Blood Laboratory-identified Events (Bloodstream infections),HAI_5_SIR,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H10003,100023,CLABSI Predicted Cases,HAI_1_ELIGCASES,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100030,100025,C.diff Lower Confidence Limit,HAI_6_CI_LOWER,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100031,100026,C.diff Upper Confidence Limit,HAI_6_CI_UPPER,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100032,100028,C.diff Patient Days,HAI_6_DOPC_DAYS,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100033,100029,C.diff Predicted Cases,HAI_6_ELIGCASES,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100034,100030,C.diff Observed Cases,HAI_6_NUMERATOR,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100035,100032,Clostridium difficile (C.diff.) Laboratory-identified Events (Intestinal infections),HAI_6_SIR,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100036,100034,CLABSI Lower Confidence Limit,HAI_1_CI_LOWER,NULL,NULL,"3 - Results are based on a shorter time period than required., 13 - Results cannot be calculated for this reporting period.",10/1/12,9/30/13
+H100037,100035,CLABSI Upper Confidence Limit,HAI_1_CI_UPPER,NULL,NULL,"3 - Results are based on a shorter time period than required., 13 - Results cannot be calculated for this reporting period.",10/1/12,9/30/13
+H100038,100038,CLABSI Central Line Days,HAI_1_DOPC_DAYS,NULL,4,"3 - Results are based on a shorter time period than required., 13 - Results cannot be calculated for this reporting period.",10/1/12,9/30/13
+H100039,100039,CLABSI Predicted Cases,HAI_1_ELIGCASES,NULL,0.007,"3 - Results are based on a shorter time period than required., 13 - Results cannot be calculated for this reporting period.",10/1/12,9/30/13
+H10004,100040,CLABSI Observed Cases,HAI_1_NUMERATOR,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100040,100043,CLABSI Observed Cases,HAI_1_NUMERATOR,NULL,0,"3 - Results are based on a shorter time period than required., 13 - Results cannot be calculated for this reporting period.",10/1/12,9/30/13
+H100041,100044,Central line-associated blood stream infections (CLABSI),HAI_1_SIR,NULL,NULL,"3 - Results are based on a shorter time period than required., 13 - Results cannot be calculated for this reporting period.",10/1/12,9/30/13
+H100042,100045,CAUTI Lower Confidence Limit,HAI_2_CI_LOWER,NULL,NULL,"3 - Results are based on a shorter time period than required., 13 - Results cannot be calculated for this reporting period.",10/1/12,9/30/13
+H100043,100046,CAUTI Upper Confidence Limit,HAI_2_CI_UPPER,NULL,NULL,"3 - Results are based on a shorter time period than required., 13 - Results cannot be calculated for this reporting period.",10/1/12,9/30/13
+H100044,100047,CAUTI Urinary Catheter Days,HAI_2_DOPC_DAYS,NULL,42,"3 - Results are based on a shorter time period than required., 13 - Results cannot be calculated for this reporting period.",10/1/12,9/30/13
+H100045,100048,CAUTI Predicted Cases,HAI_2_ELIGCASES,NULL,0.055,"3 - Results are based on a shorter time period than required., 13 - Results cannot be calculated for this reporting period.",10/1/12,9/30/13
+H100046,100049,CAUTI Observed Cases,HAI_2_NUMERATOR,NULL,0,"3 - Results are based on a shorter time period than required., 13 - Results cannot be calculated for this reporting period.",10/1/12,9/30/13
+H100047,10005,Catheter-Associated Urinary Tract Infections (CAUTI),HAI_2_SIR,NULL,NULL,"3 - Results are based on a shorter time period than required., 13 - Results cannot be calculated for this reporting period.",10/1/12,9/30/13
+H100048,100050,SSI: Colon Lower Confidence Limit,HAI_3_CI_LOWER,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100049,100051,SSI: Colon Upper Confidence Limit,HAI_3_CI_UPPER,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H10005,100052,Central line-associated blood stream infections (CLABSI),HAI_1_SIR,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100050,100053,"SSI: Colon, Number of Procedures",HAI_3_DOPC_DAYS,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100051,100054,SSI: Colon Predicted Cases,HAI_3_ELIGCASES,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100052,100055,SSI: Colon Observed Cases,HAI_3_NUMERATOR,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100053,100057,Surgical Site Infection from colon surgery (SSI: Colon),HAI_3_SIR,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100054,10006,SSI: Abdominal Lower Confidence Limit,HAI_4_CI_LOWER,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100055,100062,SSI: Abdominal Upper Confidence Limit,HAI_4_CI_UPPER,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100056,100063,"SSI: Abdominal, Number of Procedures",HAI_4_DOPC_DAYS,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100057,100067,SSI: Abdominal Predicted Cases,HAI_4_ELIGCASES,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100058,100068,SSI: Abdominal Observed Cases,HAI_4_NUMERATOR,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100059,100069,Surgical Site Infection from abdominal hysterectomy (SSI: Hysterectomy),HAI_4_SIR,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H10006,10007,CAUTI Lower Confidence Limit,HAI_2_CI_LOWER,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100060,100070,MRSA Lower Confidence Limit,HAI_5_CI_LOWER,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100061,100071,MRSA Upper Confidence Limit,HAI_5_CI_UPPER,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100062,100072,MRSA Patient Days,HAI_5_DOPC_DAYS,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100063,100073,MRSA Predicted Cases,HAI_5_ELIGCASES,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100064,100075,MRSA Observed Cases,HAI_5_NUMERATOR,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100065,100076,Methicillin-resistant Staphylococcus Aureus (MRSA) Blood Laboratory-identified Events (Bloodstream infections),HAI_5_SIR,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100066,100077,C.diff Lower Confidence Limit,HAI_6_CI_LOWER,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100067,100079,C.diff Upper Confidence Limit,HAI_6_CI_UPPER,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100068,10008,C.diff Patient Days,HAI_6_DOPC_DAYS,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100069,100080,C.diff Predicted Cases,HAI_6_ELIGCASES,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H10007,100081,CAUTI Upper Confidence Limit,HAI_2_CI_UPPER,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100070,100084,C.diff Observed Cases,HAI_6_NUMERATOR,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100071,100086,Clostridium difficile (C.diff.) Laboratory-identified Events (Intestinal infections),HAI_6_SIR,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100072,100087,CLABSI Lower Confidence Limit,HAI_1_CI_LOWER,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100073,100088,CLABSI Upper Confidence Limit,HAI_1_CI_UPPER,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100074,100090,CLABSI Central Line Days,HAI_1_DOPC_DAYS,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100075,100092,CLABSI Predicted Cases,HAI_1_ELIGCASES,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100076,100093,CLABSI Observed Cases,HAI_1_NUMERATOR,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100077,100099,Central line-associated blood stream infections (CLABSI),HAI_1_SIR,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100078,10009,CAUTI Lower Confidence Limit,HAI_2_CI_LOWER,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100079,100102,CAUTI Upper Confidence Limit,HAI_2_CI_UPPER,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H10008,100105,CAUTI Urinary Catheter Days,HAI_2_DOPC_DAYS,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100080,100106,CAUTI Urinary Catheter Days,HAI_2_DOPC_DAYS,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100081,100107,CAUTI Predicted Cases,HAI_2_ELIGCASES,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100082,100109,CAUTI Observed Cases,HAI_2_NUMERATOR,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100083,10011,Catheter-Associated Urinary Tract Infections (CAUTI),HAI_2_SIR,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100084,100110,SSI: Colon Lower Confidence Limit,HAI_3_CI_LOWER,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100085,100113,SSI: Colon Upper Confidence Limit,HAI_3_CI_UPPER,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100086,100117,"SSI: Colon, Number of Procedures",HAI_3_DOPC_DAYS,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100087,100118,SSI: Colon Predicted Cases,HAI_3_ELIGCASES,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100088,10012,SSI: Colon Observed Cases,HAI_3_NUMERATOR,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100089,100121,Surgical Site Infection from colon surgery (SSI: Colon),HAI_3_SIR,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H10009,100122,CAUTI Predicted Cases,HAI_2_ELIGCASES,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100090,100124,SSI: Abdominal Lower Confidence Limit,HAI_4_CI_LOWER,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100091,100125,SSI: Abdominal Upper Confidence Limit,HAI_4_CI_UPPER,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100092,100126,"SSI: Abdominal, Number of Procedures",HAI_4_DOPC_DAYS,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100093,100127,SSI: Abdominal Predicted Cases,HAI_4_ELIGCASES,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100094,100128,SSI: Abdominal Observed Cases,HAI_4_NUMERATOR,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100095,100130,Surgical Site Infection from abdominal hysterectomy (SSI: Hysterectomy),HAI_4_SIR,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100096,100131,MRSA Lower Confidence Limit,HAI_5_CI_LOWER,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100097,100132,MRSA Upper Confidence Limit,HAI_5_CI_UPPER,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100098,100134,MRSA Patient Days,HAI_5_DOPC_DAYS,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100099,100135,MRSA Predicted Cases,HAI_5_ELIGCASES,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H1001,100137,CLABSI Upper Confidence Limit,HAI_1_CI_UPPER,No Different than U.S. National Benchmark,2.867,,10/1/12,9/30/13
+H10010,100140,CAUTI Observed Cases,HAI_2_NUMERATOR,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100100,100142,MRSA Observed Cases,HAI_5_NUMERATOR,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100101,100150,Methicillin-resistant Staphylococcus Aureus (MRSA) Blood Laboratory-identified Events (Bloodstream infections),HAI_5_SIR,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100102,100151,C.diff Lower Confidence Limit,HAI_6_CI_LOWER,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100103,100154,C.diff Upper Confidence Limit,HAI_6_CI_UPPER,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100104,100156,C.diff Patient Days,HAI_6_DOPC_DAYS,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100105,100157,C.diff Predicted Cases,HAI_6_ELIGCASES,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100106,10016,C.diff Observed Cases,HAI_6_NUMERATOR,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100107,100161,Clostridium difficile (C.diff.) Laboratory-identified Events (Intestinal infections),HAI_6_SIR,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100108,100166,CLABSI Lower Confidence Limit,HAI_1_CI_LOWER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100109,100167,CLABSI Upper Confidence Limit,HAI_1_CI_UPPER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H10011,100168,Catheter-Associated Urinary Tract Infections (CAUTI),HAI_2_SIR,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100110,100173,CLABSI Central Line Days,HAI_1_DOPC_DAYS,NULL,48,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100111,100175,CLABSI Predicted Cases,HAI_1_ELIGCASES,NULL,0.073,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100112,100176,CLABSI Observed Cases,HAI_1_NUMERATOR,NULL,0,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100113,100177,Central line-associated blood stream infections (CLABSI),HAI_1_SIR,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100114,100179,CAUTI Lower Confidence Limit,HAI_2_CI_LOWER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100115,10018,CAUTI Upper Confidence Limit,HAI_2_CI_UPPER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100116,100180,CAUTI Urinary Catheter Days,HAI_2_DOPC_DAYS,NULL,256,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100117,100181,CAUTI Predicted Cases,HAI_2_ELIGCASES,NULL,0.334,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100118,100183,CAUTI Observed Cases,HAI_2_NUMERATOR,NULL,0,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100119,100187,Catheter-Associated Urinary Tract Infections (CAUTI),HAI_2_SIR,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H10012,100189,SSI: Colon Lower Confidence Limit,HAI_3_CI_LOWER,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100120,10019,SSI: Colon Lower Confidence Limit,HAI_3_CI_LOWER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100121,100191,SSI: Colon Upper Confidence Limit,HAI_3_CI_UPPER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100122,100200,"SSI: Colon, Number of Procedures",HAI_3_DOPC_DAYS,NULL,10,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100123,100204,SSI: Colon Predicted Cases,HAI_3_ELIGCASES,NULL,0.316,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100124,100206,SSI: Colon Observed Cases,HAI_3_NUMERATOR,NULL,0,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100125,100209,Surgical Site Infection from colon surgery (SSI: Colon),HAI_3_SIR,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100126,10021,SSI: Abdominal Lower Confidence Limit,HAI_4_CI_LOWER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100127,100211,SSI: Abdominal Upper Confidence Limit,HAI_4_CI_UPPER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100128,100212,"SSI: Abdominal, Number of Procedures",HAI_4_DOPC_DAYS,NULL,2,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100129,100213,SSI: Abdominal Predicted Cases,HAI_4_ELIGCASES,NULL,0.02,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H10013,100217,SSI: Colon Upper Confidence Limit,HAI_3_CI_UPPER,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100130,10022,SSI: Abdominal Observed Cases,HAI_4_NUMERATOR,NULL,0,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100131,100220,Surgical Site Infection from abdominal hysterectomy (SSI: Hysterectomy),HAI_4_SIR,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100132,100223,MRSA Lower Confidence Limit,HAI_5_CI_LOWER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,1/1/13,9/30/13
+H100133,100224,MRSA Upper Confidence Limit,HAI_5_CI_UPPER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,1/1/13,9/30/13
+H100134,100226,MRSA Patient Days,HAI_5_DOPC_DAYS,NULL,4666,13 - Results cannot be calculated for this reporting period.,1/1/13,9/30/13
+H100135,100228,MRSA Predicted Cases,HAI_5_ELIGCASES,NULL,0.167,13 - Results cannot be calculated for this reporting period.,1/1/13,9/30/13
+H100136,10023,MRSA Observed Cases,HAI_5_NUMERATOR,NULL,0,13 - Results cannot be calculated for this reporting period.,1/1/13,9/30/13
+H100137,100230,Methicillin-resistant Staphylococcus Aureus (MRSA) Blood Laboratory-identified Events (Bloodstream infections),HAI_5_SIR,NULL,NULL,13 - Results cannot be calculated for this reporting period.,1/1/13,9/30/13
+H100138,100231,C.diff Lower Confidence Limit,HAI_6_CI_LOWER,No Different than U.S. National Benchmark,0,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,1/1/13,9/30/13
+H100139,100232,C.diff Upper Confidence Limit,HAI_6_CI_UPPER,No Different than U.S. National Benchmark,1.887,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,1/1/13,9/30/13
+H10014,100234,"SSI: Colon, Number of Procedures",HAI_3_DOPC_DAYS,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100140,100236,C.diff Patient Days,HAI_6_DOPC_DAYS,No Different than U.S. National Benchmark,4484,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,1/1/13,9/30/13
+H100141,100238,C.diff Predicted Cases,HAI_6_ELIGCASES,No Different than U.S. National Benchmark,1.955,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,1/1/13,9/30/13
+H100142,100239,C.diff Observed Cases,HAI_6_NUMERATOR,No Different than U.S. National Benchmark,0,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,1/1/13,9/30/13
+H100143,10024,Clostridium difficile (C.diff.) Laboratory-identified Events (Intestinal infections),HAI_6_SIR,No Different than U.S. National Benchmark,0,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,1/1/13,9/30/13
+H100144,100240,CLABSI Lower Confidence Limit,HAI_1_CI_LOWER,No Different than U.S. National Benchmark,0.041,,10/1/12,9/30/13
+H100145,100242,CLABSI Upper Confidence Limit,HAI_1_CI_UPPER,No Different than U.S. National Benchmark,4.063,,10/1/12,9/30/13
+H100146,100243,CLABSI Central Line Days,HAI_1_DOPC_DAYS,No Different than U.S. National Benchmark,809,,10/1/12,9/30/13
+H100147,100244,CLABSI Predicted Cases,HAI_1_ELIGCASES,No Different than U.S. National Benchmark,1.214,,10/1/12,9/30/13
+H100148,100246,CLABSI Observed Cases,HAI_1_NUMERATOR,No Different than U.S. National Benchmark,1,,10/1/12,9/30/13
+H100149,100248,Central line-associated blood stream infections (CLABSI),HAI_1_SIR,No Different than U.S. National Benchmark,0.824,,10/1/12,9/30/13
+H10015,100249,SSI: Colon Predicted Cases,HAI_3_ELIGCASES,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100150,10025,CAUTI Lower Confidence Limit,HAI_2_CI_LOWER,No Different than U.S. National Benchmark,0,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100151,100252,CAUTI Upper Confidence Limit,HAI_2_CI_UPPER,No Different than U.S. National Benchmark,1.872,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100152,100253,CAUTI Urinary Catheter Days,HAI_2_DOPC_DAYS,No Different than U.S. National Benchmark,1230,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100153,100254,CAUTI Predicted Cases,HAI_2_ELIGCASES,No Different than U.S. National Benchmark,1.6,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100154,100255,CAUTI Observed Cases,HAI_2_NUMERATOR,No Different than U.S. National Benchmark,0,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100155,100256,Catheter-Associated Urinary Tract Infections (CAUTI),HAI_2_SIR,No Different than U.S. National Benchmark,0,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100156,100258,SSI: Colon Lower Confidence Limit,HAI_3_CI_LOWER,No Different than U.S. National Benchmark,0.558,,10/1/12,9/30/13
+H100157,100259,SSI: Colon Upper Confidence Limit,HAI_3_CI_UPPER,No Different than U.S. National Benchmark,5.968,,10/1/12,9/30/13
+H100158,100260,"SSI: Colon, Number of Procedures",HAI_3_DOPC_DAYS,No Different than U.S. National Benchmark,48,,10/1/12,9/30/13
+H100159,100264,SSI: Colon Predicted Cases,HAI_3_ELIGCASES,No Different than U.S. National Benchmark,1.368,,10/1/12,9/30/13
+H10016,100265,SSI: Colon Observed Cases,HAI_3_NUMERATOR,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100160,100266,SSI: Colon Observed Cases,HAI_3_NUMERATOR,No Different than U.S. National Benchmark,3,,10/1/12,9/30/13
+H100161,100267,Surgical Site Infection from colon surgery (SSI: Colon),HAI_3_SIR,No Different than U.S. National Benchmark,2.193,,10/1/12,9/30/13
+H100162,100268,SSI: Abdominal Lower Confidence Limit,HAI_4_CI_LOWER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100163,100269,SSI: Abdominal Upper Confidence Limit,HAI_4_CI_UPPER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100164,100271,"SSI: Abdominal, Number of Procedures",HAI_4_DOPC_DAYS,NULL,9,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100165,100275,SSI: Abdominal Predicted Cases,HAI_4_ELIGCASES,NULL,0.061,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100166,100276,SSI: Abdominal Observed Cases,HAI_4_NUMERATOR,NULL,0,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100167,100277,Surgical Site Infection from abdominal hysterectomy (SSI: Hysterectomy),HAI_4_SIR,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100168,100281,MRSA Lower Confidence Limit,HAI_5_CI_LOWER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,1/1/13,9/30/13
+H100169,100284,MRSA Upper Confidence Limit,HAI_5_CI_UPPER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,1/1/13,9/30/13
+H10017,100285,Surgical Site Infection from colon surgery (SSI: Colon),HAI_3_SIR,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100170,100286,MRSA Patient Days,HAI_5_DOPC_DAYS,NULL,17566,13 - Results cannot be calculated for this reporting period.,1/1/13,9/30/13
+H100171,100287,MRSA Predicted Cases,HAI_5_ELIGCASES,NULL,0.841,13 - Results cannot be calculated for this reporting period.,1/1/13,9/30/13
+H100172,100288,MRSA Observed Cases,HAI_5_NUMERATOR,NULL,0,13 - Results cannot be calculated for this reporting period.,1/1/13,9/30/13
+H100173,100289,Methicillin-resistant Staphylococcus Aureus (MRSA) Blood Laboratory-identified Events (Bloodstream infections),HAI_5_SIR,NULL,NULL,13 - Results cannot be calculated for this reporting period.,1/1/13,9/30/13
+H100174,10029,C.diff Lower Confidence Limit,HAI_6_CI_LOWER,No Different than U.S. National Benchmark,0.254,,1/1/13,9/30/13
+H100175,100290,C.diff Upper Confidence Limit,HAI_6_CI_UPPER,No Different than U.S. National Benchmark,1.505,,1/1/13,9/30/13
+H100176,100291,C.diff Patient Days,HAI_6_DOPC_DAYS,No Different than U.S. National Benchmark,16566,,1/1/13,9/30/13
+H100177,100292,C.diff Predicted Cases,HAI_6_ELIGCASES,No Different than U.S. National Benchmark,8.677,,1/1/13,9/30/13
+H100178,100296,C.diff Observed Cases,HAI_6_NUMERATOR,No Different than U.S. National Benchmark,6,,1/1/13,9/30/13
+H100179,100299,Clostridium difficile (C.diff.) Laboratory-identified Events (Intestinal infections),HAI_6_SIR,No Different than U.S. National Benchmark,0.691,,1/1/13,9/30/13
+H10018,100302,SSI: Abdominal Lower Confidence Limit,HAI_4_CI_LOWER,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100180,100307,CLABSI Lower Confidence Limit,HAI_1_CI_LOWER,Better than the U.S. National Benchmark,0,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100181,100313,CLABSI Upper Confidence Limit,HAI_1_CI_UPPER,Better than the U.S. National Benchmark,0.961,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100182,100314,CLABSI Central Line Days,HAI_1_DOPC_DAYS,Better than the U.S. National Benchmark,2077,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100183,100315,CLABSI Predicted Cases,HAI_1_ELIGCASES,Better than the U.S. National Benchmark,3.117,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100184,100316,CLABSI Observed Cases,HAI_1_NUMERATOR,Better than the U.S. National Benchmark,0,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100185,100319,Central line-associated blood stream infections (CLABSI),HAI_1_SIR,Better than the U.S. National Benchmark,0,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100186,10032,CAUTI Lower Confidence Limit,HAI_2_CI_LOWER,Better than the U.S. National Benchmark,0,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100187,10033,CAUTI Upper Confidence Limit,HAI_2_CI_UPPER,Better than the U.S. National Benchmark,0.769,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100188,10034,CAUTI Urinary Catheter Days,HAI_2_DOPC_DAYS,Better than the U.S. National Benchmark,2998,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100189,10035,CAUTI Predicted Cases,HAI_2_ELIGCASES,Better than the U.S. National Benchmark,3.898,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H10019,10036,SSI: Abdominal Upper Confidence Limit,HAI_4_CI_UPPER,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100190,10038,CAUTI Observed Cases,HAI_2_NUMERATOR,Better than the U.S. National Benchmark,0,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100191,10039,Catheter-Associated Urinary Tract Infections (CAUTI),HAI_2_SIR,Better than the U.S. National Benchmark,0,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100192,10040,SSI: Colon Lower Confidence Limit,HAI_3_CI_LOWER,No Different than U.S. National Benchmark,0,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100193,10044,SSI: Colon Upper Confidence Limit,HAI_3_CI_UPPER,No Different than U.S. National Benchmark,1.771,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100194,10045,"SSI: Colon, Number of Procedures",HAI_3_DOPC_DAYS,No Different than U.S. National Benchmark,54,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100195,10046,SSI: Colon Predicted Cases,HAI_3_ELIGCASES,No Different than U.S. National Benchmark,1.692,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100196,10047,SSI: Colon Observed Cases,HAI_3_NUMERATOR,No Different than U.S. National Benchmark,0,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100197,10049,Surgical Site Infection from colon surgery (SSI: Colon),HAI_3_SIR,No Different than U.S. National Benchmark,0,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100198,10051,SSI: Abdominal Lower Confidence Limit,HAI_4_CI_LOWER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100199,10052,SSI: Abdominal Upper Confidence Limit,HAI_4_CI_UPPER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H1002,10054,CLABSI Central Line Days,HAI_1_DOPC_DAYS,No Different than U.S. National Benchmark,2901,,10/1/12,9/30/13
+H10020,10055,"SSI: Abdominal, Number of Procedures",HAI_4_DOPC_DAYS,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100200,10056,"SSI: Abdominal, Number of Procedures",HAI_4_DOPC_DAYS,NULL,7,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100201,10057,SSI: Abdominal Predicted Cases,HAI_4_ELIGCASES,NULL,0.053,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100202,10058,SSI: Abdominal Observed Cases,HAI_4_NUMERATOR,NULL,0,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100203,10059,Surgical Site Infection from abdominal hysterectomy (SSI: Hysterectomy),HAI_4_SIR,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100204,10061,MRSA Lower Confidence Limit,HAI_5_CI_LOWER,No Different than U.S. National Benchmark,0.018,,1/1/13,9/30/13
+H100205,10062,MRSA Upper Confidence Limit,HAI_5_CI_UPPER,No Different than U.S. National Benchmark,4.008,,1/1/13,9/30/13
+H100206,10063,MRSA Patient Days,HAI_5_DOPC_DAYS,No Different than U.S. National Benchmark,29018,,1/1/13,9/30/13
+H100207,10064,MRSA Predicted Cases,HAI_5_ELIGCASES,No Different than U.S. National Benchmark,1.39,,1/1/13,9/30/13
+H100208,10065,MRSA Observed Cases,HAI_5_NUMERATOR,No Different than U.S. National Benchmark,1,,1/1/13,9/30/13
+H100209,10065,Methicillin-resistant Staphylococcus Aureus (MRSA) Blood Laboratory-identified Events (Bloodstream infections),HAI_5_SIR,No Different than U.S. National Benchmark,0.719,,1/1/13,9/30/13
+H10021,10066,SSI: Abdominal Predicted Cases,HAI_4_ELIGCASES,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100210,10069,C.diff Lower Confidence Limit,HAI_6_CI_LOWER,No Different than U.S. National Benchmark,0.765,,1/1/13,9/30/13
+H100211,10073,C.diff Upper Confidence Limit,HAI_6_CI_UPPER,No Different than U.S. National Benchmark,1.986,,1/1/13,9/30/13
+H100212,10078,C.diff Patient Days,HAI_6_DOPC_DAYS,No Different than U.S. National Benchmark,29018,,1/1/13,9/30/13
+H100213,10079,C.diff Predicted Cases,HAI_6_ELIGCASES,No Different than U.S. National Benchmark,14.939,,1/1/13,9/30/13
+H100214,10083,C.diff Observed Cases,HAI_6_NUMERATOR,No Different than U.S. National Benchmark,19,,1/1/13,9/30/13
+H100215,10085,Clostridium difficile (C.diff.) Laboratory-identified Events (Intestinal infections),HAI_6_SIR,No Different than U.S. National Benchmark,1.272,,1/1/13,9/30/13
+H100216,10086,CLABSI Lower Confidence Limit,HAI_1_CI_LOWER,Better than the U.S. National Benchmark,0.369,,10/1/12,9/30/13
+H100217,10087,CLABSI Upper Confidence Limit,HAI_1_CI_UPPER,Better than the U.S. National Benchmark,0.872,,10/1/12,9/30/13
+H100218,10089,CLABSI Central Line Days,HAI_1_DOPC_DAYS,Better than the U.S. National Benchmark,16749,,10/1/12,9/30/13
+H100219,10090,CLABSI Predicted Cases,HAI_1_ELIGCASES,Better than the U.S. National Benchmark,36.191,,10/1/12,9/30/13
+H10022,10091,SSI: Abdominal Observed Cases,HAI_4_NUMERATOR,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100220,10092,CLABSI Observed Cases,HAI_1_NUMERATOR,Better than the U.S. National Benchmark,21,,10/1/12,9/30/13
+H100221,10095,Central line-associated blood stream infections (CLABSI),HAI_1_SIR,Better than the U.S. National Benchmark,0.58,,10/1/12,9/30/13
+H100222,10097,CAUTI Lower Confidence Limit,HAI_2_CI_LOWER,Worse than the U.S. National Benchmark,1.549,,10/1/12,9/30/13
+H100223,10099,CAUTI Upper Confidence Limit,HAI_2_CI_UPPER,Worse than the U.S. National Benchmark,2.237,,10/1/12,9/30/13
+H100224,10100,CAUTI Urinary Catheter Days,HAI_2_DOPC_DAYS,Worse than the U.S. National Benchmark,23426,,10/1/12,9/30/13
+H100225,10101,CAUTI Predicted Cases,HAI_2_ELIGCASES,Worse than the U.S. National Benchmark,60.976,,10/1/12,9/30/13
+H100226,10102,CAUTI Observed Cases,HAI_2_NUMERATOR,Worse than the U.S. National Benchmark,114,,10/1/12,9/30/13
+H100227,10103,Catheter-Associated Urinary Tract Infections (CAUTI),HAI_2_SIR,Worse than the U.S. National Benchmark,1.87,,10/1/12,9/30/13
+H100228,10104,SSI: Colon Lower Confidence Limit,HAI_3_CI_LOWER,Worse than the U.S. National Benchmark,1.032,,10/1/12,9/30/13
+H100229,10108,SSI: Colon Upper Confidence Limit,HAI_3_CI_UPPER,Worse than the U.S. National Benchmark,2.347,,10/1/12,9/30/13
+H10023,10109,Surgical Site Infection from abdominal hysterectomy (SSI: Hysterectomy),HAI_4_SIR,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100230,10110,"SSI: Colon, Number of Procedures",HAI_3_DOPC_DAYS,Worse than the U.S. National Benchmark,481,,10/1/12,9/30/13
+H100231,10112,SSI: Colon Predicted Cases,HAI_3_ELIGCASES,Worse than the U.S. National Benchmark,14.473,,10/1/12,9/30/13
+H100232,10113,SSI: Colon Observed Cases,HAI_3_NUMERATOR,Worse than the U.S. National Benchmark,23,,10/1/12,9/30/13
+H100233,10114,Surgical Site Infection from colon surgery (SSI: Colon),HAI_3_SIR,Worse than the U.S. National Benchmark,1.589,,10/1/12,9/30/13
+H100234,10118,SSI: Abdominal Lower Confidence Limit,HAI_4_CI_LOWER,No Different than U.S. National Benchmark,0.182,,10/1/12,9/30/13
+H100235,10120,SSI: Abdominal Upper Confidence Limit,HAI_4_CI_UPPER,No Different than U.S. National Benchmark,1.947,,10/1/12,9/30/13
+H100236,10125,"SSI: Abdominal, Number of Procedures",HAI_4_DOPC_DAYS,No Different than U.S. National Benchmark,511,,10/1/12,9/30/13
+H100237,10126,SSI: Abdominal Predicted Cases,HAI_4_ELIGCASES,No Different than U.S. National Benchmark,4.193,,10/1/12,9/30/13
+H100238,10128,SSI: Abdominal Observed Cases,HAI_4_NUMERATOR,No Different than U.S. National Benchmark,3,,10/1/12,9/30/13
+H100239,10129,Surgical Site Infection from abdominal hysterectomy (SSI: Hysterectomy),HAI_4_SIR,No Different than U.S. National Benchmark,0.715,,10/1/12,9/30/13
+H10024,10130,MRSA Lower Confidence Limit,HAI_5_CI_LOWER,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100240,101300,MRSA Lower Confidence Limit,HAI_5_CI_LOWER,No Different than U.S. National Benchmark,0.703,,1/1/13,9/30/13
+H100241,101301,MRSA Upper Confidence Limit,HAI_5_CI_UPPER,No Different than U.S. National Benchmark,1.876,,1/1/13,9/30/13
+H100242,101302,MRSA Patient Days,HAI_5_DOPC_DAYS,No Different than U.S. National Benchmark,184821,,1/1/13,9/30/13
+H100243,101303,MRSA Predicted Cases,HAI_5_ELIGCASES,No Different than U.S. National Benchmark,15.166,,1/1/13,9/30/13
+H100244,101304,MRSA Observed Cases,HAI_5_NUMERATOR,No Different than U.S. National Benchmark,18,,1/1/13,9/30/13
+H100245,101305,Methicillin-resistant Staphylococcus Aureus (MRSA) Blood Laboratory-identified Events (Bloodstream infections),HAI_5_SIR,No Different than U.S. National Benchmark,1.187,,1/1/13,9/30/13
+H100246,101307,C.diff Lower Confidence Limit,HAI_6_CI_LOWER,Worse than the U.S. National Benchmark,1.336,,1/1/13,9/30/13
+H100247,101308,C.diff Upper Confidence Limit,HAI_6_CI_UPPER,Worse than the U.S. National Benchmark,1.735,,1/1/13,9/30/13
+H100248,101309,C.diff Patient Days,HAI_6_DOPC_DAYS,Worse than the U.S. National Benchmark,180273,,1/1/13,9/30/13
+H100249,10131,C.diff Predicted Cases,HAI_6_ELIGCASES,Worse than the U.S. National Benchmark,152.053,,1/1/13,9/30/13
+H10025,101310,MRSA Upper Confidence Limit,HAI_5_CI_UPPER,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100250,101311,C.diff Observed Cases,HAI_6_NUMERATOR,Worse than the U.S. National Benchmark,232,,1/1/13,9/30/13
+H100251,101312,Clostridium difficile (C.diff.) Laboratory-identified Events (Intestinal infections),HAI_6_SIR,Worse than the U.S. National Benchmark,1.526,,1/1/13,9/30/13
+H100252,101313,CLABSI Lower Confidence Limit,HAI_1_CI_LOWER,No Different than U.S. National Benchmark,0.046,,10/1/12,9/30/13
+H100253,10138,CLABSI Upper Confidence Limit,HAI_1_CI_UPPER,No Different than U.S. National Benchmark,4.512,,10/1/12,9/30/13
+H100254,10139,CLABSI Central Line Days,HAI_1_DOPC_DAYS,No Different than U.S. National Benchmark,728,,10/1/12,9/30/13
+H100255,10144,CLABSI Predicted Cases,HAI_1_ELIGCASES,No Different than U.S. National Benchmark,1.093,,10/1/12,9/30/13
+H100256,10146,CLABSI Observed Cases,HAI_1_NUMERATOR,No Different than U.S. National Benchmark,1,,10/1/12,9/30/13
+H100257,10148,Central line-associated blood stream infections (CLABSI),HAI_1_SIR,No Different than U.S. National Benchmark,0.915,,10/1/12,9/30/13
+H100258,10149,CAUTI Lower Confidence Limit,HAI_2_CI_LOWER,No Different than U.S. National Benchmark,0.78,,10/1/12,9/30/13
+H100259,10150,CAUTI Upper Confidence Limit,HAI_2_CI_UPPER,No Different than U.S. National Benchmark,5.919,,10/1/12,9/30/13
+H10026,10157,MRSA Patient Days,HAI_5_DOPC_DAYS,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100260,10158,CAUTI Urinary Catheter Days,HAI_2_DOPC_DAYS,No Different than U.S. National Benchmark,1254,,10/1/12,9/30/13
+H100261,10164,CAUTI Predicted Cases,HAI_2_ELIGCASES,No Different than U.S. National Benchmark,1.63,,10/1/12,9/30/13
+H100262,10168,CAUTI Observed Cases,HAI_2_NUMERATOR,No Different than U.S. National Benchmark,4,,10/1/12,9/30/13
+H100263,10169,Catheter-Associated Urinary Tract Infections (CAUTI),HAI_2_SIR,No Different than U.S. National Benchmark,2.454,,10/1/12,9/30/13
+H100264,110001,SSI: Colon Lower Confidence Limit,HAI_3_CI_LOWER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100265,110002,SSI: Colon Upper Confidence Limit,HAI_3_CI_UPPER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100266,110003,"SSI: Colon, Number of Procedures",HAI_3_DOPC_DAYS,NULL,17,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100267,110004,SSI: Colon Predicted Cases,HAI_3_ELIGCASES,NULL,0.55,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100268,110005,SSI: Colon Observed Cases,HAI_3_NUMERATOR,NULL,0,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100269,110006,Surgical Site Infection from colon surgery (SSI: Colon),HAI_3_SIR,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H10027,110007,MRSA Predicted Cases,HAI_5_ELIGCASES,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100270,110008,SSI: Abdominal Lower Confidence Limit,HAI_4_CI_LOWER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100271,110010,SSI: Abdominal Upper Confidence Limit,HAI_4_CI_UPPER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100272,110011,"SSI: Abdominal, Number of Procedures",HAI_4_DOPC_DAYS,NULL,15,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100273,110015,SSI: Abdominal Predicted Cases,HAI_4_ELIGCASES,NULL,0.136,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100274,110016,SSI: Abdominal Observed Cases,HAI_4_NUMERATOR,NULL,0,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100275,110018,Surgical Site Infection from abdominal hysterectomy (SSI: Hysterectomy),HAI_4_SIR,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100276,110023,MRSA Lower Confidence Limit,HAI_5_CI_LOWER,No Different than U.S. National Benchmark,0.096,,1/1/13,9/30/13
+H100277,110024,MRSA Upper Confidence Limit,HAI_5_CI_UPPER,No Different than U.S. National Benchmark,2.85,,1/1/13,9/30/13
+H100278,110025,MRSA Patient Days,HAI_5_DOPC_DAYS,No Different than U.S. National Benchmark,31282,,1/1/13,9/30/13
+H100279,110026,MRSA Predicted Cases,HAI_5_ELIGCASES,No Different than U.S. National Benchmark,2.535,,1/1/13,9/30/13
+H10028,110027,MRSA Observed Cases,HAI_5_NUMERATOR,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100280,110028,MRSA Observed Cases,HAI_5_NUMERATOR,No Different than U.S. National Benchmark,2,,1/1/13,9/30/13
+H100281,110029,Methicillin-resistant Staphylococcus Aureus (MRSA) Blood Laboratory-identified Events (Bloodstream infections),HAI_5_SIR,No Different than U.S. National Benchmark,0.789,,1/1/13,9/30/13
+H100282,110030,C.diff Lower Confidence Limit,HAI_6_CI_LOWER,Better than the U.S. National Benchmark,0.163,,1/1/13,9/30/13
+H100283,110031,C.diff Upper Confidence Limit,HAI_6_CI_UPPER,Better than the U.S. National Benchmark,0.838,,1/1/13,9/30/13
+H100284,110032,C.diff Patient Days,HAI_6_DOPC_DAYS,Better than the U.S. National Benchmark,31282,,1/1/13,9/30/13
+H100285,110034,C.diff Predicted Cases,HAI_6_ELIGCASES,Better than the U.S. National Benchmark,17.214,,1/1/13,9/30/13
+H100286,110035,C.diff Observed Cases,HAI_6_NUMERATOR,Better than the U.S. National Benchmark,7,,1/1/13,9/30/13
+H100287,110036,Clostridium difficile (C.diff.) Laboratory-identified Events (Intestinal infections),HAI_6_SIR,Better than the U.S. National Benchmark,0.407,,1/1/13,9/30/13
+H100288,110038,CLABSI Lower Confidence Limit,HAI_1_CI_LOWER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100289,110039,CLABSI Upper Confidence Limit,HAI_1_CI_UPPER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H10029,110040,Methicillin-resistant Staphylococcus Aureus (MRSA) Blood Laboratory-identified Events (Bloodstream infections),HAI_5_SIR,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100290,110041,CLABSI Central Line Days,HAI_1_DOPC_DAYS,NULL,40,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100291,110042,CLABSI Predicted Cases,HAI_1_ELIGCASES,NULL,0.06,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100292,110043,CLABSI Observed Cases,HAI_1_NUMERATOR,NULL,0,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100293,110044,Central line-associated blood stream infections (CLABSI),HAI_1_SIR,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100294,110045,CAUTI Lower Confidence Limit,HAI_2_CI_LOWER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100295,110046,CAUTI Upper Confidence Limit,HAI_2_CI_UPPER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100296,110050,CAUTI Urinary Catheter Days,HAI_2_DOPC_DAYS,NULL,307,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100297,110051,CAUTI Predicted Cases,HAI_2_ELIGCASES,NULL,0.399,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100298,110054,CAUTI Observed Cases,HAI_2_NUMERATOR,NULL,1,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100299,110064,Catheter-Associated Urinary Tract Infections (CAUTI),HAI_2_SIR,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H1003,110069,CLABSI Predicted Cases,HAI_1_ELIGCASES,No Different than U.S. National Benchmark,4.353,,10/1/12,9/30/13
+H10030,110071,C.diff Lower Confidence Limit,HAI_6_CI_LOWER,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100300,110073,SSI: Colon Lower Confidence Limit,HAI_3_CI_LOWER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100301,110074,SSI: Colon Upper Confidence Limit,HAI_3_CI_UPPER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100302,110075,"SSI: Colon, Number of Procedures",HAI_3_DOPC_DAYS,NULL,14,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100303,110076,SSI: Colon Predicted Cases,HAI_3_ELIGCASES,NULL,0.416,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100304,110078,SSI: Colon Observed Cases,HAI_3_NUMERATOR,NULL,0,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100305,110079,Surgical Site Infection from colon surgery (SSI: Colon),HAI_3_SIR,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100306,110082,SSI: Abdominal Lower Confidence Limit,HAI_4_CI_LOWER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100307,110083,SSI: Abdominal Upper Confidence Limit,HAI_4_CI_UPPER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100308,110086,"SSI: Abdominal, Number of Procedures",HAI_4_DOPC_DAYS,NULL,14,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100309,110087,SSI: Abdominal Predicted Cases,HAI_4_ELIGCASES,NULL,0.103,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H10031,110089,C.diff Upper Confidence Limit,HAI_6_CI_UPPER,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100310,110091,SSI: Abdominal Observed Cases,HAI_4_NUMERATOR,NULL,0,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100311,110092,Surgical Site Infection from abdominal hysterectomy (SSI: Hysterectomy),HAI_4_SIR,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100312,110095,MRSA Lower Confidence Limit,HAI_5_CI_LOWER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,1/1/13,9/30/13
+H100313,110100,MRSA Upper Confidence Limit,HAI_5_CI_UPPER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,1/1/13,9/30/13
+H100314,110101,MRSA Patient Days,HAI_5_DOPC_DAYS,NULL,7658,13 - Results cannot be calculated for this reporting period.,1/1/13,9/30/13
+H100315,110104,MRSA Predicted Cases,HAI_5_ELIGCASES,NULL,0.275,13 - Results cannot be calculated for this reporting period.,1/1/13,9/30/13
+H100316,110105,MRSA Observed Cases,HAI_5_NUMERATOR,NULL,0,13 - Results cannot be calculated for this reporting period.,1/1/13,9/30/13
+H100317,110107,Methicillin-resistant Staphylococcus Aureus (MRSA) Blood Laboratory-identified Events (Bloodstream infections),HAI_5_SIR,NULL,NULL,13 - Results cannot be calculated for this reporting period.,1/1/13,9/30/13
+H100318,110109,C.diff Lower Confidence Limit,HAI_6_CI_LOWER,No Different than U.S. National Benchmark,0.007,,1/1/13,9/30/13
+H100319,110111,C.diff Upper Confidence Limit,HAI_6_CI_UPPER,No Different than U.S. National Benchmark,1.529,,1/1/13,9/30/13
+H10032,110113,C.diff Patient Days,HAI_6_DOPC_DAYS,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100320,110115,C.diff Patient Days,HAI_6_DOPC_DAYS,No Different than U.S. National Benchmark,7658,,1/1/13,9/30/13
+H100321,110121,C.diff Predicted Cases,HAI_6_ELIGCASES,No Different than U.S. National Benchmark,3.644,,1/1/13,9/30/13
+H100322,110122,C.diff Observed Cases,HAI_6_NUMERATOR,No Different than U.S. National Benchmark,1,,1/1/13,9/30/13
+H100323,110124,Clostridium difficile (C.diff.) Laboratory-identified Events (Intestinal infections),HAI_6_SIR,No Different than U.S. National Benchmark,0.274,,1/1/13,9/30/13
+H100324,110125,CLABSI Lower Confidence Limit,HAI_1_CI_LOWER,No Different than U.S. National Benchmark,0.197,,10/1/12,9/30/13
+H100325,110128,CLABSI Upper Confidence Limit,HAI_1_CI_UPPER,No Different than U.S. National Benchmark,1.01,,10/1/12,9/30/13
+H100326,110129,CLABSI Central Line Days,HAI_1_DOPC_DAYS,No Different than U.S. National Benchmark,6200,,10/1/12,9/30/13
+H100327,110130,CLABSI Predicted Cases,HAI_1_ELIGCASES,No Different than U.S. National Benchmark,12.357,,10/1/12,9/30/13
+H100328,110132,CLABSI Observed Cases,HAI_1_NUMERATOR,No Different than U.S. National Benchmark,6,,10/1/12,9/30/13
+H100329,110135,Central line-associated blood stream infections (CLABSI),HAI_1_SIR,No Different than U.S. National Benchmark,0.486,,10/1/12,9/30/13
+H10033,110142,C.diff Predicted Cases,HAI_6_ELIGCASES,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100330,110143,CAUTI Lower Confidence Limit,HAI_2_CI_LOWER,Better than the U.S. National Benchmark,0.194,,10/1/12,9/30/13
+H100331,110146,CAUTI Upper Confidence Limit,HAI_2_CI_UPPER,Better than the U.S. National Benchmark,0.995,,10/1/12,9/30/13
+H100332,110150,CAUTI Urinary Catheter Days,HAI_2_DOPC_DAYS,Better than the U.S. National Benchmark,6255,,10/1/12,9/30/13
+H100333,110153,CAUTI Predicted Cases,HAI_2_ELIGCASES,Better than the U.S. National Benchmark,12.544,,10/1/12,9/30/13
+H100334,110161,CAUTI Observed Cases,HAI_2_NUMERATOR,Better than the U.S. National Benchmark,6,,10/1/12,9/30/13
+H100335,110164,Catheter-Associated Urinary Tract Infections (CAUTI),HAI_2_SIR,Better than the U.S. National Benchmark,0.478,,10/1/12,9/30/13
+H100336,110165,SSI: Colon Lower Confidence Limit,HAI_3_CI_LOWER,No Different than U.S. National Benchmark,0.021,,10/1/12,9/30/13
+H100337,110168,SSI: Colon Upper Confidence Limit,HAI_3_CI_UPPER,No Different than U.S. National Benchmark,2.07,,10/1/12,9/30/13
+H100338,110177,"SSI: Colon, Number of Procedures",HAI_3_DOPC_DAYS,No Different than U.S. National Benchmark,67,,10/1/12,9/30/13
+H100339,110183,SSI: Colon Predicted Cases,HAI_3_ELIGCASES,No Different than U.S. National Benchmark,2.382,,10/1/12,9/30/13
+H10034,110184,C.diff Observed Cases,HAI_6_NUMERATOR,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100340,110186,SSI: Colon Observed Cases,HAI_3_NUMERATOR,No Different than U.S. National Benchmark,1,,10/1/12,9/30/13
+H100341,110187,Surgical Site Infection from colon surgery (SSI: Colon),HAI_3_SIR,No Different than U.S. National Benchmark,0.42,,10/1/12,9/30/13
+H100342,110189,SSI: Abdominal Lower Confidence Limit,HAI_4_CI_LOWER,No Different than U.S. National Benchmark,0,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100343,110190,SSI: Abdominal Upper Confidence Limit,HAI_4_CI_UPPER,No Different than U.S. National Benchmark,2.875,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100344,110191,"SSI: Abdominal, Number of Procedures",HAI_4_DOPC_DAYS,No Different than U.S. National Benchmark,101,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100345,110192,SSI: Abdominal Predicted Cases,HAI_4_ELIGCASES,No Different than U.S. National Benchmark,1.042,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100346,110194,SSI: Abdominal Observed Cases,HAI_4_NUMERATOR,No Different than U.S. National Benchmark,0,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100347,110198,Surgical Site Infection from abdominal hysterectomy (SSI: Hysterectomy),HAI_4_SIR,No Different than U.S. National Benchmark,0,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100348,110200,MRSA Lower Confidence Limit,HAI_5_CI_LOWER,Better than the U.S. National Benchmark,0.095,,1/1/13,9/30/13
+H100349,110201,MRSA Upper Confidence Limit,HAI_5_CI_UPPER,Better than the U.S. National Benchmark,0.895,,1/1/13,9/30/13
+H10035,110203,Clostridium difficile (C.diff.) Laboratory-identified Events (Intestinal infections),HAI_6_SIR,NULL,NULL,5 - Results are not available for this reporting period.,1/1/13,9/30/13
+H100350,110205,MRSA Patient Days,HAI_5_DOPC_DAYS,Better than the U.S. National Benchmark,121991,,1/1/13,9/30/13
+H100351,110209,MRSA Predicted Cases,HAI_5_ELIGCASES,Better than the U.S. National Benchmark,11.439,,1/1/13,9/30/13
+H100352,110215,MRSA Observed Cases,HAI_5_NUMERATOR,Better than the U.S. National Benchmark,4,,1/1/13,9/30/13
+H100353,110225,Methicillin-resistant Staphylococcus Aureus (MRSA) Blood Laboratory-identified Events (Bloodstream infections),HAI_5_SIR,Better than the U.S. National Benchmark,0.35,,1/1/13,9/30/13
+H100354,110226,C.diff Lower Confidence Limit,HAI_6_CI_LOWER,Better than the U.S. National Benchmark,0.576,,1/1/13,9/30/13
+H100355,110229,C.diff Upper Confidence Limit,HAI_6_CI_UPPER,Better than the U.S. National Benchmark,0.985,,1/1/13,9/30/13
+H100356,110230,C.diff Patient Days,HAI_6_DOPC_DAYS,Better than the U.S. National Benchmark,109409,,1/1/13,9/30/13
+H100357,110233,C.diff Predicted Cases,HAI_6_ELIGCASES,Better than the U.S. National Benchmark,74.969,,1/1/13,9/30/13
+H100358,110234,C.diff Observed Cases,HAI_6_NUMERATOR,Better than the U.S. National Benchmark,57,,1/1/13,9/30/13
+H100359,11029,Clostridium difficile (C.diff.) Laboratory-identified Events (Intestinal infections),HAI_6_SIR,Better than the U.S. National Benchmark,0.76,,1/1/13,9/30/13
+H10036,11030,CLABSI Lower Confidence Limit,HAI_1_CI_LOWER,NULL,NULL,12 - This measure does not apply to this hospital for this reporting period.,10/1/12,9/30/13
+H100360,11031,CLABSI Lower Confidence Limit,HAI_1_CI_LOWER,No Different than U.S. National Benchmark,0,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100361,111300,CLABSI Upper Confidence Limit,HAI_1_CI_UPPER,No Different than U.S. National Benchmark,1.387,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100362,111302,CLABSI Central Line Days,HAI_1_DOPC_DAYS,No Different than U.S. National Benchmark,1439,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100363,111303,CLABSI Predicted Cases,HAI_1_ELIGCASES,No Different than U.S. National Benchmark,2.16,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100364,111304,CLABSI Observed Cases,HAI_1_NUMERATOR,No Different than U.S. National Benchmark,0,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100365,111305,Central line-associated blood stream infections (CLABSI),HAI_1_SIR,No Different than U.S. National Benchmark,0,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100366,111306,CAUTI Lower Confidence Limit,HAI_2_CI_LOWER,No Different than U.S. National Benchmark,0,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100367,111308,CAUTI Upper Confidence Limit,HAI_2_CI_UPPER,No Different than U.S. National Benchmark,1.207,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100368,111310,CAUTI Urinary Catheter Days,HAI_2_DOPC_DAYS,No Different than U.S. National Benchmark,1908,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100369,111313,CAUTI Predicted Cases,HAI_2_ELIGCASES,No Different than U.S. National Benchmark,2.482,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H10037,111314,CLABSI Upper Confidence Limit,HAI_1_CI_UPPER,NULL,NULL,12 - This measure does not apply to this hospital for this reporting period.,10/1/12,9/30/13
+H100370,111316,CAUTI Observed Cases,HAI_2_NUMERATOR,No Different than U.S. National Benchmark,0,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100371,111318,Catheter-Associated Urinary Tract Infections (CAUTI),HAI_2_SIR,No Different than U.S. National Benchmark,0,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100372,111319,SSI: Colon Lower Confidence Limit,HAI_3_CI_LOWER,No Different than U.S. National Benchmark,0.35,,10/1/12,9/30/13
+H100373,111320,SSI: Colon Upper Confidence Limit,HAI_3_CI_UPPER,No Different than U.S. National Benchmark,2.119,,10/1/12,9/30/13
+H100374,111321,"SSI: Colon, Number of Procedures",HAI_3_DOPC_DAYS,No Different than U.S. National Benchmark,159,,10/1/12,9/30/13
+H100375,111324,SSI: Colon Predicted Cases,HAI_3_ELIGCASES,No Different than U.S. National Benchmark,5.23,,10/1/12,9/30/13
+H100376,111325,SSI: Colon Observed Cases,HAI_3_NUMERATOR,No Different than U.S. National Benchmark,5,,10/1/12,9/30/13
+H100377,111326,Surgical Site Infection from colon surgery (SSI: Colon),HAI_3_SIR,No Different than U.S. National Benchmark,0.956,,10/1/12,9/30/13
+H100378,111327,SSI: Abdominal Lower Confidence Limit,HAI_4_CI_LOWER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100379,111328,SSI: Abdominal Upper Confidence Limit,HAI_4_CI_UPPER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H10038,111329,CLABSI Central Line Days,HAI_1_DOPC_DAYS,NULL,NULL,12 - This measure does not apply to this hospital for this reporting period.,10/1/12,9/30/13
+H100380,111330,"SSI: Abdominal, Number of Procedures",HAI_4_DOPC_DAYS,NULL,89,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100381,111331,SSI: Abdominal Predicted Cases,HAI_4_ELIGCASES,NULL,0.799,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100382,111332,SSI: Abdominal Observed Cases,HAI_4_NUMERATOR,NULL,0,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100383,111333,Surgical Site Infection from abdominal hysterectomy (SSI: Hysterectomy),HAI_4_SIR,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100384,111334,MRSA Lower Confidence Limit,HAI_5_CI_LOWER,No Different than U.S. National Benchmark,0,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,1/1/13,9/30/13
+H100385,111335,MRSA Upper Confidence Limit,HAI_5_CI_UPPER,No Different than U.S. National Benchmark,1.734,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,1/1/13,9/30/13
+H100386,111336,MRSA Patient Days,HAI_5_DOPC_DAYS,No Different than U.S. National Benchmark,35980,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,1/1/13,9/30/13
+H100387,11300,MRSA Predicted Cases,HAI_5_ELIGCASES,No Different than U.S. National Benchmark,2.127,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,1/1/13,9/30/13
+H100388,11302,MRSA Observed Cases,HAI_5_NUMERATOR,No Different than U.S. National Benchmark,0,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,1/1/13,9/30/13
+H100389,11304,Methicillin-resistant Staphylococcus Aureus (MRSA) Blood Laboratory-identified Events (Bloodstream infections),HAI_5_SIR,No Different than U.S. National Benchmark,0,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,1/1/13,9/30/13
+H10039,120001,CLABSI Predicted Cases,HAI_1_ELIGCASES,NULL,NULL,12 - This measure does not apply to this hospital for this reporting period.,10/1/12,9/30/13
+H100390,120002,C.diff Lower Confidence Limit,HAI_6_CI_LOWER,No Different than U.S. National Benchmark,0.799,,1/1/13,9/30/13
+H100391,120004,C.diff Upper Confidence Limit,HAI_6_CI_UPPER,No Different than U.S. National Benchmark,1.65,,1/1/13,9/30/13
+H100392,120005,C.diff Patient Days,HAI_6_DOPC_DAYS,No Different than U.S. National Benchmark,35980,,1/1/13,9/30/13
+H100393,120006,C.diff Predicted Cases,HAI_6_ELIGCASES,No Different than U.S. National Benchmark,27.373,,1/1/13,9/30/13
+H100394,120007,C.diff Observed Cases,HAI_6_NUMERATOR,No Different than U.S. National Benchmark,32,,1/1/13,9/30/13
+H100395,120011,Clostridium difficile (C.diff.) Laboratory-identified Events (Intestinal infections),HAI_6_SIR,No Different than U.S. National Benchmark,1.169,,1/1/13,9/30/13
+H100396,120014,CLABSI Lower Confidence Limit,HAI_1_CI_LOWER,Better than the U.S. National Benchmark,0.216,,10/1/12,9/30/13
+H100397,120019,CLABSI Upper Confidence Limit,HAI_1_CI_UPPER,Better than the U.S. National Benchmark,0.564,,10/1/12,9/30/13
+H100398,120022,CLABSI Central Line Days,HAI_1_DOPC_DAYS,Better than the U.S. National Benchmark,21252,,10/1/12,9/30/13
+H100399,120026,CLABSI Predicted Cases,HAI_1_ELIGCASES,Better than the U.S. National Benchmark,47.31,,10/1/12,9/30/13
+H1004,120028,CLABSI Observed Cases,HAI_1_NUMERATOR,No Different than U.S. National Benchmark,6,,10/1/12,9/30/13
+H10040,121300,CLABSI Observed Cases,HAI_1_NUMERATOR,NULL,NULL,12 - This measure does not apply to this hospital for this reporting period.,10/1/12,9/30/13
+H100400,121301,CLABSI Observed Cases,HAI_1_NUMERATOR,Better than the U.S. National Benchmark,17,,10/1/12,9/30/13
+H100401,121303,Central line-associated blood stream infections (CLABSI),HAI_1_SIR,Better than the U.S. National Benchmark,0.359,,10/1/12,9/30/13
+H100402,121304,CAUTI Lower Confidence Limit,HAI_2_CI_LOWER,Worse than the U.S. National Benchmark,1.359,,10/1/12,9/30/13
+H100403,121306,CAUTI Upper Confidence Limit,HAI_2_CI_UPPER,Worse than the U.S. National Benchmark,2.091,,10/1/12,9/30/13
+H100404,121308,CAUTI Urinary Catheter Days,HAI_2_DOPC_DAYS,Worse than the U.S. National Benchmark,19851,,10/1/12,9/30/13
+H100405,130002,CAUTI Predicted Cases,HAI_2_ELIGCASES,Worse than the U.S. National Benchmark,48.95,,10/1/12,9/30/13
+H100406,130003,CAUTI Observed Cases,HAI_2_NUMERATOR,Worse than the U.S. National Benchmark,83,,10/1/12,9/30/13
+H100407,130006,Catheter-Associated Urinary Tract Infections (CAUTI),HAI_2_SIR,Worse than the U.S. National Benchmark,1.696,,10/1/12,9/30/13
+H100408,130007,SSI: Colon Lower Confidence Limit,HAI_3_CI_LOWER,No Different than U.S. National Benchmark,0.756,,10/1/12,9/30/13
+H100409,130013,SSI: Colon Upper Confidence Limit,HAI_3_CI_UPPER,No Different than U.S. National Benchmark,2.097,,10/1/12,9/30/13
+H10041,130014,Central line-associated blood stream infections (CLABSI),HAI_1_SIR,NULL,NULL,12 - This measure does not apply to this hospital for this reporting period.,10/1/12,9/30/13
+H100410,130018,"SSI: Colon, Number of Procedures",HAI_3_DOPC_DAYS,No Different than U.S. National Benchmark,327,,10/1/12,9/30/13
+H100411,130025,SSI: Colon Predicted Cases,HAI_3_ELIGCASES,No Different than U.S. National Benchmark,11.534,,10/1/12,9/30/13
+H100412,130028,SSI: Colon Observed Cases,HAI_3_NUMERATOR,No Different than U.S. National Benchmark,15,,10/1/12,9/30/13
+H100413,13003,Surgical Site Infection from colon surgery (SSI: Colon),HAI_3_SIR,No Different than U.S. National Benchmark,1.301,,10/1/12,9/30/13
+H100414,130049,SSI: Abdominal Lower Confidence Limit,HAI_4_CI_LOWER,No Different than U.S. National Benchmark,0.158,,10/1/12,9/30/13
+H100415,130063,SSI: Abdominal Upper Confidence Limit,HAI_4_CI_UPPER,No Different than U.S. National Benchmark,3.105,,10/1/12,9/30/13
+H100416,130065,"SSI: Abdominal, Number of Procedures",HAI_4_DOPC_DAYS,No Different than U.S. National Benchmark,210,,10/1/12,9/30/13
+H100417,130066,SSI: Abdominal Predicted Cases,HAI_4_ELIGCASES,No Different than U.S. National Benchmark,2.128,,10/1/12,9/30/13
+H100418,130067,SSI: Abdominal Observed Cases,HAI_4_NUMERATOR,No Different than U.S. National Benchmark,2,,10/1/12,9/30/13
+H100419,131301,Surgical Site Infection from abdominal hysterectomy (SSI: Hysterectomy),HAI_4_SIR,No Different than U.S. National Benchmark,0.94,,10/1/12,9/30/13
+H10042,131302,CAUTI Lower Confidence Limit,HAI_2_CI_LOWER,NULL,NULL,12 - This measure does not apply to this hospital for this reporting period.,10/1/12,9/30/13
+H100420,131303,MRSA Lower Confidence Limit,HAI_5_CI_LOWER,No Different than U.S. National Benchmark,0.432,,1/1/13,9/30/13
+H100421,131304,MRSA Upper Confidence Limit,HAI_5_CI_UPPER,No Different than U.S. National Benchmark,1.46,,1/1/13,9/30/13
+H100422,131305,MRSA Patient Days,HAI_5_DOPC_DAYS,No Different than U.S. National Benchmark,146677,,1/1/13,9/30/13
+H100423,131307,MRSA Predicted Cases,HAI_5_ELIGCASES,No Different than U.S. National Benchmark,14.356,,1/1/13,9/30/13
+H100424,131308,MRSA Observed Cases,HAI_5_NUMERATOR,No Different than U.S. National Benchmark,12,,1/1/13,9/30/13
+H100425,131309,Methicillin-resistant Staphylococcus Aureus (MRSA) Blood Laboratory-identified Events (Bloodstream infections),HAI_5_SIR,No Different than U.S. National Benchmark,0.836,,1/1/13,9/30/13
+H100426,131310,C.diff Lower Confidence Limit,HAI_6_CI_LOWER,No Different than U.S. National Benchmark,0.701,,1/1/13,9/30/13
+H100427,131311,C.diff Upper Confidence Limit,HAI_6_CI_UPPER,No Different than U.S. National Benchmark,1.035,,1/1/13,9/30/13
+H100428,131312,C.diff Patient Days,HAI_6_DOPC_DAYS,No Different than U.S. National Benchmark,133128,,1/1/13,9/30/13
+H100429,131313,C.diff Predicted Cases,HAI_6_ELIGCASES,No Different than U.S. National Benchmark,123.876,,1/1/13,9/30/13
+H10043,131314,CAUTI Upper Confidence Limit,HAI_2_CI_UPPER,NULL,NULL,12 - This measure does not apply to this hospital for this reporting period.,10/1/12,9/30/13
+H100430,131315,C.diff Observed Cases,HAI_6_NUMERATOR,No Different than U.S. National Benchmark,106,,1/1/13,9/30/13
+H100431,131316,Clostridium difficile (C.diff.) Laboratory-identified Events (Intestinal infections),HAI_6_SIR,No Different than U.S. National Benchmark,0.856,,1/1/13,9/30/13
+H100432,131317,CLABSI Lower Confidence Limit,HAI_1_CI_LOWER,No Different than U.S. National Benchmark,0.603,,10/1/12,9/30/13
+H100433,131318,CLABSI Upper Confidence Limit,HAI_1_CI_UPPER,No Different than U.S. National Benchmark,1.893,,10/1/12,9/30/13
+H100434,131319,CLABSI Central Line Days,HAI_1_DOPC_DAYS,No Different than U.S. National Benchmark,4482,,10/1/12,9/30/13
+H100435,131320,CLABSI Predicted Cases,HAI_1_ELIGCASES,No Different than U.S. National Benchmark,10.778,,10/1/12,9/30/13
+H100436,131321,CLABSI Observed Cases,HAI_1_NUMERATOR,No Different than U.S. National Benchmark,12,,10/1/12,9/30/13
+H100437,131322,Central line-associated blood stream infections (CLABSI),HAI_1_SIR,No Different than U.S. National Benchmark,1.113,,10/1/12,9/30/13
+H100438,131323,CAUTI Lower Confidence Limit,HAI_2_CI_LOWER,Worse than the U.S. National Benchmark,1.317,,10/1/12,9/30/13
+H100439,131324,CAUTI Upper Confidence Limit,HAI_2_CI_UPPER,Worse than the U.S. National Benchmark,2.995,,10/1/12,9/30/13
+H10044,131325,CAUTI Urinary Catheter Days,HAI_2_DOPC_DAYS,NULL,NULL,12 - This measure does not apply to this hospital for this reporting period.,10/1/12,9/30/13
+H100440,131326,CAUTI Urinary Catheter Days,HAI_2_DOPC_DAYS,Worse than the U.S. National Benchmark,4825,,10/1/12,9/30/13
+H100441,131327,CAUTI Predicted Cases,HAI_2_ELIGCASES,Worse than the U.S. National Benchmark,11.341,,10/1/12,9/30/13
+H100442,131328,CAUTI Observed Cases,HAI_2_NUMERATOR,Worse than the U.S. National Benchmark,23,,10/1/12,9/30/13
+H100443,13301,Catheter-Associated Urinary Tract Infections (CAUTI),HAI_2_SIR,Worse than the U.S. National Benchmark,2.028,,10/1/12,9/30/13
+H100444,140001,SSI: Colon Lower Confidence Limit,HAI_3_CI_LOWER,Worse than the U.S. National Benchmark,1.564,,10/1/12,9/30/13
+H100445,140002,SSI: Colon Upper Confidence Limit,HAI_3_CI_UPPER,Worse than the U.S. National Benchmark,8.025,,10/1/12,9/30/13
+H100446,140007,"SSI: Colon, Number of Procedures",HAI_3_DOPC_DAYS,Worse than the U.S. National Benchmark,47,,10/1/12,9/30/13
+H100447,140008,SSI: Colon Predicted Cases,HAI_3_ELIGCASES,Worse than the U.S. National Benchmark,1.555,,10/1/12,9/30/13
+H100448,140010,SSI: Colon Observed Cases,HAI_3_NUMERATOR,Worse than the U.S. National Benchmark,6,,10/1/12,9/30/13
+H100449,140011,Surgical Site Infection from colon surgery (SSI: Colon),HAI_3_SIR,Worse than the U.S. National Benchmark,3.859,,10/1/12,9/30/13
+H10045,140012,CAUTI Predicted Cases,HAI_2_ELIGCASES,NULL,NULL,12 - This measure does not apply to this hospital for this reporting period.,10/1/12,9/30/13
+H100450,140013,SSI: Abdominal Lower Confidence Limit,HAI_4_CI_LOWER,No Different than U.S. National Benchmark,0.282,,10/1/12,9/30/13
+H100451,140015,SSI: Abdominal Upper Confidence Limit,HAI_4_CI_UPPER,No Different than U.S. National Benchmark,5.567,,10/1/12,9/30/13
+H100452,140018,"SSI: Abdominal, Number of Procedures",HAI_4_DOPC_DAYS,No Different than U.S. National Benchmark,125,,10/1/12,9/30/13
+H100453,140019,SSI: Abdominal Predicted Cases,HAI_4_ELIGCASES,No Different than U.S. National Benchmark,1.187,,10/1/12,9/30/13
+H100454,140026,SSI: Abdominal Observed Cases,HAI_4_NUMERATOR,No Different than U.S. National Benchmark,2,,10/1/12,9/30/13
+H100455,140029,Surgical Site Infection from abdominal hysterectomy (SSI: Hysterectomy),HAI_4_SIR,No Different than U.S. National Benchmark,1.685,,10/1/12,9/30/13
+H100456,140030,MRSA Lower Confidence Limit,HAI_5_CI_LOWER,No Different than U.S. National Benchmark,0.417,,1/1/13,9/30/13
+H100457,140032,MRSA Upper Confidence Limit,HAI_5_CI_UPPER,No Different than U.S. National Benchmark,1.902,,1/1/13,9/30/13
+H100458,140033,MRSA Patient Days,HAI_5_DOPC_DAYS,No Different than U.S. National Benchmark,93133,,1/1/13,9/30/13
+H100459,140034,MRSA Predicted Cases,HAI_5_ELIGCASES,No Different than U.S. National Benchmark,8.289,,1/1/13,9/30/13
+H10046,14003,CAUTI Observed Cases,HAI_2_NUMERATOR,NULL,NULL,12 - This measure does not apply to this hospital for this reporting period.,10/1/12,9/30/13
+H100460,140040,MRSA Observed Cases,HAI_5_NUMERATOR,No Different than U.S. National Benchmark,8,,1/1/13,9/30/13
+H100461,140043,Methicillin-resistant Staphylococcus Aureus (MRSA) Blood Laboratory-identified Events (Bloodstream infections),HAI_5_SIR,No Different than U.S. National Benchmark,0.965,,1/1/13,9/30/13
+H100462,140046,C.diff Lower Confidence Limit,HAI_6_CI_LOWER,Better than the U.S. National Benchmark,0.394,,1/1/13,9/30/13
+H100463,140048,C.diff Upper Confidence Limit,HAI_6_CI_UPPER,Better than the U.S. National Benchmark,0.804,,1/1/13,9/30/13
+H100464,140049,C.diff Patient Days,HAI_6_DOPC_DAYS,Better than the U.S. National Benchmark,85826,,1/1/13,9/30/13
+H100465,14004,C.diff Predicted Cases,HAI_6_ELIGCASES,Better than the U.S. National Benchmark,57.632,,1/1/13,9/30/13
+H100466,140052,C.diff Observed Cases,HAI_6_NUMERATOR,Better than the U.S. National Benchmark,33,,1/1/13,9/30/13
+H100467,140053,Clostridium difficile (C.diff.) Laboratory-identified Events (Intestinal infections),HAI_6_SIR,Better than the U.S. National Benchmark,0.573,,1/1/13,9/30/13
+H100468,140054,CLABSI Lower Confidence Limit,HAI_1_CI_LOWER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100469,140058,CLABSI Upper Confidence Limit,HAI_1_CI_UPPER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H10047,140059,Catheter-Associated Urinary Tract Infections (CAUTI),HAI_2_SIR,NULL,NULL,12 - This measure does not apply to this hospital for this reporting period.,10/1/12,9/30/13
+H100470,140062,CLABSI Central Line Days,HAI_1_DOPC_DAYS,NULL,516,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100471,140063,CLABSI Predicted Cases,HAI_1_ELIGCASES,NULL,0.775,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100472,140064,CLABSI Observed Cases,HAI_1_NUMERATOR,NULL,0,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100473,140065,Central line-associated blood stream infections (CLABSI),HAI_1_SIR,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100474,140067,CAUTI Lower Confidence Limit,HAI_2_CI_LOWER,No Different than U.S. National Benchmark,0,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100475,140068,CAUTI Upper Confidence Limit,HAI_2_CI_UPPER,No Different than U.S. National Benchmark,1.66,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100476,140077,CAUTI Urinary Catheter Days,HAI_2_DOPC_DAYS,No Different than U.S. National Benchmark,1388,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100477,14007,CAUTI Predicted Cases,HAI_2_ELIGCASES,No Different than U.S. National Benchmark,1.805,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100478,140080,CAUTI Observed Cases,HAI_2_NUMERATOR,No Different than U.S. National Benchmark,0,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100479,140082,Catheter-Associated Urinary Tract Infections (CAUTI),HAI_2_SIR,No Different than U.S. National Benchmark,0,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H10048,140083,SSI: Colon Lower Confidence Limit,HAI_3_CI_LOWER,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100480,140084,SSI: Colon Lower Confidence Limit,HAI_3_CI_LOWER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100481,140088,SSI: Colon Upper Confidence Limit,HAI_3_CI_UPPER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100482,140089,"SSI: Colon, Number of Procedures",HAI_3_DOPC_DAYS,NULL,25,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100483,14008,SSI: Colon Predicted Cases,HAI_3_ELIGCASES,NULL,0.846,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100484,140091,SSI: Colon Observed Cases,HAI_3_NUMERATOR,NULL,0,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100485,140093,Surgical Site Infection from colon surgery (SSI: Colon),HAI_3_SIR,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100486,140095,SSI: Abdominal Lower Confidence Limit,HAI_4_CI_LOWER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100487,140100,SSI: Abdominal Upper Confidence Limit,HAI_4_CI_UPPER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100488,140101,"SSI: Abdominal, Number of Procedures",HAI_4_DOPC_DAYS,NULL,1,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100489,140103,SSI: Abdominal Predicted Cases,HAI_4_ELIGCASES,NULL,0.016,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H10049,140110,SSI: Colon Upper Confidence Limit,HAI_3_CI_UPPER,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100490,140113,SSI: Abdominal Observed Cases,HAI_4_NUMERATOR,NULL,0,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100491,140114,Surgical Site Infection from abdominal hysterectomy (SSI: Hysterectomy),HAI_4_SIR,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100492,140115,MRSA Lower Confidence Limit,HAI_5_CI_LOWER,No Different than U.S. National Benchmark,0.128,,1/1/13,9/30/13
+H100493,140116,MRSA Upper Confidence Limit,HAI_5_CI_UPPER,No Different than U.S. National Benchmark,3.815,,1/1/13,9/30/13
+H100494,140117,MRSA Patient Days,HAI_5_DOPC_DAYS,No Different than U.S. National Benchmark,33950,,1/1/13,9/30/13
+H100495,140118,MRSA Predicted Cases,HAI_5_ELIGCASES,No Different than U.S. National Benchmark,1.894,,1/1/13,9/30/13
+H100496,140119,MRSA Observed Cases,HAI_5_NUMERATOR,No Different than U.S. National Benchmark,2,,1/1/13,9/30/13
+H100497,140120,Methicillin-resistant Staphylococcus Aureus (MRSA) Blood Laboratory-identified Events (Bloodstream infections),HAI_5_SIR,No Different than U.S. National Benchmark,1.056,,1/1/13,9/30/13
+H100498,140122,C.diff Lower Confidence Limit,HAI_6_CI_LOWER,Worse than the U.S. National Benchmark,1.192,,1/1/13,9/30/13
+H100499,140124,C.diff Upper Confidence Limit,HAI_6_CI_UPPER,Worse than the U.S. National Benchmark,2.557,,1/1/13,9/30/13
+H1005,140125,Central line-associated blood stream infections (CLABSI),HAI_1_SIR,No Different than U.S. National Benchmark,1.378,,10/1/12,9/30/13
+H10050,140127,"SSI: Colon, Number of Procedures",HAI_3_DOPC_DAYS,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100500,140130,C.diff Patient Days,HAI_6_DOPC_DAYS,Worse than the U.S. National Benchmark,30349,,1/1/13,9/30/13
+H100501,140133,C.diff Predicted Cases,HAI_6_ELIGCASES,Worse than the U.S. National Benchmark,16.288,,1/1/13,9/30/13
+H100502,140135,C.diff Observed Cases,HAI_6_NUMERATOR,Worse than the U.S. National Benchmark,29,,1/1/13,9/30/13
+H100503,140137,Clostridium difficile (C.diff.) Laboratory-identified Events (Intestinal infections),HAI_6_SIR,Worse than the U.S. National Benchmark,1.78,,1/1/13,9/30/13
+H100504,140143,CLABSI Lower Confidence Limit,HAI_1_CI_LOWER,No Different than U.S. National Benchmark,0.189,,10/1/12,9/30/13
+H100505,140145,CLABSI Upper Confidence Limit,HAI_1_CI_UPPER,No Different than U.S. National Benchmark,1.146,,10/1/12,9/30/13
+H100506,140147,CLABSI Central Line Days,HAI_1_DOPC_DAYS,No Different than U.S. National Benchmark,5453,,10/1/12,9/30/13
+H100507,140148,CLABSI Predicted Cases,HAI_1_ELIGCASES,No Different than U.S. National Benchmark,9.669,,10/1/12,9/30/13
+H100508,140150,CLABSI Observed Cases,HAI_1_NUMERATOR,No Different than U.S. National Benchmark,5,,10/1/12,9/30/13
+H100509,140155,Central line-associated blood stream infections (CLABSI),HAI_1_SIR,No Different than U.S. National Benchmark,0.517,,10/1/12,9/30/13
+H10051,140158,SSI: Colon Predicted Cases,HAI_3_ELIGCASES,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100510,140160,CAUTI Lower Confidence Limit,HAI_2_CI_LOWER,No Different than U.S. National Benchmark,0.329,,10/1/12,9/30/13
+H100511,140161,CAUTI Upper Confidence Limit,HAI_2_CI_UPPER,No Different than U.S. National Benchmark,1.087,,10/1/12,9/30/13
+H100512,140162,CAUTI Urinary Catheter Days,HAI_2_DOPC_DAYS,No Different than U.S. National Benchmark,8908,,10/1/12,9/30/13
+H100513,140164,CAUTI Predicted Cases,HAI_2_ELIGCASES,No Different than U.S. National Benchmark,17.594,,10/1/12,9/30/13
+H100514,140166,CAUTI Observed Cases,HAI_2_NUMERATOR,No Different than U.S. National Benchmark,11,,10/1/12,9/30/13
+H100515,140167,Catheter-Associated Urinary Tract Infections (CAUTI),HAI_2_SIR,No Different than U.S. National Benchmark,0.625,,10/1/12,9/30/13
+H100516,140172,SSI: Colon Lower Confidence Limit,HAI_3_CI_LOWER,No Different than U.S. National Benchmark,0.054,,10/1/12,9/30/13
+H100517,140174,SSI: Colon Upper Confidence Limit,HAI_3_CI_UPPER,No Different than U.S. National Benchmark,1.07,,10/1/12,9/30/13
+H100518,140176,"SSI: Colon, Number of Procedures",HAI_3_DOPC_DAYS,No Different than U.S. National Benchmark,188,,10/1/12,9/30/13
+H100519,140177,SSI: Colon Predicted Cases,HAI_3_ELIGCASES,No Different than U.S. National Benchmark,6.177,,10/1/12,9/30/13
+H10052,140179,SSI: Colon Observed Cases,HAI_3_NUMERATOR,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100520,140180,SSI: Colon Observed Cases,HAI_3_NUMERATOR,No Different than U.S. National Benchmark,2,,10/1/12,9/30/13
+H100521,140181,Surgical Site Infection from colon surgery (SSI: Colon),HAI_3_SIR,No Different than U.S. National Benchmark,0.324,,10/1/12,9/30/13
+H100522,140182,SSI: Abdominal Lower Confidence Limit,HAI_4_CI_LOWER,No Different than U.S. National Benchmark,0.026,,10/1/12,9/30/13
+H100523,140184,SSI: Abdominal Upper Confidence Limit,HAI_4_CI_UPPER,No Different than U.S. National Benchmark,2.515,,10/1/12,9/30/13
+H100524,140185,"SSI: Abdominal, Number of Procedures",HAI_4_DOPC_DAYS,No Different than U.S. National Benchmark,194,,10/1/12,9/30/13
+H100525,140186,SSI: Abdominal Predicted Cases,HAI_4_ELIGCASES,No Different than U.S. National Benchmark,1.961,,10/1/12,9/30/13
+H100526,140187,SSI: Abdominal Observed Cases,HAI_4_NUMERATOR,No Different than U.S. National Benchmark,1,,10/1/12,9/30/13
+H100527,140189,Surgical Site Infection from abdominal hysterectomy (SSI: Hysterectomy),HAI_4_SIR,No Different than U.S. National Benchmark,0.51,,10/1/12,9/30/13
+H100528,140191,MRSA Lower Confidence Limit,HAI_5_CI_LOWER,Worse than the U.S. National Benchmark,1.072,,1/1/13,9/30/13
+H100529,140197,MRSA Upper Confidence Limit,HAI_5_CI_UPPER,Worse than the U.S. National Benchmark,4.45,,1/1/13,9/30/13
+H10053,140200,Surgical Site Infection from colon surgery (SSI: Colon),HAI_3_SIR,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100530,140202,MRSA Patient Days,HAI_5_DOPC_DAYS,Worse than the U.S. National Benchmark,76085,,1/1/13,9/30/13
+H100531,140206,MRSA Predicted Cases,HAI_5_ELIGCASES,Worse than the U.S. National Benchmark,3.839,,1/1/13,9/30/13
+H100532,140208,MRSA Observed Cases,HAI_5_NUMERATOR,Worse than the U.S. National Benchmark,9,,1/1/13,9/30/13
+H100533,140209,Methicillin-resistant Staphylococcus Aureus (MRSA) Blood Laboratory-identified Events (Bloodstream infections),HAI_5_SIR,Worse than the U.S. National Benchmark,2.344,,1/1/13,9/30/13
+H100534,140210,C.diff Lower Confidence Limit,HAI_6_CI_LOWER,Worse than the U.S. National Benchmark,1.046,,1/1/13,9/30/13
+H100535,140211,C.diff Upper Confidence Limit,HAI_6_CI_UPPER,Worse than the U.S. National Benchmark,1.657,,1/1/13,9/30/13
+H100536,140213,C.diff Patient Days,HAI_6_DOPC_DAYS,Worse than the U.S. National Benchmark,68087,,1/1/13,9/30/13
+H100537,140217,C.diff Predicted Cases,HAI_6_ELIGCASES,Worse than the U.S. National Benchmark,58.082,,1/1/13,9/30/13
+H100538,140223,C.diff Observed Cases,HAI_6_NUMERATOR,Worse than the U.S. National Benchmark,77,,1/1/13,9/30/13
+H100539,140224,Clostridium difficile (C.diff.) Laboratory-identified Events (Intestinal infections),HAI_6_SIR,Worse than the U.S. National Benchmark,1.326,,1/1/13,9/30/13
+H10054,140228,SSI: Abdominal Lower Confidence Limit,HAI_4_CI_LOWER,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100540,140231,CLABSI Lower Confidence Limit,HAI_1_CI_LOWER,Better than the U.S. National Benchmark,0.293,,10/1/12,9/30/13
+H100541,140233,CLABSI Upper Confidence Limit,HAI_1_CI_UPPER,Better than the U.S. National Benchmark,0.709,,10/1/12,9/30/13
+H100542,140234,CLABSI Central Line Days,HAI_1_DOPC_DAYS,Better than the U.S. National Benchmark,19348,,10/1/12,9/30/13
+H100543,140239,CLABSI Predicted Cases,HAI_1_ELIGCASES,Better than the U.S. National Benchmark,42.792,,10/1/12,9/30/13
+H100544,140240,CLABSI Observed Cases,HAI_1_NUMERATOR,Better than the U.S. National Benchmark,20,,10/1/12,9/30/13
+H100545,140242,Central line-associated blood stream infections (CLABSI),HAI_1_SIR,Better than the U.S. National Benchmark,0.467,,10/1/12,9/30/13
+H100546,140250,CAUTI Lower Confidence Limit,HAI_2_CI_LOWER,Better than the U.S. National Benchmark,0.069,,10/1/12,9/30/13
+H100547,140251,CAUTI Upper Confidence Limit,HAI_2_CI_UPPER,Better than the U.S. National Benchmark,0.283,,10/1/12,9/30/13
+H100548,140252,CAUTI Urinary Catheter Days,HAI_2_DOPC_DAYS,Better than the U.S. National Benchmark,21026,,10/1/12,9/30/13
+H100549,140258,CAUTI Predicted Cases,HAI_2_ELIGCASES,Better than the U.S. National Benchmark,53.744,,10/1/12,9/30/13
+H10055,140275,SSI: Abdominal Upper Confidence Limit,HAI_4_CI_UPPER,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100550,140276,CAUTI Observed Cases,HAI_2_NUMERATOR,Better than the U.S. National Benchmark,8,,10/1/12,9/30/13
+H100551,140280,Catheter-Associated Urinary Tract Infections (CAUTI),HAI_2_SIR,Better than the U.S. National Benchmark,0.149,,10/1/12,9/30/13
+H100552,140281,SSI: Colon Lower Confidence Limit,HAI_3_CI_LOWER,Worse than the U.S. National Benchmark,1.382,,10/1/12,9/30/13
+H100553,140286,SSI: Colon Upper Confidence Limit,HAI_3_CI_UPPER,Worse than the U.S. National Benchmark,2.396,,10/1/12,9/30/13
+H100554,140288,"SSI: Colon, Number of Procedures",HAI_3_DOPC_DAYS,Worse than the U.S. National Benchmark,834,,10/1/12,9/30/13
+H100555,140289,SSI: Colon Predicted Cases,HAI_3_ELIGCASES,Worse than the U.S. National Benchmark,27.761,,10/1/12,9/30/13
+H100556,140290,SSI: Colon Observed Cases,HAI_3_NUMERATOR,Worse than the U.S. National Benchmark,51,,10/1/12,9/30/13
+H100557,140291,Surgical Site Infection from colon surgery (SSI: Colon),HAI_3_SIR,Worse than the U.S. National Benchmark,1.837,,10/1/12,9/30/13
+H100558,140292,SSI: Abdominal Lower Confidence Limit,HAI_4_CI_LOWER,No Different than U.S. National Benchmark,0.155,,10/1/12,9/30/13
+H100559,140294,SSI: Abdominal Upper Confidence Limit,HAI_4_CI_UPPER,No Different than U.S. National Benchmark,1.659,,10/1/12,9/30/13
+H10056,140300,"SSI: Abdominal, Number of Procedures",HAI_4_DOPC_DAYS,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100560,140304,"SSI: Abdominal, Number of Procedures",HAI_4_DOPC_DAYS,No Different than U.S. National Benchmark,552,,10/1/12,9/30/13
+H100561,14034,SSI: Abdominal Predicted Cases,HAI_4_ELIGCASES,No Different than U.S. National Benchmark,4.922,,10/1/12,9/30/13
+H100562,141300,SSI: Abdominal Observed Cases,HAI_4_NUMERATOR,No Different than U.S. National Benchmark,3,,10/1/12,9/30/13
+H100563,141301,Surgical Site Infection from abdominal hysterectomy (SSI: Hysterectomy),HAI_4_SIR,No Different than U.S. National Benchmark,0.61,,10/1/12,9/30/13
+H100564,141302,MRSA Lower Confidence Limit,HAI_5_CI_LOWER,Worse than the U.S. National Benchmark,1.476,,1/1/13,9/30/13
+H100565,141303,MRSA Upper Confidence Limit,HAI_5_CI_UPPER,Worse than the U.S. National Benchmark,2.578,,1/1/13,9/30/13
+H100566,141304,MRSA Patient Days,HAI_5_DOPC_DAYS,Worse than the U.S. National Benchmark,284147,,1/1/13,9/30/13
+H100567,141305,MRSA Predicted Cases,HAI_5_ELIGCASES,Worse than the U.S. National Benchmark,26.89,,1/1/13,9/30/13
+H100568,141306,MRSA Observed Cases,HAI_5_NUMERATOR,Worse than the U.S. National Benchmark,53,,1/1/13,9/30/13
+H100569,141307,Methicillin-resistant Staphylococcus Aureus (MRSA) Blood Laboratory-identified Events (Bloodstream infections),HAI_5_SIR,Worse than the U.S. National Benchmark,1.971,,1/1/13,9/30/13
+H10057,141309,SSI: Abdominal Predicted Cases,HAI_4_ELIGCASES,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100570,141310,C.diff Lower Confidence Limit,HAI_6_CI_LOWER,Worse than the U.S. National Benchmark,1.022,,1/1/13,9/30/13
+H100571,141311,C.diff Upper Confidence Limit,HAI_6_CI_UPPER,Worse than the U.S. National Benchmark,1.309,,1/1/13,9/30/13
+H100572,141312,C.diff Patient Days,HAI_6_DOPC_DAYS,Worse than the U.S. National Benchmark,267452,,1/1/13,9/30/13
+H100573,141313,C.diff Predicted Cases,HAI_6_ELIGCASES,Worse than the U.S. National Benchmark,223.559,,1/1/13,9/30/13
+H100574,141315,C.diff Observed Cases,HAI_6_NUMERATOR,Worse than the U.S. National Benchmark,259,,1/1/13,9/30/13
+H100575,141316,Clostridium difficile (C.diff.) Laboratory-identified Events (Intestinal infections),HAI_6_SIR,Worse than the U.S. National Benchmark,1.159,,1/1/13,9/30/13
+H100576,141317,CLABSI Lower Confidence Limit,HAI_1_CI_LOWER,Better than the U.S. National Benchmark,0.128,,10/1/12,9/30/13
+H100577,141318,CLABSI Upper Confidence Limit,HAI_1_CI_UPPER,Better than the U.S. National Benchmark,0.97,,10/1/12,9/30/13
+H100578,141319,CLABSI Central Line Days,HAI_1_DOPC_DAYS,Better than the U.S. National Benchmark,3686,,10/1/12,9/30/13
+H100579,141320,CLABSI Predicted Cases,HAI_1_ELIGCASES,Better than the U.S. National Benchmark,9.946,,10/1/12,9/30/13
+H10058,141321,SSI: Abdominal Observed Cases,HAI_4_NUMERATOR,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100580,141322,CLABSI Observed Cases,HAI_1_NUMERATOR,Better than the U.S. National Benchmark,4,,10/1/12,9/30/13
+H100581,141323,Central line-associated blood stream infections (CLABSI),HAI_1_SIR,Better than the U.S. National Benchmark,0.402,,10/1/12,9/30/13
+H100582,141324,CAUTI Lower Confidence Limit,HAI_2_CI_LOWER,No Different than U.S. National Benchmark,0.484,,10/1/12,9/30/13
+H100583,141325,CAUTI Upper Confidence Limit,HAI_2_CI_UPPER,No Different than U.S. National Benchmark,1.699,,10/1/12,9/30/13
+H100584,141326,CAUTI Urinary Catheter Days,HAI_2_DOPC_DAYS,No Different than U.S. National Benchmark,4165,,10/1/12,9/30/13
+H100585,141327,CAUTI Predicted Cases,HAI_2_ELIGCASES,No Different than U.S. National Benchmark,10.492,,10/1/12,9/30/13
+H100586,141328,CAUTI Observed Cases,HAI_2_NUMERATOR,No Different than U.S. National Benchmark,10,,10/1/12,9/30/13
+H100587,141329,Catheter-Associated Urinary Tract Infections (CAUTI),HAI_2_SIR,No Different than U.S. National Benchmark,0.953,,10/1/12,9/30/13
+H100588,141330,SSI: Colon Lower Confidence Limit,HAI_3_CI_LOWER,No Different than U.S. National Benchmark,0,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100589,141331,SSI: Colon Upper Confidence Limit,HAI_3_CI_UPPER,No Different than U.S. National Benchmark,2.826,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H10059,141332,Surgical Site Infection from abdominal hysterectomy (SSI: Hysterectomy),HAI_4_SIR,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100590,141333,"SSI: Colon, Number of Procedures",HAI_3_DOPC_DAYS,No Different than U.S. National Benchmark,32,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100591,141334,SSI: Colon Predicted Cases,HAI_3_ELIGCASES,No Different than U.S. National Benchmark,1.06,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100592,141335,SSI: Colon Observed Cases,HAI_3_NUMERATOR,No Different than U.S. National Benchmark,0,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100593,141336,Surgical Site Infection from colon surgery (SSI: Colon),HAI_3_SIR,No Different than U.S. National Benchmark,0,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100594,141337,SSI: Abdominal Lower Confidence Limit,HAI_4_CI_LOWER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100595,141338,SSI: Abdominal Upper Confidence Limit,HAI_4_CI_UPPER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100596,141339,"SSI: Abdominal, Number of Procedures",HAI_4_DOPC_DAYS,NULL,101,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100597,141340,SSI: Abdominal Predicted Cases,HAI_4_ELIGCASES,NULL,0.967,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100598,141341,SSI: Abdominal Observed Cases,HAI_4_NUMERATOR,NULL,2,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100599,141342,Surgical Site Infection from abdominal hysterectomy (SSI: Hysterectomy),HAI_4_SIR,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H1006,141343,CAUTI Lower Confidence Limit,HAI_2_CI_LOWER,Worse than the U.S. National Benchmark,1.548,,10/1/12,9/30/13
+H10060,141344,MRSA Lower Confidence Limit,HAI_5_CI_LOWER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,1/1/13,9/30/13
+H100600,141345,MRSA Lower Confidence Limit,HAI_5_CI_LOWER,Better than the U.S. National Benchmark,0.003,,1/1/13,9/30/13
+H100601,141346,MRSA Upper Confidence Limit,HAI_5_CI_UPPER,Better than the U.S. National Benchmark,0.686,,1/1/13,9/30/13
+H100602,141347,MRSA Patient Days,HAI_5_DOPC_DAYS,Better than the U.S. National Benchmark,102507,,1/1/13,9/30/13
+H100603,141348,MRSA Predicted Cases,HAI_5_ELIGCASES,Better than the U.S. National Benchmark,8.124,,1/1/13,9/30/13
+H100604,141349,MRSA Observed Cases,HAI_5_NUMERATOR,Better than the U.S. National Benchmark,1,,1/1/13,9/30/13
+H100605,141350,Methicillin-resistant Staphylococcus Aureus (MRSA) Blood Laboratory-identified Events (Bloodstream infections),HAI_5_SIR,Better than the U.S. National Benchmark,0.123,,1/1/13,9/30/13
+H100606,141351,C.diff Lower Confidence Limit,HAI_6_CI_LOWER,Better than the U.S. National Benchmark,0.086,,1/1/13,9/30/13
+H100607,150001,C.diff Upper Confidence Limit,HAI_6_CI_UPPER,Better than the U.S. National Benchmark,0.276,,1/1/13,9/30/13
+H100608,150002,C.diff Patient Days,HAI_6_DOPC_DAYS,Better than the U.S. National Benchmark,97692,,1/1/13,9/30/13
+H100609,150003,C.diff Predicted Cases,HAI_6_ELIGCASES,Better than the U.S. National Benchmark,80.523,,1/1/13,9/30/13
+H10061,150004,MRSA Upper Confidence Limit,HAI_5_CI_UPPER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,1/1/13,9/30/13
+H100610,150005,C.diff Observed Cases,HAI_6_NUMERATOR,Better than the U.S. National Benchmark,13,,1/1/13,9/30/13
+H100611,150006,Clostridium difficile (C.diff.) Laboratory-identified Events (Intestinal infections),HAI_6_SIR,Better than the U.S. National Benchmark,0.161,,1/1/13,9/30/13
+H100612,150007,CLABSI Lower Confidence Limit,HAI_1_CI_LOWER,No Different than U.S. National Benchmark,0.269,,10/1/12,9/30/13
+H100613,150008,CLABSI Upper Confidence Limit,HAI_1_CI_UPPER,No Different than U.S. National Benchmark,1.217,,10/1/12,9/30/13
+H100614,150009,CLABSI Central Line Days,HAI_1_DOPC_DAYS,No Different than U.S. National Benchmark,5122,,10/1/12,9/30/13
+H100615,150010,CLABSI Predicted Cases,HAI_1_ELIGCASES,No Different than U.S. National Benchmark,11.376,,10/1/12,9/30/13
+H100616,150011,CLABSI Observed Cases,HAI_1_NUMERATOR,No Different than U.S. National Benchmark,7,,10/1/12,9/30/13
+H100617,150012,Central line-associated blood stream infections (CLABSI),HAI_1_SIR,No Different than U.S. National Benchmark,0.615,,10/1/12,9/30/13
+H100618,150015,CAUTI Lower Confidence Limit,HAI_2_CI_LOWER,Better than the U.S. National Benchmark,0.191,,10/1/12,9/30/13
+H100619,150017,CAUTI Upper Confidence Limit,HAI_2_CI_UPPER,Better than the U.S. National Benchmark,0.978,,10/1/12,9/30/13
+H10062,150018,MRSA Patient Days,HAI_5_DOPC_DAYS,NULL,4292,13 - Results cannot be calculated for this reporting period.,1/1/13,9/30/13
+H100620,150021,CAUTI Urinary Catheter Days,HAI_2_DOPC_DAYS,Better than the U.S. National Benchmark,5511,,10/1/12,9/30/13
+H100621,150022,CAUTI Predicted Cases,HAI_2_ELIGCASES,Better than the U.S. National Benchmark,12.758,,10/1/12,9/30/13
+H100622,150023,CAUTI Observed Cases,HAI_2_NUMERATOR,Better than the U.S. National Benchmark,6,,10/1/12,9/30/13
+H100623,150024,Catheter-Associated Urinary Tract Infections (CAUTI),HAI_2_SIR,Better than the U.S. National Benchmark,0.47,,10/1/12,9/30/13
+H100624,150026,SSI: Colon Lower Confidence Limit,HAI_3_CI_LOWER,No Different than U.S. National Benchmark,0.111,,10/1/12,9/30/13
+H100625,150030,SSI: Colon Upper Confidence Limit,HAI_3_CI_UPPER,No Different than U.S. National Benchmark,2.178,,10/1/12,9/30/13
+H100626,150034,"SSI: Colon, Number of Procedures",HAI_3_DOPC_DAYS,No Different than U.S. National Benchmark,102,,10/1/12,9/30/13
+H100627,150035,SSI: Colon Predicted Cases,HAI_3_ELIGCASES,No Different than U.S. National Benchmark,3.034,,10/1/12,9/30/13
+H100628,150037,SSI: Colon Observed Cases,HAI_3_NUMERATOR,No Different than U.S. National Benchmark,2,,10/1/12,9/30/13
+H100629,150038,Surgical Site Infection from colon surgery (SSI: Colon),HAI_3_SIR,No Different than U.S. National Benchmark,0.659,,10/1/12,9/30/13
+H10063,15003,MRSA Predicted Cases,HAI_5_ELIGCASES,NULL,0.154,13 - Results cannot be calculated for this reporting period.,1/1/13,9/30/13
+H100630,150042,SSI: Abdominal Lower Confidence Limit,HAI_4_CI_LOWER,No Different than U.S. National Benchmark,0,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100631,150044,SSI: Abdominal Upper Confidence Limit,HAI_4_CI_UPPER,No Different than U.S. National Benchmark,1.985,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100632,150045,"SSI: Abdominal, Number of Procedures",HAI_4_DOPC_DAYS,No Different than U.S. National Benchmark,194,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100633,150046,SSI: Abdominal Predicted Cases,HAI_4_ELIGCASES,No Different than U.S. National Benchmark,1.509,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100634,150047,SSI: Abdominal Observed Cases,HAI_4_NUMERATOR,No Different than U.S. National Benchmark,0,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100635,150048,Surgical Site Infection from abdominal hysterectomy (SSI: Hysterectomy),HAI_4_SIR,No Different than U.S. National Benchmark,0,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100636,15004,MRSA Lower Confidence Limit,HAI_5_CI_LOWER,No Different than U.S. National Benchmark,0.417,,1/1/13,9/30/13
+H100637,150051,MRSA Upper Confidence Limit,HAI_5_CI_UPPER,No Different than U.S. National Benchmark,1.599,,1/1/13,9/30/13
+H100638,150056,MRSA Patient Days,HAI_5_DOPC_DAYS,No Different than U.S. National Benchmark,123370,,1/1/13,9/30/13
+H100639,150057,MRSA Predicted Cases,HAI_5_ELIGCASES,No Different than U.S. National Benchmark,11.498,,1/1/13,9/30/13
+H10064,150058,MRSA Observed Cases,HAI_5_NUMERATOR,NULL,0,13 - Results cannot be calculated for this reporting period.,1/1/13,9/30/13
+H100640,150059,MRSA Observed Cases,HAI_5_NUMERATOR,No Different than U.S. National Benchmark,10,,1/1/13,9/30/13
+H100641,150061,Methicillin-resistant Staphylococcus Aureus (MRSA) Blood Laboratory-identified Events (Bloodstream infections),HAI_5_SIR,No Different than U.S. National Benchmark,0.87,,1/1/13,9/30/13
+H100642,150064,C.diff Lower Confidence Limit,HAI_6_CI_LOWER,Better than the U.S. National Benchmark,0.32,,1/1/13,9/30/13
+H100643,150065,C.diff Upper Confidence Limit,HAI_6_CI_UPPER,Better than the U.S. National Benchmark,0.595,,1/1/13,9/30/13
+H100644,150069,C.diff Patient Days,HAI_6_DOPC_DAYS,Better than the U.S. National Benchmark,119926,,1/1/13,9/30/13
+H100645,150072,C.diff Predicted Cases,HAI_6_ELIGCASES,Better than the U.S. National Benchmark,97.322,,1/1/13,9/30/13
+H100646,150074,C.diff Observed Cases,HAI_6_NUMERATOR,Better than the U.S. National Benchmark,43,,1/1/13,9/30/13
+H100647,150075,Clostridium difficile (C.diff.) Laboratory-identified Events (Intestinal infections),HAI_6_SIR,Better than the U.S. National Benchmark,0.442,,1/1/13,9/30/13
+H100648,150076,CLABSI Lower Confidence Limit,HAI_1_CI_LOWER,No Different than U.S. National Benchmark,0.028,,10/1/12,9/30/13
+H100649,150082,CLABSI Upper Confidence Limit,HAI_1_CI_UPPER,No Different than U.S. National Benchmark,2.796,,10/1/12,9/30/13
+H10065,150084,Methicillin-resistant Staphylococcus Aureus (MRSA) Blood Laboratory-identified Events (Bloodstream infections),HAI_5_SIR,NULL,NULL,13 - Results cannot be calculated for this reporting period.,1/1/13,9/30/13
+H100650,150086,CLABSI Central Line Days,HAI_1_DOPC_DAYS,No Different than U.S. National Benchmark,1175,,10/1/12,9/30/13
+H100651,150088,CLABSI Predicted Cases,HAI_1_ELIGCASES,No Different than U.S. National Benchmark,1.764,,10/1/12,9/30/13
+H100652,150089,CLABSI Observed Cases,HAI_1_NUMERATOR,No Different than U.S. National Benchmark,1,,10/1/12,9/30/13
+H100653,150090,Central line-associated blood stream infections (CLABSI),HAI_1_SIR,No Different than U.S. National Benchmark,0.567,,10/1/12,9/30/13
+H100654,150091,CAUTI Lower Confidence Limit,HAI_2_CI_LOWER,No Different than U.S. National Benchmark,0,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100655,150097,CAUTI Upper Confidence Limit,HAI_2_CI_UPPER,No Different than U.S. National Benchmark,1.734,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100656,150100,CAUTI Urinary Catheter Days,HAI_2_DOPC_DAYS,No Different than U.S. National Benchmark,1329,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100657,150101,CAUTI Predicted Cases,HAI_2_ELIGCASES,No Different than U.S. National Benchmark,1.728,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100658,150102,CAUTI Observed Cases,HAI_2_NUMERATOR,No Different than U.S. National Benchmark,0,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H100659,150104,Catheter-Associated Urinary Tract Infections (CAUTI),HAI_2_SIR,No Different than U.S. National Benchmark,0,8 - The lower limit of the confidence interval cannot be calculated if the number of observed infections equals zero.,10/1/12,9/30/13
+H10066,150109,C.diff Lower Confidence Limit,HAI_6_CI_LOWER,No Different than U.S. National Benchmark,0.528,,1/1/13,9/30/13
+H100660,150112,SSI: Colon Lower Confidence Limit,HAI_3_CI_LOWER,No Different than U.S. National Benchmark,0.219,,10/1/12,9/30/13
+H100661,150113,SSI: Colon Upper Confidence Limit,HAI_3_CI_UPPER,No Different than U.S. National Benchmark,4.31,,10/1/12,9/30/13
+H100662,150115,"SSI: Colon, Number of Procedures",HAI_3_DOPC_DAYS,No Different than U.S. National Benchmark,50,,10/1/12,9/30/13
+H100663,150125,SSI: Colon Predicted Cases,HAI_3_ELIGCASES,No Different than U.S. National Benchmark,1.533,,10/1/12,9/30/13
+H100664,150126,SSI: Colon Observed Cases,HAI_3_NUMERATOR,No Different than U.S. National Benchmark,2,,10/1/12,9/30/13
+H100665,150128,Surgical Site Infection from colon surgery (SSI: Colon),HAI_3_SIR,No Different than U.S. National Benchmark,1.305,,10/1/12,9/30/13
+H100666,150129,SSI: Abdominal Lower Confidence Limit,HAI_4_CI_LOWER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100667,150133,SSI: Abdominal Upper Confidence Limit,HAI_4_CI_UPPER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100668,150146,"SSI: Abdominal, Number of Procedures",HAI_4_DOPC_DAYS,NULL,45,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100669,150149,SSI: Abdominal Predicted Cases,HAI_4_ELIGCASES,NULL,0.511,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H10067,150150,C.diff Upper Confidence Limit,HAI_6_CI_UPPER,No Different than U.S. National Benchmark,4.964,,1/1/13,9/30/13
+H100670,150153,SSI: Abdominal Observed Cases,HAI_4_NUMERATOR,NULL,1,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100671,150154,Surgical Site Infection from abdominal hysterectomy (SSI: Hysterectomy),HAI_4_SIR,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100672,150157,MRSA Lower Confidence Limit,HAI_5_CI_LOWER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,1/1/13,9/30/13
+H100673,150158,MRSA Upper Confidence Limit,HAI_5_CI_UPPER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,1/1/13,9/30/13
+H100674,150160,MRSA Patient Days,HAI_5_DOPC_DAYS,NULL,16767,13 - Results cannot be calculated for this reporting period.,1/1/13,9/30/13
+H100675,150161,MRSA Predicted Cases,HAI_5_ELIGCASES,NULL,0.602,13 - Results cannot be calculated for this reporting period.,1/1/13,9/30/13
+H100676,150162,MRSA Observed Cases,HAI_5_NUMERATOR,NULL,0,13 - Results cannot be calculated for this reporting period.,1/1/13,9/30/13
+H100677,150163,Methicillin-resistant Staphylococcus Aureus (MRSA) Blood Laboratory-identified Events (Bloodstream infections),HAI_5_SIR,NULL,NULL,13 - Results cannot be calculated for this reporting period.,1/1/13,9/30/13
+H100678,150164,C.diff Lower Confidence Limit,HAI_6_CI_LOWER,No Different than U.S. National Benchmark,0.251,,1/1/13,9/30/13
+H100679,150165,C.diff Upper Confidence Limit,HAI_6_CI_UPPER,No Different than U.S. National Benchmark,1.289,,1/1/13,9/30/13
+H10068,150166,C.diff Patient Days,HAI_6_DOPC_DAYS,No Different than U.S. National Benchmark,3779,,1/1/13,9/30/13
+H100680,150167,C.diff Patient Days,HAI_6_DOPC_DAYS,No Different than U.S. National Benchmark,15833,,1/1/13,9/30/13
+H100681,150168,C.diff Predicted Cases,HAI_6_ELIGCASES,No Different than U.S. National Benchmark,11.193,,1/1/13,9/30/13
+H100682,150169,C.diff Observed Cases,HAI_6_NUMERATOR,No Different than U.S. National Benchmark,7,,1/1/13,9/30/13
+H100683,150172,Clostridium difficile (C.diff.) Laboratory-identified Events (Intestinal infections),HAI_6_SIR,No Different than U.S. National Benchmark,0.625,,1/1/13,9/30/13
+H100684,150173,CLABSI Lower Confidence Limit,HAI_1_CI_LOWER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100685,150175,CLABSI Upper Confidence Limit,HAI_1_CI_UPPER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100686,150176,CLABSI Central Line Days,HAI_1_DOPC_DAYS,NULL,96,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100687,150177,CLABSI Predicted Cases,HAI_1_ELIGCASES,NULL,0.144,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100688,150179,CLABSI Observed Cases,HAI_1_NUMERATOR,NULL,0,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100689,150180,Central line-associated blood stream infections (CLABSI),HAI_1_SIR,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H10069,150181,C.diff Predicted Cases,HAI_6_ELIGCASES,No Different than U.S. National Benchmark,2.063,,1/1/13,9/30/13
+H100690,150182,CAUTI Lower Confidence Limit,HAI_2_CI_LOWER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100691,151300,CAUTI Upper Confidence Limit,HAI_2_CI_UPPER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100692,151301,CAUTI Urinary Catheter Days,HAI_2_DOPC_DAYS,NULL,570,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100693,151302,CAUTI Predicted Cases,HAI_2_ELIGCASES,NULL,0.74,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100694,151303,CAUTI Observed Cases,HAI_2_NUMERATOR,NULL,0,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100695,151304,Catheter-Associated Urinary Tract Infections (CAUTI),HAI_2_SIR,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100696,151305,SSI: Colon Lower Confidence Limit,HAI_3_CI_LOWER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100697,151306,SSI: Colon Upper Confidence Limit,HAI_3_CI_UPPER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100698,151307,"SSI: Colon, Number of Procedures",HAI_3_DOPC_DAYS,NULL,8,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100699,151308,SSI: Colon Predicted Cases,HAI_3_ELIGCASES,NULL,0.285,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H1007,151309,CAUTI Upper Confidence Limit,HAI_2_CI_UPPER,Worse than the U.S. National Benchmark,3.587,,10/1/12,9/30/13
+H10070,151310,C.diff Observed Cases,HAI_6_NUMERATOR,No Different than U.S. National Benchmark,4,,1/1/13,9/30/13
+H100700,151311,SSI: Colon Observed Cases,HAI_3_NUMERATOR,NULL,0,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100701,151312,Surgical Site Infection from colon surgery (SSI: Colon),HAI_3_SIR,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100702,151313,SSI: Abdominal Lower Confidence Limit,HAI_4_CI_LOWER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100703,151314,SSI: Abdominal Upper Confidence Limit,HAI_4_CI_UPPER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100704,151315,"SSI: Abdominal, Number of Procedures",HAI_4_DOPC_DAYS,NULL,18,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100705,151316,SSI: Abdominal Predicted Cases,HAI_4_ELIGCASES,NULL,0.158,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100706,151317,SSI: Abdominal Observed Cases,HAI_4_NUMERATOR,NULL,1,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100707,151318,Surgical Site Infection from abdominal hysterectomy (SSI: Hysterectomy),HAI_4_SIR,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100708,151319,MRSA Lower Confidence Limit,HAI_5_CI_LOWER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,1/1/13,9/30/13
+H100709,151320,MRSA Upper Confidence Limit,HAI_5_CI_UPPER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,1/1/13,9/30/13
+H10071,151322,Clostridium difficile (C.diff.) Laboratory-identified Events (Intestinal infections),HAI_6_SIR,No Different than U.S. National Benchmark,1.939,,1/1/13,9/30/13
+H100710,151323,MRSA Patient Days,HAI_5_DOPC_DAYS,NULL,5115,13 - Results cannot be calculated for this reporting period.,1/1/13,9/30/13
+H100711,151324,MRSA Predicted Cases,HAI_5_ELIGCASES,NULL,0.183,13 - Results cannot be calculated for this reporting period.,1/1/13,9/30/13
+H100712,151325,MRSA Observed Cases,HAI_5_NUMERATOR,NULL,0,13 - Results cannot be calculated for this reporting period.,1/1/13,9/30/13
+H100713,151326,Methicillin-resistant Staphylococcus Aureus (MRSA) Blood Laboratory-identified Events (Bloodstream infections),HAI_5_SIR,NULL,NULL,13 - Results cannot be calculated for this reporting period.,1/1/13,9/30/13
+H100714,151327,C.diff Lower Confidence Limit,HAI_6_CI_LOWER,No Different than U.S. National Benchmark,0.008,,1/1/13,9/30/13
+H100715,151328,C.diff Upper Confidence Limit,HAI_6_CI_UPPER,No Different than U.S. National Benchmark,1.738,,1/1/13,9/30/13
+H100716,151329,C.diff Patient Days,HAI_6_DOPC_DAYS,No Different than U.S. National Benchmark,4667,,1/1/13,9/30/13
+H100717,151330,C.diff Predicted Cases,HAI_6_ELIGCASES,No Different than U.S. National Benchmark,3.206,,1/1/13,9/30/13
+H100718,151331,C.diff Observed Cases,HAI_6_NUMERATOR,No Different than U.S. National Benchmark,1,,1/1/13,9/30/13
+H100719,151332,Clostridium difficile (C.diff.) Laboratory-identified Events (Intestinal infections),HAI_6_SIR,No Different than U.S. National Benchmark,0.312,,1/1/13,9/30/13
+H10072,151333,CLABSI Lower Confidence Limit,HAI_1_CI_LOWER,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100720,151334,CLABSI Lower Confidence Limit,HAI_1_CI_LOWER,Better than the U.S. National Benchmark,0.007,,10/1/12,9/30/13
+H100721,151335,CLABSI Upper Confidence Limit,HAI_1_CI_UPPER,Better than the U.S. National Benchmark,0.702,,10/1/12,9/30/13
+H100722,160001,CLABSI Central Line Days,HAI_1_DOPC_DAYS,Better than the U.S. National Benchmark,4800,,10/1/12,9/30/13
+H100723,160005,CLABSI Predicted Cases,HAI_1_ELIGCASES,Better than the U.S. National Benchmark,7.024,,10/1/12,9/30/13
+H100724,160008,CLABSI Observed Cases,HAI_1_NUMERATOR,Better than the U.S. National Benchmark,1,,10/1/12,9/30/13
+H100725,160013,Central line-associated blood stream infections (CLABSI),HAI_1_SIR,Better than the U.S. National Benchmark,0.142,,10/1/12,9/30/13
+H100726,160016,CAUTI Lower Confidence Limit,HAI_2_CI_LOWER,Worse than the U.S. National Benchmark,3.276,,10/1/12,9/30/13
+H100727,160024,CAUTI Upper Confidence Limit,HAI_2_CI_UPPER,Worse than the U.S. National Benchmark,6.432,,10/1/12,9/30/13
+H100728,160028,CAUTI Urinary Catheter Days,HAI_2_DOPC_DAYS,Worse than the U.S. National Benchmark,5288,,10/1/12,9/30/13
+H100729,160029,CAUTI Predicted Cases,HAI_2_ELIGCASES,Worse than the U.S. National Benchmark,7.303,,10/1/12,9/30/13
+H10073,160030,CLABSI Upper Confidence Limit,HAI_1_CI_UPPER,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100730,160032,CAUTI Observed Cases,HAI_2_NUMERATOR,Worse than the U.S. National Benchmark,34,,10/1/12,9/30/13
+H100731,160033,Catheter-Associated Urinary Tract Infections (CAUTI),HAI_2_SIR,Worse than the U.S. National Benchmark,4.656,,10/1/12,9/30/13
+H100732,16003,SSI: Colon Lower Confidence Limit,HAI_3_CI_LOWER,No Different than U.S. National Benchmark,0.332,,10/1/12,9/30/13
+H100733,160040,SSI: Colon Upper Confidence Limit,HAI_3_CI_UPPER,No Different than U.S. National Benchmark,2.52,,10/1/12,9/30/13
+H100734,160045,"SSI: Colon, Number of Procedures",HAI_3_DOPC_DAYS,No Different than U.S. National Benchmark,120,,10/1/12,9/30/13
+H100735,160047,SSI: Colon Predicted Cases,HAI_3_ELIGCASES,No Different than U.S. National Benchmark,3.829,,10/1/12,9/30/13
+H100736,16004,SSI: Colon Observed Cases,HAI_3_NUMERATOR,No Different than U.S. National Benchmark,4,,10/1/12,9/30/13
+H100737,160057,Surgical Site Infection from colon surgery (SSI: Colon),HAI_3_SIR,No Different than U.S. National Benchmark,1.045,,10/1/12,9/30/13
+H100738,160058,SSI: Abdominal Lower Confidence Limit,HAI_4_CI_LOWER,No Different than U.S. National Benchmark,0.033,,10/1/12,9/30/13
+H100739,160064,SSI: Abdominal Upper Confidence Limit,HAI_4_CI_UPPER,No Different than U.S. National Benchmark,3.232,,10/1/12,9/30/13
+H10074,160067,CLABSI Central Line Days,HAI_1_DOPC_DAYS,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100740,160069,"SSI: Abdominal, Number of Procedures",HAI_4_DOPC_DAYS,No Different than U.S. National Benchmark,196,,10/1/12,9/30/13
+H100741,160079,SSI: Abdominal Predicted Cases,HAI_4_ELIGCASES,No Different than U.S. National Benchmark,1.526,,10/1/12,9/30/13
+H100742,160080,SSI: Abdominal Observed Cases,HAI_4_NUMERATOR,No Different than U.S. National Benchmark,1,,10/1/12,9/30/13
+H100743,160082,Surgical Site Infection from abdominal hysterectomy (SSI: Hysterectomy),HAI_4_SIR,No Different than U.S. National Benchmark,0.655,,10/1/12,9/30/13
+H100744,160083,MRSA Lower Confidence Limit,HAI_5_CI_LOWER,No Different than U.S. National Benchmark,0.074,,1/1/13,9/30/13
+H100745,160089,MRSA Upper Confidence Limit,HAI_5_CI_UPPER,No Different than U.S. National Benchmark,2.211,,1/1/13,9/30/13
+H100746,160101,MRSA Patient Days,HAI_5_DOPC_DAYS,No Different than U.S. National Benchmark,77640,,1/1/13,9/30/13
+H100747,160104,MRSA Predicted Cases,HAI_5_ELIGCASES,No Different than U.S. National Benchmark,3.268,,1/1/13,9/30/13
+H100748,160110,MRSA Observed Cases,HAI_5_NUMERATOR,No Different than U.S. National Benchmark,2,,1/1/13,9/30/13
+H100749,160112,Methicillin-resistant Staphylococcus Aureus (MRSA) Blood Laboratory-identified Events (Bloodstream infections),HAI_5_SIR,No Different than U.S. National Benchmark,0.612,,1/1/13,9/30/13
+H10075,160117,CLABSI Predicted Cases,HAI_1_ELIGCASES,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100750,160122,C.diff Lower Confidence Limit,HAI_6_CI_LOWER,No Different than U.S. National Benchmark,0.591,,1/1/13,9/30/13
+H100751,160124,C.diff Upper Confidence Limit,HAI_6_CI_UPPER,No Different than U.S. National Benchmark,1.076,,1/1/13,9/30/13
+H100752,160146,C.diff Patient Days,HAI_6_DOPC_DAYS,No Different than U.S. National Benchmark,70171,,1/1/13,9/30/13
+H100753,160147,C.diff Predicted Cases,HAI_6_ELIGCASES,No Different than U.S. National Benchmark,57.017,,1/1/13,9/30/13
+H100754,160153,C.diff Observed Cases,HAI_6_NUMERATOR,No Different than U.S. National Benchmark,46,,1/1/13,9/30/13
+H100755,161300,Clostridium difficile (C.diff.) Laboratory-identified Events (Intestinal infections),HAI_6_SIR,No Different than U.S. National Benchmark,0.807,,1/1/13,9/30/13
+H100756,161301,CLABSI Lower Confidence Limit,HAI_1_CI_LOWER,No Different than U.S. National Benchmark,0.544,,10/1/12,9/30/13
+H100757,161302,CLABSI Upper Confidence Limit,HAI_1_CI_UPPER,No Different than U.S. National Benchmark,2.462,,10/1/12,9/30/13
+H100758,161303,CLABSI Central Line Days,HAI_1_DOPC_DAYS,No Different than U.S. National Benchmark,3055,,10/1/12,9/30/13
+H100759,161304,CLABSI Predicted Cases,HAI_1_ELIGCASES,No Different than U.S. National Benchmark,5.625,,10/1/12,9/30/13
+H10076,161305,CLABSI Observed Cases,HAI_1_NUMERATOR,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100760,161306,CLABSI Observed Cases,HAI_1_NUMERATOR,No Different than U.S. National Benchmark,7,,10/1/12,9/30/13
+H100761,161307,Central line-associated blood stream infections (CLABSI),HAI_1_SIR,No Different than U.S. National Benchmark,1.244,,10/1/12,9/30/13
+H100762,161308,CAUTI Lower Confidence Limit,HAI_2_CI_LOWER,No Different than U.S. National Benchmark,0.499,,10/1/12,9/30/13
+H100763,161309,CAUTI Upper Confidence Limit,HAI_2_CI_UPPER,No Different than U.S. National Benchmark,2.042,,10/1/12,9/30/13
+H100764,161310,CAUTI Urinary Catheter Days,HAI_2_DOPC_DAYS,No Different than U.S. National Benchmark,4169,,10/1/12,9/30/13
+H100765,161311,CAUTI Predicted Cases,HAI_2_ELIGCASES,No Different than U.S. National Benchmark,7.439,,10/1/12,9/30/13
+H100766,161312,CAUTI Observed Cases,HAI_2_NUMERATOR,No Different than U.S. National Benchmark,8,,10/1/12,9/30/13
+H100767,161313,Catheter-Associated Urinary Tract Infections (CAUTI),HAI_2_SIR,No Different than U.S. National Benchmark,1.075,,10/1/12,9/30/13
+H100768,161314,SSI: Colon Lower Confidence Limit,HAI_3_CI_LOWER,No Different than U.S. National Benchmark,0.076,,10/1/12,9/30/13
+H100769,161315,SSI: Colon Upper Confidence Limit,HAI_3_CI_UPPER,No Different than U.S. National Benchmark,1.504,,10/1/12,9/30/13
+H10077,161316,Central line-associated blood stream infections (CLABSI),HAI_1_SIR,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100770,161317,"SSI: Colon, Number of Procedures",HAI_3_DOPC_DAYS,No Different than U.S. National Benchmark,134,,10/1/12,9/30/13
+H100771,161318,SSI: Colon Predicted Cases,HAI_3_ELIGCASES,No Different than U.S. National Benchmark,4.393,,10/1/12,9/30/13
+H100772,161319,SSI: Colon Observed Cases,HAI_3_NUMERATOR,No Different than U.S. National Benchmark,2,,10/1/12,9/30/13
+H100773,161320,Surgical Site Infection from colon surgery (SSI: Colon),HAI_3_SIR,No Different than U.S. National Benchmark,0.455,,10/1/12,9/30/13
+H100774,161321,SSI: Abdominal Lower Confidence Limit,HAI_4_CI_LOWER,No Different than U.S. National Benchmark,0.232,,10/1/12,9/30/13
+H100775,161322,SSI: Abdominal Upper Confidence Limit,HAI_4_CI_UPPER,No Different than U.S. National Benchmark,4.567,,10/1/12,9/30/13
+H100776,161323,"SSI: Abdominal, Number of Procedures",HAI_4_DOPC_DAYS,No Different than U.S. National Benchmark,143,,10/1/12,9/30/13
+H100777,161324,SSI: Abdominal Predicted Cases,HAI_4_ELIGCASES,No Different than U.S. National Benchmark,1.447,,10/1/12,9/30/13
+H100778,161325,SSI: Abdominal Observed Cases,HAI_4_NUMERATOR,No Different than U.S. National Benchmark,2,,10/1/12,9/30/13
+H100779,161326,Surgical Site Infection from abdominal hysterectomy (SSI: Hysterectomy),HAI_4_SIR,No Different than U.S. National Benchmark,1.382,,10/1/12,9/30/13
+H10078,161327,CAUTI Lower Confidence Limit,HAI_2_CI_LOWER,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100780,161328,MRSA Lower Confidence Limit,HAI_5_CI_LOWER,No Different than U.S. National Benchmark,0.01,,1/1/13,9/30/13
+H100781,161329,MRSA Upper Confidence Limit,HAI_5_CI_UPPER,No Different than U.S. National Benchmark,2.118,,1/1/13,9/30/13
+H100782,161330,MRSA Patient Days,HAI_5_DOPC_DAYS,No Different than U.S. National Benchmark,61317,,1/1/13,9/30/13
+H100783,161331,MRSA Predicted Cases,HAI_5_ELIGCASES,No Different than U.S. National Benchmark,2.63,,1/1/13,9/30/13
+H100784,161332,MRSA Observed Cases,HAI_5_NUMERATOR,No Different than U.S. National Benchmark,1,,1/1/13,9/30/13
+H100785,161333,Methicillin-resistant Staphylococcus Aureus (MRSA) Blood Laboratory-identified Events (Bloodstream infections),HAI_5_SIR,No Different than U.S. National Benchmark,0.38,,1/1/13,9/30/13
+H100786,161334,C.diff Lower Confidence Limit,HAI_6_CI_LOWER,Worse than the U.S. National Benchmark,1.697,,1/1/13,9/30/13
+H100787,161335,C.diff Upper Confidence Limit,HAI_6_CI_UPPER,Worse than the U.S. National Benchmark,2.581,,1/1/13,9/30/13
+H100788,161336,C.diff Patient Days,HAI_6_DOPC_DAYS,Worse than the U.S. National Benchmark,54464,,1/1/13,9/30/13
+H100789,161337,C.diff Predicted Cases,HAI_6_ELIGCASES,Worse than the U.S. National Benchmark,43.709,,1/1/13,9/30/13
+H10079,161338,CAUTI Upper Confidence Limit,HAI_2_CI_UPPER,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100790,161339,C.diff Observed Cases,HAI_6_NUMERATOR,Worse than the U.S. National Benchmark,92,,1/1/13,9/30/13
+H100791,161340,Clostridium difficile (C.diff.) Laboratory-identified Events (Intestinal infections),HAI_6_SIR,Worse than the U.S. National Benchmark,2.105,,1/1/13,9/30/13
+H100792,161341,CLABSI Lower Confidence Limit,HAI_1_CI_LOWER,No Different than U.S. National Benchmark,0.135,,10/1/12,9/30/13
+H100793,161342,CLABSI Upper Confidence Limit,HAI_1_CI_UPPER,No Different than U.S. National Benchmark,2.661,,10/1/12,9/30/13
+H100794,161343,CLABSI Central Line Days,HAI_1_DOPC_DAYS,No Different than U.S. National Benchmark,1454,,10/1/12,9/30/13
+H100795,161344,CLABSI Predicted Cases,HAI_1_ELIGCASES,No Different than U.S. National Benchmark,2.483,,10/1/12,9/30/13
+H100796,161345,CLABSI Observed Cases,HAI_1_NUMERATOR,No Different than U.S. National Benchmark,2,,10/1/12,9/30/13
+H100797,161346,Central line-associated blood stream infections (CLABSI),HAI_1_SIR,No Different than U.S. National Benchmark,0.805,,10/1/12,9/30/13
+H100798,161347,CAUTI Lower Confidence Limit,HAI_2_CI_LOWER,No Different than U.S. National Benchmark,0.723,,10/1/12,9/30/13
+H100799,161348,CAUTI Upper Confidence Limit,HAI_2_CI_UPPER,No Different than U.S. National Benchmark,3.268,,10/1/12,9/30/13
+H1008,161349,CAUTI Urinary Catheter Days,HAI_2_DOPC_DAYS,Worse than the U.S. National Benchmark,7611,,10/1/12,9/30/13
+H10080,161350,CAUTI Urinary Catheter Days,HAI_2_DOPC_DAYS,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100800,161351,CAUTI Urinary Catheter Days,HAI_2_DOPC_DAYS,No Different than U.S. National Benchmark,2674,,10/1/12,9/30/13
+H100801,161352,CAUTI Predicted Cases,HAI_2_ELIGCASES,No Different than U.S. National Benchmark,4.237,,10/1/12,9/30/13
+H100802,161353,CAUTI Observed Cases,HAI_2_NUMERATOR,No Different than U.S. National Benchmark,7,,10/1/12,9/30/13
+H100803,161354,Catheter-Associated Urinary Tract Infections (CAUTI),HAI_2_SIR,No Different than U.S. National Benchmark,1.652,,10/1/12,9/30/13
+H100804,161355,SSI: Colon Lower Confidence Limit,HAI_3_CI_LOWER,No Different than U.S. National Benchmark,0.72,,10/1/12,9/30/13
+H100805,161356,SSI: Colon Upper Confidence Limit,HAI_3_CI_UPPER,No Different than U.S. National Benchmark,3.697,,10/1/12,9/30/13
+H100806,161357,"SSI: Colon, Number of Procedures",HAI_3_DOPC_DAYS,No Different than U.S. National Benchmark,103,,10/1/12,9/30/13
+H100807,161358,SSI: Colon Predicted Cases,HAI_3_ELIGCASES,No Different than U.S. National Benchmark,3.376,,10/1/12,9/30/13
+H100808,161359,SSI: Colon Observed Cases,HAI_3_NUMERATOR,No Different than U.S. National Benchmark,6,,10/1/12,9/30/13
+H100809,161360,Surgical Site Infection from colon surgery (SSI: Colon),HAI_3_SIR,No Different than U.S. National Benchmark,1.777,,10/1/12,9/30/13
+H10081,161361,CAUTI Predicted Cases,HAI_2_ELIGCASES,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100810,161362,SSI: Abdominal Lower Confidence Limit,HAI_4_CI_LOWER,No Different than U.S. National Benchmark,0.213,,10/1/12,9/30/13
+H100811,161363,SSI: Abdominal Upper Confidence Limit,HAI_4_CI_UPPER,No Different than U.S. National Benchmark,4.201,,10/1/12,9/30/13
+H100812,161364,"SSI: Abdominal, Number of Procedures",HAI_4_DOPC_DAYS,No Different than U.S. National Benchmark,208,,10/1/12,9/30/13
+H100813,161365,SSI: Abdominal Predicted Cases,HAI_4_ELIGCASES,No Different than U.S. National Benchmark,1.573,,10/1/12,9/30/13
+H100814,161366,SSI: Abdominal Observed Cases,HAI_4_NUMERATOR,No Different than U.S. National Benchmark,2,,10/1/12,9/30/13
+H100815,161367,Surgical Site Infection from abdominal hysterectomy (SSI: Hysterectomy),HAI_4_SIR,No Different than U.S. National Benchmark,1.271,,10/1/12,9/30/13
+H100816,161368,MRSA Lower Confidence Limit,HAI_5_CI_LOWER,No Different than U.S. National Benchmark,0.009,,1/1/13,9/30/13
+H100817,161369,MRSA Upper Confidence Limit,HAI_5_CI_UPPER,No Different than U.S. National Benchmark,2.006,,1/1/13,9/30/13
+H100818,161370,MRSA Patient Days,HAI_5_DOPC_DAYS,No Different than U.S. National Benchmark,56594,,1/1/13,9/30/13
+H100819,161371,MRSA Predicted Cases,HAI_5_ELIGCASES,No Different than U.S. National Benchmark,2.777,,1/1/13,9/30/13
+H10082,161372,CAUTI Observed Cases,HAI_2_NUMERATOR,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100820,161373,MRSA Observed Cases,HAI_5_NUMERATOR,No Different than U.S. National Benchmark,1,,1/1/13,9/30/13
+H100821,161374,Methicillin-resistant Staphylococcus Aureus (MRSA) Blood Laboratory-identified Events (Bloodstream infections),HAI_5_SIR,No Different than U.S. National Benchmark,0.36,,1/1/13,9/30/13
+H100822,161375,C.diff Lower Confidence Limit,HAI_6_CI_LOWER,No Different than U.S. National Benchmark,0.708,,1/1/13,9/30/13
+H100823,161376,C.diff Upper Confidence Limit,HAI_6_CI_UPPER,No Different than U.S. National Benchmark,1.386,,1/1/13,9/30/13
+H100824,161377,C.diff Patient Days,HAI_6_DOPC_DAYS,No Different than U.S. National Benchmark,53576,,1/1/13,9/30/13
+H100825,161378,C.diff Predicted Cases,HAI_6_ELIGCASES,No Different than U.S. National Benchmark,36.804,,1/1/13,9/30/13
+H100826,161379,C.diff Observed Cases,HAI_6_NUMERATOR,No Different than U.S. National Benchmark,37,,1/1/13,9/30/13
+H100827,161380,Clostridium difficile (C.diff.) Laboratory-identified Events (Intestinal infections),HAI_6_SIR,No Different than U.S. National Benchmark,1.005,,1/1/13,9/30/13
+H100828,161381,CLABSI Lower Confidence Limit,HAI_1_CI_LOWER,Better than the U.S. National Benchmark,0.231,,10/1/12,9/30/13
+H100829,170001,CLABSI Upper Confidence Limit,HAI_1_CI_UPPER,Better than the U.S. National Benchmark,0.809,,10/1/12,9/30/13
+H10083,170006,Catheter-Associated Urinary Tract Infections (CAUTI),HAI_2_SIR,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100830,170009,CLABSI Central Line Days,HAI_1_DOPC_DAYS,Better than the U.S. National Benchmark,9552,,10/1/12,9/30/13
+H100831,170010,CLABSI Predicted Cases,HAI_1_ELIGCASES,Better than the U.S. National Benchmark,22.031,,10/1/12,9/30/13
+H100832,170012,CLABSI Observed Cases,HAI_1_NUMERATOR,Better than the U.S. National Benchmark,10,,10/1/12,9/30/13
+H100833,170013,Central line-associated blood stream infections (CLABSI),HAI_1_SIR,Better than the U.S. National Benchmark,0.454,,10/1/12,9/30/13
+H100834,170014,CAUTI Lower Confidence Limit,HAI_2_CI_LOWER,Worse than the U.S. National Benchmark,1.135,,10/1/12,9/30/13
+H100835,170016,CAUTI Upper Confidence Limit,HAI_2_CI_UPPER,Worse than the U.S. National Benchmark,1.979,,10/1/12,9/30/13
+H100836,170017,CAUTI Urinary Catheter Days,HAI_2_DOPC_DAYS,Worse than the U.S. National Benchmark,12556,,10/1/12,9/30/13
+H100837,170020,CAUTI Predicted Cases,HAI_2_ELIGCASES,Worse than the U.S. National Benchmark,33.046,,10/1/12,9/30/13
+H100838,170023,CAUTI Observed Cases,HAI_2_NUMERATOR,Worse than the U.S. National Benchmark,50,,10/1/12,9/30/13
+H100839,170027,Catheter-Associated Urinary Tract Infections (CAUTI),HAI_2_SIR,Worse than the U.S. National Benchmark,1.513,,10/1/12,9/30/13
+H10084,170039,SSI: Colon Lower Confidence Limit,HAI_3_CI_LOWER,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100840,170040,SSI: Colon Lower Confidence Limit,HAI_3_CI_LOWER,No Different than U.S. National Benchmark,0.286,,10/1/12,9/30/13
+H100841,170049,SSI: Colon Upper Confidence Limit,HAI_3_CI_UPPER,No Different than U.S. National Benchmark,1.728,,10/1/12,9/30/13
+H100842,170058,"SSI: Colon, Number of Procedures",HAI_3_DOPC_DAYS,No Different than U.S. National Benchmark,220,,10/1/12,9/30/13
+H100843,170068,SSI: Colon Predicted Cases,HAI_3_ELIGCASES,No Different than U.S. National Benchmark,6.412,,10/1/12,9/30/13
+H100844,17006,SSI: Colon Observed Cases,HAI_3_NUMERATOR,No Different than U.S. National Benchmark,5,,10/1/12,9/30/13
+H100845,170074,Surgical Site Infection from colon surgery (SSI: Colon),HAI_3_SIR,No Different than U.S. National Benchmark,0.78,,10/1/12,9/30/13
+H100846,170075,SSI: Abdominal Lower Confidence Limit,HAI_4_CI_LOWER,No Different than U.S. National Benchmark,0.573,,10/1/12,9/30/13
+H100847,170086,SSI: Abdominal Upper Confidence Limit,HAI_4_CI_UPPER,No Different than U.S. National Benchmark,4.352,,10/1/12,9/30/13
+H100848,17008,"SSI: Abdominal, Number of Procedures",HAI_4_DOPC_DAYS,No Different than U.S. National Benchmark,287,,10/1/12,9/30/13
+H100849,170094,SSI: Abdominal Predicted Cases,HAI_4_ELIGCASES,No Different than U.S. National Benchmark,2.217,,10/1/12,9/30/13
+H10085,170103,SSI: Colon Upper Confidence Limit,HAI_3_CI_UPPER,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100850,170104,SSI: Abdominal Observed Cases,HAI_4_NUMERATOR,No Different than U.S. National Benchmark,4,,10/1/12,9/30/13
+H100851,170105,Surgical Site Infection from abdominal hysterectomy (SSI: Hysterectomy),HAI_4_SIR,No Different than U.S. National Benchmark,1.804,,10/1/12,9/30/13
+H100852,170109,MRSA Lower Confidence Limit,HAI_5_CI_LOWER,No Different than U.S. National Benchmark,0.629,,1/1/13,9/30/13
+H100853,170110,MRSA Upper Confidence Limit,HAI_5_CI_UPPER,No Different than U.S. National Benchmark,1.855,,1/1/13,9/30/13
+H100854,170120,MRSA Patient Days,HAI_5_DOPC_DAYS,No Different than U.S. National Benchmark,187929,,1/1/13,9/30/13
+H100855,170122,MRSA Predicted Cases,HAI_5_ELIGCASES,No Different than U.S. National Benchmark,13.336,,1/1/13,9/30/13
+H100856,170123,MRSA Observed Cases,HAI_5_NUMERATOR,No Different than U.S. National Benchmark,15,,1/1/13,9/30/13
+H100857,170133,Methicillin-resistant Staphylococcus Aureus (MRSA) Blood Laboratory-identified Events (Bloodstream infections),HAI_5_SIR,No Different than U.S. National Benchmark,1.125,,1/1/13,9/30/13
+H100858,170137,C.diff Lower Confidence Limit,HAI_6_CI_LOWER,Better than the U.S. National Benchmark,0.281,,1/1/13,9/30/13
+H100859,170142,C.diff Upper Confidence Limit,HAI_6_CI_UPPER,Better than the U.S. National Benchmark,0.502,,1/1/13,9/30/13
+H10086,170145,"SSI: Colon, Number of Procedures",HAI_3_DOPC_DAYS,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100860,170146,C.diff Patient Days,HAI_6_DOPC_DAYS,Better than the U.S. National Benchmark,171052,,1/1/13,9/30/13
+H100861,170150,C.diff Predicted Cases,HAI_6_ELIGCASES,Better than the U.S. National Benchmark,128.922,,1/1/13,9/30/13
+H100862,170166,C.diff Observed Cases,HAI_6_NUMERATOR,Better than the U.S. National Benchmark,49,,1/1/13,9/30/13
+H100863,170175,Clostridium difficile (C.diff.) Laboratory-identified Events (Intestinal infections),HAI_6_SIR,Better than the U.S. National Benchmark,0.38,,1/1/13,9/30/13
+H100864,170176,CLABSI Lower Confidence Limit,HAI_1_CI_LOWER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100865,170182,CLABSI Upper Confidence Limit,HAI_1_CI_UPPER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100866,170183,CLABSI Central Line Days,HAI_1_DOPC_DAYS,NULL,152,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100867,170185,CLABSI Predicted Cases,HAI_1_ELIGCASES,NULL,0.228,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100868,170186,CLABSI Observed Cases,HAI_1_NUMERATOR,NULL,0,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100869,170187,Central line-associated blood stream infections (CLABSI),HAI_1_SIR,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H10087,170188,SSI: Colon Predicted Cases,HAI_3_ELIGCASES,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100870,170190,CAUTI Lower Confidence Limit,HAI_2_CI_LOWER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100871,170191,CAUTI Upper Confidence Limit,HAI_2_CI_UPPER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100872,170194,CAUTI Urinary Catheter Days,HAI_2_DOPC_DAYS,NULL,530,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100873,170196,CAUTI Predicted Cases,HAI_2_ELIGCASES,NULL,0.688,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100874,170197,CAUTI Observed Cases,HAI_2_NUMERATOR,NULL,0,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100875,170198,Catheter-Associated Urinary Tract Infections (CAUTI),HAI_2_SIR,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100876,170199,SSI: Colon Lower Confidence Limit,HAI_3_CI_LOWER,No Different than U.S. National Benchmark,0.049,,10/1/12,9/30/13
+H100877,170200,SSI: Colon Upper Confidence Limit,HAI_3_CI_UPPER,No Different than U.S. National Benchmark,4.84,,10/1/12,9/30/13
+H100878,170203,"SSI: Colon, Number of Procedures",HAI_3_DOPC_DAYS,No Different than U.S. National Benchmark,35,,10/1/12,9/30/13
+H100879,171300,SSI: Colon Predicted Cases,HAI_3_ELIGCASES,No Different than U.S. National Benchmark,1.019,,10/1/12,9/30/13
+H10088,171301,SSI: Colon Observed Cases,HAI_3_NUMERATOR,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100880,171302,SSI: Colon Observed Cases,HAI_3_NUMERATOR,No Different than U.S. National Benchmark,1,,10/1/12,9/30/13
+H100881,171304,Surgical Site Infection from colon surgery (SSI: Colon),HAI_3_SIR,No Different than U.S. National Benchmark,0.981,,10/1/12,9/30/13
+H100882,171306,SSI: Abdominal Lower Confidence Limit,HAI_4_CI_LOWER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100883,171307,SSI: Abdominal Upper Confidence Limit,HAI_4_CI_UPPER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100884,171308,"SSI: Abdominal, Number of Procedures",HAI_4_DOPC_DAYS,NULL,23,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100885,171310,SSI: Abdominal Predicted Cases,HAI_4_ELIGCASES,NULL,0.211,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100886,171312,SSI: Abdominal Observed Cases,HAI_4_NUMERATOR,NULL,0,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100887,171313,Surgical Site Infection from abdominal hysterectomy (SSI: Hysterectomy),HAI_4_SIR,NULL,NULL,13 - Results cannot be calculated for this reporting period.,10/1/12,9/30/13
+H100888,171314,MRSA Lower Confidence Limit,HAI_5_CI_LOWER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,1/1/13,9/30/13
+H100889,171315,MRSA Upper Confidence Limit,HAI_5_CI_UPPER,NULL,NULL,13 - Results cannot be calculated for this reporting period.,1/1/13,9/30/13
+H10089,171316,Surgical Site Infection from colon surgery (SSI: Colon),HAI_3_SIR,NULL,NULL,5 - Results are not available for this reporting period.,10/1/12,9/30/13
+H100890,171317,MRSA Patient Days,HAI_5_DOPC_DAYS,NULL,19685,13 - Results cannot be calculated for this reporting period.,1/1/13,9/30/13
+H100891,171318,MRSA Predicted Cases,HAI_5_ELIGCASES,NULL,0.927,13 - Results cannot be calculated for this reporting period.,1/1/13,9/30/13
+H100892,171319,MRSA Observed Cases,HAI_5_NUMERATOR,NULL,0,13 - Results cannot be calculated for this reporting period.,1/1/13,9/30/13
+H100893,171320,Methicillin-resistant Staphylococcus Aureus (MRSA) Blood Laboratory-identified Events (Bloodstream infections),HAI_5_SIR,NULL,NULL,13 - Results cannot be calculated for this reporting period.,1/1/13,9/30/13
+H100894,171321,C.diff Lower Confidence Limit,HAI_6_CI_LOWER,No Different than U.S. National Benchmark,0.675,,1/1/13,9/30/13
+H100895,171322,C.diff Upper Confidence Limit,HAI_6_CI_UPPER,No Different than U.S. National Benchmark,1.991,,1/1/13,9/30/13
+H100896,171323,C.diff Patient Days,HAI_6_DOPC_DAYS,No Different than U.S. National Benchmark,19027,,1/1/13,9/30/13
+H100897,171324,C.diff Predicted Cases,HAI_6_ELIGCASES,No Different than U.S. National Benchmark,12.429,,1/1/13,9/30/13
+H100898,171325,C.diff Observed Cases,HAI_6_NUMERATOR,No Different than U.S. National Benchmark,15,,1/1/13,9/30/13
+H100899,171327,Clostridium difficile (C.diff.) Laboratory-identified Events (Intestinal infections),HAI_6_SIR,No Different than U.S. National Benchmark,1.207,,1/1/13,9/30/13
+H1009,171328,CAUTI Predicted Cases,HAI_2_ELIGCASES,Worse than the U.S. National Benchmark,9.133,,10/1/12,9/30/13
