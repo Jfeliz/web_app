@@ -1,0 +1,2 @@
+SELECT SUM(total_deaths) AS Sum_of_Deaths_all_Hospitals 
+FROM hosp_info.measures_of_birth_and_death

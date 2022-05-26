@@ -1,0 +1,2 @@
+SELECT MAX(predicted_readmission_rate) AS Max_Readmission_Rate
+FROM hosp_info.readmission_reduction

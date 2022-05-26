@@ -1,0 +1,10 @@
+SELECT hospital_general_information.hospital_name,
+hospital_general_information.city,
+hospital_general_information.state,
+readmission_reduction.number_of_readmissions
+FROM hosp_info.hospital_general_information
+INNER JOIN hosp_info.readmission_reduction 
+ON readmission_reduction.provider_id = hospital_general_information.provider_id
+WHERE number_of_readmissions >= 50
+ORDER BY state
+LIMIT 25
