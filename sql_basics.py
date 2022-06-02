@@ -3,6 +3,7 @@ import streamlit as st
 import pandas_gbq
 import pandas as pd
 import os
+from google.cloud import bigquery
 
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = '/home/mark/Documents/Data_Projects/web-app/web-app-341703-626adddc7d5a.json'
 project_id = 'web-app-341703'
