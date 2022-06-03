@@ -1,11 +1,14 @@
-#app2.py
 import streamlit as st
 import pandas_gbq
 import pandas as pd
-import os
 from google.cloud import bigquery
+from google.oauth2 import service_account
 
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = '/home/mark/Documents/Data_Projects/web-app/web-app-341703-626adddc7d5a.json'
+credentials = service_account.Credentials.from_service_account_info(
+    st.secrets["gcp_service_account"]
+)
+client = bigquery.Client(credentials=credentials)
+
 project_id = 'web-app-341703'
 
 def app():
@@ -209,3 +212,4 @@ def app():
         
                 st.write("This query deletes the record that was originally created. [DELETE]")
                 st.code("DELETE FROM hosp_info.newtable\nWHERE provider_id = 1015;\n\nSELECT * FROM hosp_info.newtable") 
+
