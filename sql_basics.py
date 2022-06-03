@@ -22,7 +22,12 @@ def app():
     with col1:
         with st.form(key='query1', clear_on_submit = True):
                 st.write("Return all hospitals in California [SELECT]")
-                st.code("SELECT hospital_name, city \nFROM hosp_info.hospital_general_information \nLIMIT 10")
+                st.write("SELECT hospital_name, city \nFROM hosp_info.hospital_general_information \nLIMIT 10")
+                sql = """SELECT hospital_name, city 
+                FROM hosp_info.hospital_general_information 
+                LIMIT 10"""
+                query_job = client.query(sql)
+                query_job = query_job.result()
                 submit_code = st.form_submit_button("Execute") 
             
     if submit_code:
