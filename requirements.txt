@@ -47,6 +47,7 @@ protobuf==4.21.1
 pyarrow==8.0.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
+pycairo==1.16.2
 pycups==1.9.73
 Pygments==2.3.1
 PyGObject==3.36.0
