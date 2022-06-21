@@ -10,7 +10,7 @@ import about
 import sql_basics
 import sql_advanced
 import sql_functions
-#import sql_string_functions
+import sql_string_functions
 #import sql_window_functions
 #import python
 import references
@@ -23,7 +23,7 @@ PAGES = {
     "SQL - Basics": sql_basics,
     "SQL - Advanced": sql_advanced,
     "SQL - Functions": sql_functions,
-    #"SQL - String Functions": sql_string_functions,
+    "SQL - String Functions": sql_string_functions,
     #"SQL- Window Functions": sql_window_functions,
     #"Python": python,
     "References": references,
