@@ -12,7 +12,7 @@ credentials = service_account.Credentials.from_service_account_info(
     st.secrets["gcp_service_account"]
 )
 client = bigquery.Client(credentials=credentials)
-project_id = 'web-app-341703'
+#project_id = 'web-app-341703'
 
 def app():
     st.subheader('SQL - Basics')
@@ -32,7 +32,7 @@ def app():
 
         with open('queries/basic/SELECT.sql') as f:
                 contents = f.read()
-                df = pandas_gbq.read_gbq(contents, project_id)
+                df = pandas_gbq.read_gbq(contents)
                 st.table(df)
 
     with col2:
@@ -54,7 +54,7 @@ def app():
 
         with open('queries/basic/WHERE.sql') as f:
                 contents = f.read()
-                df = pandas_gbq.read_gbq(contents, project_id)
+                df = pandas_gbq.read_gbq(contents)
                 st.table(df)
 
     with col2:
@@ -76,7 +76,7 @@ def app():
 
         with open('queries/basic/AND.sql') as f:
                 contents = f.read()
-                df = pandas_gbq.read_gbq(contents, project_id)
+                df = pandas_gbq.read_gbq(contents)
                 st.write(df)
 
     with col2:
@@ -98,7 +98,7 @@ def app():
 
         with open('queries/basic/OR.sql') as f:
                 contents = f.read()
-                df = pandas_gbq.read_gbq(contents, project_id)
+                df = pandas_gbq.read_gbq(contents)
                 st.table(df)
 
     with col2:
@@ -120,7 +120,7 @@ def app():
 
         with open('queries/basic/ORDER_BY_and_ASC.sql') as f:
                 contents = f.read()
-                df = pandas_gbq.read_gbq(contents, project_id)
+                df = pandas_gbq.read_gbq(contents)
                 st.table(df)
 
     with col2:
@@ -142,7 +142,7 @@ def app():
 
         with open('queries/basic/DISTINCT.sql') as f:
                 contents = f.read()
-                df = pandas_gbq.read_gbq(contents, project_id)
+                df = pandas_gbq.read_gbq(contents)
                 st.table(df)
 
     with col2:
@@ -167,7 +167,7 @@ def app():
     if submit_code:
         with open('queries/basic/IS_NOT_NULL.sql') as f:
             contents = f.read()
-            df = pandas_gbq.read_gbq(contents, project_id)
+            df = pandas_gbq.read_gbq(contents)
 
         with col3:
             st.table(df)
