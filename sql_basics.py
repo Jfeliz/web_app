@@ -9,7 +9,7 @@ from PIL import Image
 
 #read credentails for BigQuery access
 credentials = service_account.Credentials.from_service_account_info(
-    st.secrets["gcp_service_account"]
+    st.secrets["secrets.toml"]
 )
 client = bigquery.Client(credentials=credentials)
 #project_id = 'web-app-341703'
