@@ -6,8 +6,10 @@ import streamlit as st
 from google.cloud import bigquery
 from google.oauth2 import service_account
 
+SCOPE = "https://www.googleapis.com/auth/userinfo.email"
+
 credentials = service_account.Credentials.from_service_account_info(
-    st.secrets["gcp_service_account"]
+    st.secrets["gcp_service_account"], scopes=[SCOPE},
 )
 client = bigquery.Client(credentials=credentials)
 
