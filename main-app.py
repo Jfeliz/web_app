@@ -6,19 +6,11 @@ import streamlit as st
 from google.cloud import bigquery
 from google.oauth2 import service_account
 
-login_info = oauth.login(
-        client_id=client_id,
-        client_secret=client_secret,
-        redirect_uri=redirect_uri,
-        login_button_text="Continue with Google",
-        logout_button_text="Logout",
-    )
-
-if login_info:
-        user_id, user_email = login_info
-        st.write(f"Welcome {user_email}")
-else:
-        st.write("Please login")
+credentials = service_account.Credentials.from_service_account_info(
+    st.secrets["gcp_service_account"]
+)
+client = bigquery.Client(credentials=credentials)
+project_id = 'web-app-341703'
 
 st.set_page_config(layout="wide") # can only be used once and must be the first line
 
