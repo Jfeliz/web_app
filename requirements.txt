@@ -110,7 +110,6 @@ sniffio==1.2.0
 soupsieve==2.3.2.post1
 stack-data==0.2.0
 streamlit==1.10.0
-streamlit-google-oauth @ git+https://github.com/hunkim/streamlit-google-oauth@f6e1fc37be9cdc102d2146e69e6322084864d385
 terminado==0.15.0
 tinycss2==1.1.1
 toml==0.10.2
