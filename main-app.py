@@ -7,10 +7,9 @@ from google.cloud import bigquery
 from google.oauth2 import service_account
 
 credentials = service_account.Credentials.from_service_account_info(
-    st.secrets["gcp_service_account"]
+    st.secrets["[gcp_service_account]"]
 )
 client = bigquery.Client(credentials=credentials)
-project_id = 'web-app-341703'
 
 st.set_page_config(layout="wide") # can only be used once and must be the first line
 
