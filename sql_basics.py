@@ -2,17 +2,15 @@
 
 # import libraries
 import streamlit as st
-import pandas_gbq
 from google.cloud import bigquery
 from google.oauth2 import service_account
 from PIL import Image
+impprt pandas as pd
 
 #read credentails for BigQuery access
 credentials = service_account.Credentials.from_service_account_info(
     st.secrets["gcp_service_account"]
 )
-client = bigquery.Client(credentials=credentials)
-#project_id = 'web-app-341703'
 
 def app():
     st.subheader('SQL - Basics')
@@ -32,7 +30,7 @@ def app():
 
         with open('queries/basic/SELECT.sql') as f:
                 contents = f.read()
-                df = pandas_gbq.read_gbq(contents)
+                df = pd.read_gbq(contents, project_id = 'web-app-341703')
                 st.table(df)
 
     with col2:
