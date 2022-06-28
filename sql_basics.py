@@ -6,6 +6,7 @@ from google.cloud import bigquery
 from google.oauth2 import service_account
 from PIL import Image
 import pandas as pd
+import pandas_gbq
 
 #read credentails for BigQuery access
 credentials = service_account.Credentials.from_service_account_info(
