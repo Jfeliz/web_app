@@ -33,7 +33,7 @@ def app():
 
         with open('queries/functions/MAX.sql') as f:
                 contents = f.read()
-                df = pandas_gbq.read_gbq(contents, project_id)
+                df = pandas_gbq.read_gbq(contents, project_id, credentials=credentials)
                 st.table(df)
 
     with col2:
@@ -55,7 +55,7 @@ def app():
 
         with open('queries/functions/COUNT.sql') as f:
                 contents = f.read()
-                df = pandas_gbq.read_gbq(contents, project_id)
+                df = pandas_gbq.read_gbq(contents, project_id, credentials=credentials)
                 st.table(df)
 
     with col2:
@@ -77,7 +77,7 @@ def app():
 
         with open('queries/functions/LENGTH.sql') as f:
                 contents = f.read()
-                df = pandas_gbq.read_gbq(contents, project_id)
+                df = pandas_gbq.read_gbq(contents, project_id, credentials=credentials)
                 st.table(df)
  
     with col2:
@@ -99,7 +99,7 @@ def app():
 
         with open('queries/functions/MIN.sql') as f:
                 contents = f.read()
-                df = pandas_gbq.read_gbq(contents, project_id)
+                df = pandas_gbq.read_gbq(contents, project_id, credentials=credentials)
                 st.table(df)
 
     with col2:
@@ -121,7 +121,7 @@ def app():
 
         with open('queries/functions/SUM.sql') as f:
                 contents = f.read()
-                df = pandas_gbq.read_gbq(contents, project_id)
+                df = pandas_gbq.read_gbq(contents, project_id, credentials=credentials)
                 st.table(df)
  
     with col2:
@@ -143,7 +143,7 @@ def app():
 
         with open('queries/functions/ROUND.sql') as f:
                 contents = f.read()
-                df = pandas_gbq.read_gbq(contents, project_id)
+                df = pandas_gbq.read_gbq(contents, project_id, credentials=credentials)
                 st.table(df)
 
     with col2:
@@ -165,7 +165,7 @@ def app():
 
         with open('queries/functions/GROUPBY.sql') as f:
                 contents = f.read()
-                df = pandas_gbq.read_gbq(contents, project_id)
+                df = pandas_gbq.read_gbq(contents, project_id, credentials=credentials)
                 st.table(df)
 
     with col2:
@@ -187,7 +187,7 @@ def app():
 
         with open('queries/functions/AVG.sql') as f:
                 contents = f.read()
-                df = pandas_gbq.read_gbq(contents, project_id)
+                df = pandas_gbq.read_gbq(contents, project_id, credentials=credentials)
                 st.table(df)
 
     with col2:
@@ -208,7 +208,7 @@ def app():
 
         with open('queries/functions//HAVING.sql') as f:
                 contents = f.read()
-                df = pandas_gbq.read_gbq(contents, project_id)
+                df = pandas_gbq.read_gbq(contents, project_id, credentials=credentials)
                 st.table(df)
                 #st.write(df)
 
