@@ -53,7 +53,7 @@ def app():
 
         with open('queries/basic/WHERE.sql') as f:
                 contents = f.read()
-                df = pandas_gbq.read_gbq(contents)
+                df = pd.read_gbq(contents, project_id = 'web-app-341703')
                 st.table(df)
 
     with col2:
@@ -75,7 +75,7 @@ def app():
 
         with open('queries/basic/AND.sql') as f:
                 contents = f.read()
-                df = pandas_gbq.read_gbq(contents)
+                df = pd.read_gbq(contents, project_id = 'web-app-341703')
                 st.write(df)
 
     with col2:
@@ -97,7 +97,7 @@ def app():
 
         with open('queries/basic/OR.sql') as f:
                 contents = f.read()
-                df = pandas_gbq.read_gbq(contents)
+                df = pd.read_gbq(contents, project_id = 'web-app-341703')
                 st.table(df)
 
     with col2:
@@ -119,7 +119,7 @@ def app():
 
         with open('queries/basic/ORDER_BY_and_ASC.sql') as f:
                 contents = f.read()
-                df = pandas_gbq.read_gbq(contents)
+                df = pd.read_gbq(contents, project_id = 'web-app-341703')
                 st.table(df)
 
     with col2:
@@ -141,7 +141,7 @@ def app():
 
         with open('queries/basic/DISTINCT.sql') as f:
                 contents = f.read()
-                df = pandas_gbq.read_gbq(contents)
+                df = pd.read_gbq(contents, project_id = 'web-app-341703')
                 st.table(df)
 
     with col2:
@@ -166,7 +166,7 @@ def app():
     if submit_code:
         with open('queries/basic/IS_NOT_NULL.sql') as f:
             contents = f.read()
-            df = pandas_gbq.read_gbq(contents)
+            df = pd.read_gbq(contents, project_id = 'web-app-341703')
 
         with col3:
             st.table(df)
