@@ -5,7 +5,7 @@ import streamlit as st
 from google.cloud import bigquery
 from google.oauth2 import service_account
 from PIL import Image
-impprt pandas as pd
+import pandas as pd
 
 #read credentails for BigQuery access
 credentials = service_account.Credentials.from_service_account_info(
