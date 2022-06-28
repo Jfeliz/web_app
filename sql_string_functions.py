@@ -56,7 +56,7 @@ def app():
 
         with open('queries/string_functions/CONCAT.sql') as f:
             contents = f.read()
-            df = pandas_gbq.read_gbq(contents, project_id)
+            df = pandas_gbq.read_gbq(contents, project_id, credentials=credentials)
                
         with col3:
             st.table(df)
@@ -82,7 +82,7 @@ def app():
 
         with open('queries/string_functions/SUBSTR.sql') as f:
             contents = f.read()
-            df = pandas_gbq.read_gbq(contents, project_id)
+            df = pandas_gbq.read_gbq(contents, project_id, credentials=credentials)
             
    
         with col3:
@@ -112,7 +112,7 @@ def app():
 
         with open('queries/string_functions/INSTR.sql') as f:
             contents = f.read()
-            df = pandas_gbq.read_gbq(contents, project_id)
+            df = pandas_gbq.read_gbq(contents, project_id, credentials=credentials)
             
    
         with col3:
@@ -142,7 +142,7 @@ def app():
 
         with open('queries/string_functions/TRIM.sql') as f:
             contents = f.read()
-            df = pandas_gbq.read_gbq(contents, project_id)
+            df = pandas_gbq.read_gbq(contents, project_id, credentials=credentials)
             
    
         with col3:
