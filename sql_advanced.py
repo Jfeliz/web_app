@@ -30,7 +30,7 @@ def app():
 
         with open('queries/advanced/LIMIT.sql') as f:
                 contents = f.read()
-                df = pandas_gbq.read_gbq(contents, project_id)
+                df = pandas_gbq.read_gbq(contents, project_id, credentials=credentials)
                 st.table(df)
 
     with col2:
@@ -52,7 +52,7 @@ def app():
 
         with open('queries/advanced/LIKE.sql') as f:
                 contents = f.read()
-                df = pandas_gbq.read_gbq(contents, project_id)
+                df = pandas_gbq.read_gbq(contents, project_id, credentials=credentials)
                 st.table(df)
 
     with col2:
@@ -75,7 +75,7 @@ def app():
 
         with open('queries/functions/LENGTH.sql') as f:
                 contents = f.read()
-                df = pandas_gbq.read_gbq(contents, project_id)
+                df = pandas_gbq.read_gbq(contents, project_id, credentials=credentials)
                 st.table(df)
 
     with col2:
@@ -97,7 +97,7 @@ def app():
 
         with open('queries/advanced/IN.sql') as f:
                 contents = f.read()
-                df = pandas_gbq.read_gbq(contents, project_id)
+                df = pandas_gbq.read_gbq(contents, project_id, credentials=credentials)
                 st.table(df)
 
     with col2:
@@ -119,7 +119,7 @@ def app():
 
         with open('queries/advanced/BETWEEN.sql') as f:
                 contents = f.read()
-                df = pandas_gbq.read_gbq(contents, project_id)
+                df = pandas_gbq.read_gbq(contents, project_id, credentials=credentials)
                 st.table(df)
 
     with col2:
@@ -141,7 +141,7 @@ def app():
 
         with open('queries/advanced/WILDCARDS.sql') as f:
                 contents = f.read()
-                df = pandas_gbq.read_gbq(contents, project_id)
+                df = pandas_gbq.read_gbq(contents, project_id, credentials=credentials)
                 st.table(df)
 
     with col2:
@@ -164,7 +164,7 @@ def app():
 
         with open('queries/advanced/WITH_INTERSECT.sql') as f:
                 contents = f.read()
-                df = pandas_gbq.read_gbq(contents, project_id)
+                df = pandas_gbq.read_gbq(contents, project_id, credentials=credentials)
                 st.table(df)
 
     with col2:
@@ -186,7 +186,7 @@ def app():
 
         with open('queries/advanced/INNER_JOIN.sql') as f:
                 contents = f.read()
-                df = pandas_gbq.read_gbq(contents, project_id)
+                df = pandas_gbq.read_gbq(contents, project_id, credentials=credentials)
                 st.table(df)
 
     with col2:
@@ -208,7 +208,7 @@ def app():
 
         with open('queries/advanced/RIGHT_JOIN.sql') as f:
                 contents = f.read()
-                df = pandas_gbq.read_gbq(contents, project_id)
+                df = pandas_gbq.read_gbq(contents, project_id, credentials=credentials)
                 st.table(df)
 
     with col2:
@@ -231,7 +231,7 @@ def app():
 
         with open('queries/advanced/LEFT_JOIN.sql') as f:
                 contents = f.read()
-                df = pandas_gbq.read_gbq(contents, project_id)
+                df = pandas_gbq.read_gbq(contents, project_id, credentials=credentials)
                 st.table(df)
 
     with col2:
@@ -253,7 +253,7 @@ def app():
 
         with open('queries/advanced/CROSS_JOIN.sql') as f:
                 contents = f.read()
-                df = pandas_gbq.read_gbq(contents, project_id)
+                df = pandas_gbq.read_gbq(contents, project_id, credentials=credentials)
                 st.table(df)
 
     with col2:
@@ -275,7 +275,7 @@ def app():
 
         with open('queries/advanced/UNION_ALL.sql') as f:
                 contents = f.read()
-                df = pandas_gbq.read_gbq(contents, project_id)
+                df = pandas_gbq.read_gbq(contents, project_id, credentials=credentials)
                 st.table(df)
 
     with col2:
@@ -297,7 +297,7 @@ def app():
 
         with open('queries/advanced/WHERE_EXISTS.sql') as f:
                 contents = f.read()
-                df = pandas_gbq.read_gbq(contents, project_id)
+                df = pandas_gbq.read_gbq(contents, project_id, credentials=credentials)
                 st.table(df)
                 #st.write(df)
 
@@ -320,7 +320,7 @@ def app():
 
         with open('queries/advanced/CASE.sql') as f:
                 contents = f.read()
-                df = pandas_gbq.read_gbq(contents, project_id)
+                df = pandas_gbq.read_gbq(contents, project_id, credentials=credentials)
                 st.table(df)
                 #st.write(df)
 
@@ -343,7 +343,7 @@ def app():
 
         with open('queries/advanced/SUBQUERY_SELECT.sql') as f:
                 contents = f.read()
-                df = pandas_gbq.read_gbq(contents, project_id)
+                df = pandas_gbq.read_gbq(contents, project_id, credentials=credentials)
                 st.table(df)
                 #st.write(df)
 
@@ -367,7 +367,7 @@ def app():
 
         with open('queries/advanced/SUBQUERY_FROM.sql') as f:
                 contents = f.read()
-                df = pandas_gbq.read_gbq(contents, project_id)
+                df = pandas_gbq.read_gbq(contents, project_id, credentials=credentials)
                 st.table(df)
                 #st.write(df)
 
@@ -390,7 +390,7 @@ def app():
 
         with open('queries/advanced/SUBQUERY_WHERE.sql') as f:
                 contents = f.read()
-                df = pandas_gbq.read_gbq(contents, project_id)
+                df = pandas_gbq.read_gbq(contents, project_id, credentials=credentials)
                 st.table(df)
                 #st.write(df)
 
