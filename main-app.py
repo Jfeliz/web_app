@@ -22,7 +22,7 @@ import contact
 
 
 PAGES = {
-    "About": about,
+    #"About": about,
     "SQL - Basics": sql_basics,
     "SQL - Advanced": sql_advanced,
     "SQL - Functions": sql_functions,
