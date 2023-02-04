@@ -8,7 +8,7 @@ from google.oauth2 import service_account
 
 st.set_page_config(layout="wide") # can only be used once and must be the first line
 
-import about
+#import about
 import sql_basics
 import sql_advanced
 import sql_functions
