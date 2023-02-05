@@ -11,7 +11,4 @@ def app():
     st.write("There are instances where some syntax would be difficult to execute, such as ALTER or UPDATE, with permissions to consider for each viewer or trying to recreate a table each time as reasons to avoid.\n")
     st.write("In these cases I chose to display the table as it was before, the query to perform, and then the results. I also include what the query is supposed to\n")
     st.write("do as well as the syntax in code form.")
-    st.markdown("\n")
-    st.markdown("\n")
-    st.write("Window Functions are to be presented soon.")
-    
+       
