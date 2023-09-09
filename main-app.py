@@ -14,8 +14,6 @@ import sql_advanced
 import sql_functions
 import sql_string_functions
 import sql_window_functions
-#import other_sql_
-#import python
 import references
 import contact
 
