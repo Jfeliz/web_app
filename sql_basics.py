@@ -156,7 +156,7 @@ def app():
         col1, col2, col3 = st.columns([3,3,3])
     
     with col1:
-            st.write("Filter NULL values for the score for each measure_name. [IS NOT NULL]")
+            st.write("Filter NULL values for the score for each measure name. [IS NOT NULL]")
             image = Image.open('images/is_not_null_before.png')
             st.image(image, caption='Before')
          
