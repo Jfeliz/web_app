@@ -25,9 +25,9 @@ def app():
     #------Query1------
     with col1:
         with st.form(key='query1', clear_on_submit = True):
-                st.write("Return all hospitals but limit to ten. [SELECT]")
+                st.write("Return all hospitals in the state of California. [SELECT]")
                 st.code("SELECT hospital_name, city \nFROM hosp_info.hospital_general_information \nLIMIT 10")
-                submit_code = st.formt limo_submit_button("Execute") 
+                submit_code = st.form_submit_button("Execute") 
             
     if submit_code:
 
@@ -47,7 +47,7 @@ def app():
    
     with col1:
         with st.form(key='query2', clear_on_submit = True):
-                st.write("Return all hospitals in the state of California. [WHERE]")
+                st.write("Return all hospitals where the state is CA. [WHERE]")
                 st.code("SELECT hospital_name, city, state, county_name, hospital_type, hospital_ownership FROM hosp_info.hospital_general_information \nWHERE state = 'CA'")
                 submit_code = st.form_submit_button("Execute") 
             
@@ -69,7 +69,7 @@ def app():
    
     with col1:
         with st.form(key='query3', clear_on_submit = True):
-                st.write("Return all hospitals in the city of Orlando, Florida and are Acute Care Hospitals. [AND]")
+                st.write("Return all hospitals in the city of Orlando, Florida that are Acute Care Hospitals. [AND]")
                 st.code("SSELECT hospital_name, state, hospital_type\nFROM hosp_info.hospital_general_information \nWHERE state='FL' AND hospital_type = 'Acute Care Hospitals'")
                 submit_code = st.form_submit_button("Execute") 
             
@@ -91,7 +91,7 @@ def app():
     
     with col1:
         with st.form(key='query4', clear_on_submit = True):
-                st.write("Return all hospitals in the state of California or Colorado and are Acute Care VA Hospitals. [OR]")
+                st.write("Return all hospitals in the state of CA or CO and are Acute Care VA Hospitals. [OR]")
                 st.code("SELECT hospital_name, city, state, county_name, hospital_type, hospital_ownership \nROM hosp_info.hospital_general_information \nWHERE (state='CA' OR state='CO') AND hospital_type='ACUTE CARE - VETERANS ADMINISTRATION'")
                 submit_code = st.form_submit_button("Execute") 
             
@@ -136,7 +136,7 @@ def app():
     with col1:
         with st.form(key='query6', clear_on_submit = True):
                 st.write("Return unique infection measure names. [DISTINCT]")
-                st.code("SELECT DISTINCT(measure_name) \nFROM hosp_info.hospital_associated_infection")
+                st.code("SELECT DISTINCT(measure_name), hospital_name \nFROM hosp_info.hospital_associated_infection")
                 submit_code = st.form_submit_button("Execute") 
             
     if submit_code:
@@ -156,7 +156,7 @@ def app():
         col1, col2, col3 = st.columns([3,3,3])
     
     with col1:
-            st.write("Filter NULL values for the score for each measure name. [IS NOT NULL]")
+            st.write("Filter NULL values for the score for measure_name. [IS NOT NULL]")
             image = Image.open('images/is_not_null_before.png')
             st.image(image, caption='Before')
          
