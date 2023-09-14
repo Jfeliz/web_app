@@ -92,7 +92,7 @@ def app():
     with col1:
         with st.form(key='query4', clear_on_submit = True):
                 st.write("Return all hospitals in the state of CA or CO and are Acute Care VA Hospitals. [OR]")
-                st.code("SELECT hospital_name, city, state, county_name, hospital_type, hospital_ownership \nROM hosp_info.hospital_general_information \nWHERE (state='CA' OR state='CO') AND hospital_type='ACUTE CARE - VETERANS ADMINISTRATION'")
+                st.code("SELECT hospital_name, city, state, county_name, hospital_type, hospital_ownership \nFROM hosp_info.hospital_general_information \nWHERE (state='CA' OR state='CO') AND hospital_type='ACUTE CARE - VETERANS ADMINISTRATION'")
                 submit_code = st.form_submit_button("Execute") 
             
     if submit_code:
@@ -113,8 +113,8 @@ def app():
     
     with col1:
         with st.form(key='query5', clear_on_submit = True):
-                st.write("Return all hospitals by city and state ordered by state and ascending. [ORDER BY and ASC]")
-                st.code("SELECT hospital_name, city, state \nFROM hosp_info.hospital_general_information ORDER BY state ASC\nLIMIT 25")
+                st.write("Return all hospitals by city and state ordered by state and ascending, but limit to 25. [ORDER BY and ASC]")
+                st.code("SELECT hospital_name, city, state \nFROM hosp_info.hospital_general_information ORDER BY state ASC \nLIMIT 25")
                 submit_code = st.form_submit_button("Execute") 
             
     if submit_code:
