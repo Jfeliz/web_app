@@ -70,7 +70,7 @@ def app():
     with col1:
         with st.form(key='query3', clear_on_submit = True):
                 st.write("Return all hospitals in the city of Orlando, Florida that are Acute Care Hospitals. [AND]")
-                st.code("SSELECT hospital_name, state, hospital_type\nFROM hosp_info.hospital_general_information \nWHERE state='FL' AND hospital_type = 'Acute Care Hospitals'")
+                st.code("SELECT hospital_name, state, hospital_type \nFROM hosp_info.hospital_general_information \nWHERE state='FL' AND hospital_type = 'Acute Care Hospitals'")
                 submit_code = st.form_submit_button("Execute") 
             
     if submit_code:
