@@ -25,7 +25,7 @@ def app():
     #------Query1------
     with col1:
         with st.form(key='query1', clear_on_submit = True):
-                st.write("Return all hospitals in the state of California. [SELECT]")
+                st.write("Return list of hospitals and the cities they reside, but limit to 10. [SELECT]")
                 st.code("SELECT hospital_name, city \nFROM hosp_info.hospital_general_information \nLIMIT 10")
                 submit_code = st.form_submit_button("Execute") 
             
