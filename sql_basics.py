@@ -48,7 +48,7 @@ def app():
     with col1:
         with st.form(key='query2', clear_on_submit = True):
                 st.write("Return all hospitals where the state is CA. [WHERE]")
-                st.code("SELECT hospital_name, city, state, county_name, hospital_type, hospital_ownership FROM hosp_info.hospital_general_information \nWHERE state = 'CA'")
+                st.code("SELECT hospital_name, city, state, county_name, hospital_type, hospital_ownership \nFROM hosp_info.hospital_general_information \nWHERE state = 'CA'")
                 submit_code = st.form_submit_button("Execute") 
             
     if submit_code:
