@@ -162,7 +162,7 @@ def app():
          
     with col2:
         with st.form(key='query7', clear_on_submit = True):
-             st.code("SELECT measure_name, score \nFROM hosp_info.hospital_associated_infection \nWHERE score IS NOT NULL, LIMIT '10' ")
+             st.code("SELECT measure_name, score \nFROM hosp_info.hospital_associated_infection \nWHERE score IS NOT NULL \nLIMIT 10")
              submit_code = st.form_submit_button("Execute") 
             
     if submit_code:
