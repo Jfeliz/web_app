@@ -136,7 +136,7 @@ def app():
     with col1:
         with st.form(key='query5', clear_on_submit = True):
                 st.write("Return unique infection measure names. [DISTINCT]")
-                st.code("SELECT DISTINCT(measure_name), hospital_name  \nFROM hosp_info.hospital_associated_infection")
+                st.code("SELECT DISTINCT(measure_name) \nFROM hosp_info.hospital_associated_infection")
                 submit_code = st.form_submit_button("Execute") 
             
     if submit_code:
