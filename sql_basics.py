@@ -128,13 +128,13 @@ def app():
             # this line is a shortcut to clicking the hamburger menu to refresh
                 st.button(key='Refresh5', label='Refresh screen')
 
-    #------Query5a------
+     #------Query6------
     with st.container():
 
         col1, col2 = st.columns([5,1])
     
     with col1:
-        with st.form(key='query5', clear_on_submit = True):
+        with st.form(key='query6', clear_on_submit = True):
                 st.write("Return unique infection measure names. [DISTINCT]")
                 st.code("SELECT DISTINCT(measure_name) \nFROM hosp_info.hospital_associated_infection")
                 submit_code = st.form_submit_button("Execute") 
@@ -143,30 +143,7 @@ def app():
 
         with open('queries/basic/DISTINCT.sql') as f:
                 contents = f.read()
-                df = pandas_gbq.read_gbq(contents, project_id, credentials=credentials)
-                st.table(df)
-
-    with col2:
-            # this line is a shortcut to clicking the hamburger menu to refresh
-                st.button(key='Refresh5a', label='Refresh screen')
-        
-
-    #------Query6------
-    with st.container():
-
-        col1, col2 = st.columns([5,1])
-    
-    with col1:
-        with st.form(key='query6', clear_on_submit = True):
-                st.write("Return unique infection measure names. [DISTINCT]")
-                st.code("SELECT DISTINCT(measure_name), hospital_name \nFROM hosp_info.hospital_associated_infection")
-                submit_code = st.form_submit_button("Execute") 
-            
-    if submit_code:
-
-        with open('queries/basic/DISTINCT.sql') as f:
-                contents = f.read()
-                df = pandas_gbq.read_gbq(contents, project_id, credentials=credentials)
+                df = pandas_gbq.read_gbq(contents, project_id, credeesntials=credentials)
                 st.table(df)
 
     with col2:
