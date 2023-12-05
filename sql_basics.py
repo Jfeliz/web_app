@@ -1,4 +1,4 @@
-#sql_basics.py
+sql_basics.py
 
 # import libraries
 import streamlit as st
@@ -25,7 +25,7 @@ def app():
     #------Query1------
     with col1:
         with st.form(key='query1', clear_on_submit = True):
-                st.write("Return list of hospitals and the cities they reside, but limit to 10. [SELECT]")
+                st.write("Return all hospitals in the state of California. [SELECT]")
                 st.code("SELECT hospital_name, city \nFROM hosp_info.hospital_general_information \nLIMIT 10")
                 submit_code = st.form_submit_button("Execute") 
             
@@ -48,7 +48,7 @@ def app():
     with col1:
         with st.form(key='query2', clear_on_submit = True):
                 st.write("Return all hospitals where the state is CA. [WHERE]")
-                st.code("SELECT hospital_name, city, state, county_name, hospital_type, hospital_ownership \nFROM hosp_info.hospital_general_information \nWHERE state = 'CA'")
+                st.code("SELECT hospital_name, city, state, county_name, hospital_type, hospital_ownership FROM hosp_info.hospital_general_information \nWHERE state = 'CA'")
                 submit_code = st.form_submit_button("Execute") 
             
     if submit_code:
@@ -70,7 +70,7 @@ def app():
     with col1:
         with st.form(key='query3', clear_on_submit = True):
                 st.write("Return all hospitals in the city of Orlando, Florida that are Acute Care Hospitals. [AND]")
-                st.code("SELECT hospital_name, state, hospital_type \nFROM hosp_info.hospital_general_information \nWHERE state='FL' AND hospital_type = 'Acute Care Hospitals'")
+                st.code("SSELECT hospital_name, state, hospital_type\nFROM hosp_info.hospital_general_information \nWHERE state='FL' AND hospital_type = 'Acute Care Hospitals'")
                 submit_code = st.form_submit_button("Execute") 
             
     if submit_code:
@@ -92,7 +92,7 @@ def app():
     with col1:
         with st.form(key='query4', clear_on_submit = True):
                 st.write("Return all hospitals in the state of CA or CO and are Acute Care VA Hospitals. [OR]")
-                st.code("SELECT hospital_name, city, state, county_name, hospital_type, hospital_ownership \nFROM hosp_info.hospital_general_information \nWHERE (state='CA' OR state='CO') AND hospital_type='ACUTE CARE - VETERANS ADMINISTRATION'")
+                st.code("SELECT hospital_name, city, state, county_name, hospital_type, hospital_ownership \nROM hosp_info.hospital_general_information \nWHERE (state='CA' OR state='CO') AND hospital_type='ACUTE CARE - VETERANS ADMINISTRATION'")
                 submit_code = st.form_submit_button("Execute") 
             
     if submit_code:
@@ -113,8 +113,8 @@ def app():
     
     with col1:
         with st.form(key='query5', clear_on_submit = True):
-                st.write("Return all hospitals by city and state ordered by state and ascending, but limit to 25. [ORDER BY and ASC]")
-                st.code("SELECT hospital_name, city, state \nFROM hosp_info.hospital_general_information ORDER BY state ASC \nLIMIT 25")
+                st.write("Return all hospitals by city and state ordered by state and ascending. [ORDER BY and ASC]")
+                st.code("SELECT hospital_name, city, state \nFROM hosp_info.hospital_general_information ORDER BY state ASC\nLIMIT 25")
                 submit_code = st.form_submit_button("Execute") 
             
     if submit_code:
@@ -128,15 +128,15 @@ def app():
             # this line is a shortcut to clicking the hamburger menu to refresh
                 st.button(key='Refresh5', label='Refresh screen')
 
-     #------Query6------
-   with st.container():
+    #------Query6------
+    with st.container():
 
         col1, col2 = st.columns([5,1])
     
     with col1:
         with st.form(key='query6', clear_on_submit = True):
                 st.write("Return unique infection measure names. [DISTINCT]")
-                st.code("SELECT DISTINCT(measure_name) \nFROM hosp_info.hospital_associated_infection")
+                st.code("SELECT DISTINCT(measure_name), hospital_name \nFROM hosp_info.hospital_associated_infection")
                 submit_code = st.form_submit_button("Execute") 
             
     if submit_code:
@@ -162,7 +162,7 @@ def app():
          
     with col2:
         with st.form(key='query7', clear_on_submit = True):
-             st.code("SELECT measure_name, score \nFROM hosp_info.hospital_associated_infection \nWHERE score IS NOT NULL \nLIMIT 10")
+             st.code("SELECT measure_name, score \nFROM hosp_info.hospital_associated_infection \nWHERE score IS NOT NULL, LIMIT '10' ")
              submit_code = st.form_submit_button("Execute") 
             
     if submit_code:
