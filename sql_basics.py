@@ -143,7 +143,7 @@ def app():
 
         with open('queries/basic/DISTINCT.sql') as f:
                 contents = f.read()
-                df = pandas_gbq.read_gbq(contents, project_id, credeesntials=credentials)
+                df = pandas_gbq.read_gbq(contents, project_id, credentials=credentials)
                 st.table(df)
 
     with col2:
