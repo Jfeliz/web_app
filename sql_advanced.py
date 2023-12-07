@@ -336,7 +336,7 @@ def app():
     with col1:
         with st.form(key='<query16', clear_on_submit = True):
                 st.write("The inner query returns the average number of homicides from the measures and deaths table. The outer query returns the hospitals that have those average maximum of homicdes. [SUBQUERY_SELECT and AVG]")
-                st.code("SELECT provider_id, hospital_name, \n  (SELECT AVG(max_homicide) \n   FROM hosp_info.measures_of_birth_and_death) as Avg_Max_Homicides \nFROM hosp_info.hospital_general_information")
+                st.code("SELECT provider_id, hospital_name, \n  (SELECT AVG(max_homicide) \n   FROM hosp_info.measures_of_birth_and_death) AS Avg_Max_Homicides \nFROM hosp_info.hospital_general_information")
                 submit_code = st.form_submit_button("Execute") 
             
     if submit_code:
