@@ -1,4 +1,4 @@
-sql_basics.py
+#sql_basics.py
 
 # import libraries
 import streamlit as st
