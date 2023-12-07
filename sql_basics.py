@@ -70,7 +70,7 @@ def app():
     with col1:
         with st.form(key='query3', clear_on_submit = True):
                 st.write("Return all hospitals in the city of Orlando, Florida that are Acute Care Hospitals. [AND]")
-                st.code("SSELECT hospital_name, state, hospital_type\nFROM hosp_info.hospital_general_information \nWHERE state='FL' AND hospital_type = 'Acute Care Hospitals'")
+                st.code("SELECT hospital_name, state, hospital_type\nFROM hosp_info.hospital_general_information \nWHERE state='FL' AND hospital_type = 'Acute Care Hospitals'")
                 submit_code = st.form_submit_button("Execute") 
             
     if submit_code:
@@ -114,7 +114,7 @@ def app():
     with col1:
         with st.form(key='query5', clear_on_submit = True):
                 st.write("Return all hospitals by city and state ordered by state and ascending. [ORDER BY and ASC]")
-                st.code("SELECT hospital_name, city, state \nFROM hosp_info.hospital_general_information ORDER BY state ASC\nLIMIT 25")
+                st.code("SELECT hospital_name, city, state \nFROM hosp_info.hospital_general_information \nORDER BY state ASC\nLIMIT 25")
                 submit_code = st.form_submit_button("Execute") 
             
     if submit_code:
@@ -162,7 +162,7 @@ def app():
          
     with col2:
         with st.form(key='query7', clear_on_submit = True):
-             st.code("SELECT measure_name, score \nFROM hosp_info.hospital_associated_infection \nWHERE score IS NOT NULL, LIMIT '10' ")
+             st.code("SELECT measure_name, score \nFROM hosp_info.hospital_associated_infection \nWHERE score IS NOT NULL \nLIMIT '10' ")
              submit_code = st.form_submit_button("Execute") 
             
     if submit_code:
