@@ -26,8 +26,6 @@ PAGES = {
     "SQL - Functions": sql_functions,
     "SQL - String Functions": sql_string_functions,
     "SQL- Window Functions": sql_window_functions,
-    "SQL - Other": sql_other,
-    #"Python": python,
     "References": references,
     "Contact": contact
 }
