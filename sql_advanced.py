@@ -44,7 +44,7 @@ def app():
     
     with col1:
         with st.form(key='query2', clear_on_submit = True):
-                st.write("Return hospital names that contain the letter 'v' in them. [LIKE]")
+                st.write("Return hospital names in states that start with the letter 'A'. [LIKE]")
                 st.code("SELECT hospital_name\nFROM hosp_info.hospital_general_information\nWHERE state LIKE 'A%'\nLIMIT 10")
                 submit_code = st.form_submit_button("Execute") 
             
@@ -68,7 +68,7 @@ def app():
     with col1:
         with st.form(key='query3', clear_on_submit = True):
                 st.write("Return all hospital names and the number of characters in each name. [LENGTH with alias AS]")
-                st.code("SELECT hospital_name, LENGTH(hospital_name) as number_of_characters\nFROM hosp_info.hospital_general_information\nLIMIT 10")
+                st.code("SELECT hospital_name, LENGTH(hospital_name) AS number_of_characters\nFROM hosp_info.hospital_general_information\nLIMIT 10")
                 submit_code = st.form_submit_button("Execute") 
             
     if submit_code:
@@ -90,7 +90,7 @@ def app():
     with col1:
         with st.form(key='query5', clear_on_submit = True):
                 st.write("Return all records where condition was heart failure. [IN]")
-                st.code("SELECT condition\nFROM hosp_info.timely_and_effective_care\nWHERE condition IN\nLIMIT 10 ('Heart Failure')")
+                st.code("SELECT condition\nFROM hosp_info.timely_and_effective_care\nWHERE condition IN ('Heart Failure') \nLIMIT 10 ")
                 submit_code = st.form_submit_button("Execute") 
             
     if submit_code:
@@ -112,7 +112,7 @@ def app():
     with col1:
         with st.form(key='query6', clear_on_submit = True):
                 st.write("Returns the percentage of survey answers between 50 and 90. [BETWEEN]")
-                st.code("SELECT hcahps_question, hcahps_answer_description, hcahps_answer_percent\nFROM hosp_info.hcahps_survey\nWHERE hcahps_answer_percent BETWEEN 50 AND 90\nORDER BY hcahps_answer_percent ASCLIMIT 25")
+                st.code("SELECT hcahps_question, hcahps_answer_description, hcahps_answer_percent\nFROM hosp_info.hcahps_survey\nWHERE hcahps_answer_percent BETWEEN 50 AND 90\nORDER BY hcahps_answer_percent ASC \nLIMIT 25")
                 submit_code = st.form_submit_button("Execute") 
             
     if submit_code:
@@ -268,7 +268,7 @@ def app():
     with col1:
         with st.form(key='query13', clear_on_submit = True):
                 st.write("Returns all average medicare payments for 2011 and 2012. [UNION ALL]")
-                st.code("SELECT average_medicare_payments FROM hosp_info.ipps_2011 \nUNION ALL \nSELECT average_medicare_payments FROM hosp_info.ipps_2012 \nORDER BY average_medicare_payments ASC\LIMIT 25")
+                st.code("SELECT average_medicare_payments FROM hosp_info.ipps_2011 \nUNION ALL \nSELECT average_medicare_payments FROM hosp_info.ipps_2012 \nORDER BY average_medicare_payments ASC \nLIMIT 25")
                 submit_code = st.form_submit_button("Execute") 
             
     if submit_code:
@@ -290,7 +290,7 @@ def app():
     with col1:
         with st.form(key='query14', clear_on_submit = True):
                 st.write("Returns all hospitals with an expected readmission rate of 25 percent or higher. [WHERE EXISTS]")
-                st.code("SELECT hospital_name \nFROM hosp_info.hospital_general_information \nWHERE EXISTS \n    (SELECT expected_readmission_rate\n    FROM hosp_info.readmission_reduction \n    WHERE hospital_general_information.provider_id = readmission_reduction.provider_id AND expected_readmission_rate > 25.0)")
+                st.code("SELECT hospital_name \nFROM hosp_info.hospital_general_information \nWHERE EXISTS \n(SELECT expected_readmission_rate \nFROM hosp_info.readmission_reduction \n    WHERE hospital_general_information.provider_id = readmission_reduction.provider_id AND expected_readmission_rate > 25.0)")
                 submit_code = st.form_submit_button("Execute") 
             
     if submit_code:
